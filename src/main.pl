@@ -1,0 +1,4 @@
+:- [src/menu].
+
+init :-
+    menu.
