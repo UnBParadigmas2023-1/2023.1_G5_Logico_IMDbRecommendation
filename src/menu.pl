@@ -1,6 +1,7 @@
 :- use_module(library(pce)).
 :- [src/ano].
 :- [src/duracao].
+:- [src/genero].
 
 menu:-
     new(Dialog, dialog('IMDb Recommendation')),
@@ -41,7 +42,7 @@ menu_escolha(Option) :-
     ;   Option = 'Duração'
     ->  menu_rec_duracao
     ;   Option = 'Gênero'
-    ->  menu_rec_ano
+    ->  menu_rec_genero
     ;   Option = 'Classificação'
     ->  menu_rec_ano
     ;   Option = 'Diretor'
