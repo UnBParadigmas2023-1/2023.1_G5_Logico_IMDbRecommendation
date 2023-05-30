@@ -1,4 +1,4 @@
-:- [src/menu].
+:- [src/inicio].
 
 init :-
-    menu.
+    principal.
