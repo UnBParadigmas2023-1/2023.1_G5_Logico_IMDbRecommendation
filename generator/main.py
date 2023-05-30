@@ -47,6 +47,14 @@ with open(OUTPUT_PATH, 'w') as f:
         genres = movie['Genre'] or ['Desconhecido']
 
         for genre in genres:
-            movie['Genre'] = genre
             values = [movie[label] for label, _ in MOVIE_FIELDS]
+            values[3] = genre
             f.write(f'filme({", ".join(map(repr, values))}).\n')
+
+    f.write('\n')
+    for director in {movie['Director'] for movie in movies}:
+        f.write(f'diretor({repr(director)}).\n')
+
+    f.write('\n')
+    for genre in {genre for movie in movies for genre in movie['Genre']}:
+        f.write(f'genero({repr(genre)}).\n')

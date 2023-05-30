@@ -2540,3 +2540,574 @@ filme('Lifeboat', 1944, 97, 'War', 7.6, 'Alfred Hitchcock', 'Tallulah Bankhead',
 filme('The 39 Steps', 1935, 86, 'Crime', 7.6, 'Alfred Hitchcock', 'Robert Donat', 'Madeleine Carroll', 'Lucie Mannheim', 'Godfrey Tearle', -1).
 filme('The 39 Steps', 1935, 86, 'Mystery', 7.6, 'Alfred Hitchcock', 'Robert Donat', 'Madeleine Carroll', 'Lucie Mannheim', 'Godfrey Tearle', -1).
 filme('The 39 Steps', 1935, 86, 'Thriller', 7.6, 'Alfred Hitchcock', 'Robert Donat', 'Madeleine Carroll', 'Lucie Mannheim', 'Godfrey Tearle', -1).
+
+diretor('Ernst Lubitsch').
+diretor('Brian De Palma').
+diretor('Amit Ravindernath Sharma').
+diretor('Thomas Kail').
+diretor('Kabir Khan').
+diretor('Boaz Yakin').
+diretor('John Woo').
+diretor('Paul King').
+diretor('Masaki Kobayashi').
+diretor('Aaron Sorkin').
+diretor('Todd Solondz').
+diretor('Lenny Abrahamson').
+diretor('Gore Verbinski').
+diretor('Andrew Lau').
+diretor('Tom Tykwer').
+diretor('Lana Wachowski').
+diretor('Penny Marshall').
+diretor('Richard Curtis').
+diretor('John Cameron Mitchell').
+diretor('S.S. Rajamouli').
+diretor('Alex Proyas').
+diretor('Joseph L. Mankiewicz').
+diretor('Duncan Jones').
+diretor('Yimou Zhang').
+diretor('Joseph Kosinski').
+diretor('Michel Hazanavicius').
+diretor('Otto Preminger').
+diretor('Brad Anderson').
+diretor('Jee-woon Kim').
+diretor('Josh Cooley').
+diretor('Jacques Audiard').
+diretor('Travis Knight').
+diretor('Wolfgang Becker').
+diretor('Danis Tanovic').
+diretor('George Sluizer').
+diretor('Terry Gilliam').
+diretor('Susanne Bier').
+diretor('Wolfgang Petersen').
+diretor('Robert Redford').
+diretor('Robert Clouse').
+diretor('Sanjay Leela Bhansali').
+diretor('Tim Miller').
+diretor('Werner Herzog').
+diretor('Danny Boyle').
+diretor('Harold Ramis').
+diretor('James Wan').
+diretor('Gabriele Muccino').
+diretor('Taika Waititi').
+diretor('Moustapha Akkad').
+diretor('Pierre Morel').
+diretor('Kevin Reynolds').
+diretor('Ronny Yu').
+diretor('Troy Duffy').
+diretor('Karan Johar').
+diretor('Lasse Hallström').
+diretor('David Ayer').
+diretor('Wolfgang Reitherman').
+diretor('Francis Veber').
+diretor('Sidney Lumet').
+diretor('Oriol Paulo').
+diretor('Joseph Sargent').
+diretor('Jeethu Joseph').
+diretor('Yilmaz Erdogan').
+diretor('Hong-jin Na').
+diretor('Kenneth Branagh').
+diretor('Blake Edwards').
+diretor('Céline Sciamma').
+diretor('Bernardo Bertolucci').
+diretor('John Hughes').
+diretor('Abhishek Kapoor').
+diretor('Gregory Hoblit').
+diretor('Yasujirô Ozu').
+diretor('Paolo Genovese').
+diretor('Cary Joji Fukunaga').
+diretor('Charles Vidor').
+diretor('Steve McQueen').
+diretor('Orson Welles').
+diretor('Bob Fosse').
+diretor('Thomas Jahn').
+diretor('Tyler Nilson').
+diretor('Michel Gondry').
+diretor('Kevin Altieri').
+diretor('Tom Hooper').
+diretor('Stephen Daldry').
+diretor('Krzysztof Kieslowski').
+diretor('Elia Kazan').
+diretor('Stanley Donen').
+diretor('Priyadarshan').
+diretor('Rajkumar Santoshi').
+diretor('James Mangold').
+diretor('Mel Gibson').
+diretor('Christopher Nolan').
+diretor('Niels Arden Oplev').
+diretor('Jim Jarmusch').
+diretor('Terry Jones').
+diretor('Xavier Dolan').
+diretor('David O. Russell').
+diretor('François Truffaut').
+diretor('Olivier Nakache').
+diretor('Imtiaz Ali').
+diretor('Peter Farrelly').
+diretor('Nikkhil Advani').
+diretor('Tigmanshu Dhulia').
+diretor('William Friedkin').
+diretor('Jim Sheridan').
+diretor('Nadine Labaki').
+diretor('John Frankenheimer').
+diretor('Bob Gale').
+diretor('Merian C. Cooper').
+diretor('Bob Persichetti').
+diretor('Guillermo del Toro').
+diretor('Anders Thomas Jensen').
+diretor('Mel Stuart').
+diretor('Juan José Campanella').
+diretor('David Fincher').
+diretor('Yoshifumi Kondô').
+diretor('Sergei M. Eisenstein').
+diretor('Henry Selick').
+diretor('James Foley').
+diretor('Matthew Warchus').
+diretor('Bruce Robinson').
+diretor('Lee Unkrich').
+diretor('John G. Avildsen').
+diretor('David Leitch').
+diretor('Paul Haggis').
+diretor('W.S. Van Dyke').
+diretor('Umesh Shukla').
+diretor('Raoul Walsh').
+diretor('Billy Bob Thornton').
+diretor('Spike Jonze').
+diretor('Richard Marquand').
+diretor('José Padilha').
+diretor('Franklin J. Schaffner').
+diretor('Tomas Alfredson').
+diretor('Mark Rydell').
+diretor('Ted Demme').
+diretor('Alan Parker').
+diretor('Aamir Khan').
+diretor('Anurag Kashyap').
+diretor('Sofia Coppola').
+diretor('Roberto Benigni').
+diretor('Mike Newell').
+diretor('Hal Ashby').
+diretor('Luis Buñuel').
+diretor('Rian Johnson').
+diretor('Roger Allers').
+diretor('George P. Cosmatos').
+diretor('Robert Stevenson').
+diretor('Stuart Rosenberg').
+diretor('Bob Clark').
+diretor('Rich Moore').
+diretor('Dorota Kobiela').
+diretor('Tod Browning').
+diretor('René Laloux').
+diretor('J. Lee Thompson').
+diretor('Vittorio De Sica').
+diretor('Andrey Zvyagintsev').
+diretor('Yash Chopra').
+diretor('David Lean').
+diretor('Kevin Macdonald').
+diretor('James Simone').
+diretor('Tom McCarthy').
+diretor('Levent Semerci').
+diretor('Robert Benton').
+diretor('Matt Reeves').
+diretor('Bradley Cooper').
+diretor('Rakeysh Omprakash Mehra').
+diretor('Don Hall').
+diretor('Sylvain Chomet').
+diretor('Hrishikesh Mukherjee').
+diretor('James Ivory').
+diretor('Peter Mullan').
+diretor('Mike Judge').
+diretor('Quentin Tarantino').
+diretor('Jae-young Kwak').
+diretor('George Lucas').
+diretor('Fatih Akin').
+diretor('Anurag Basu').
+diretor('Ritesh Batra').
+diretor('Edgar Wright').
+diretor('Yann Samuell').
+diretor('Shûsuke Kaneko').
+diretor('Cecil B. DeMille').
+diretor('Mamoru Oshii').
+diretor('James Algar').
+diretor('Ben Affleck').
+diretor('Jacques Tourneur').
+diretor('Roman Polanski').
+diretor('Zoya Akhtar').
+diretor('George Stevens').
+diretor('Hiromasa Yonebayashi').
+diretor('Michelangelo Antonioni').
+diretor('Tarsem Singh').
+diretor('Takeshi Kitano').
+diretor('Damián Szifron').
+diretor('William Wyler').
+diretor('Michael Haneke').
+diretor('Francis Lee').
+diretor('James Marsh').
+diretor('John Carney').
+diretor('Jaco Van Dormael').
+diretor('Jean-Pierre Jeunet').
+diretor('Ramesh Sippy').
+diretor('Tim Burton').
+diretor('Tate Taylor').
+diretor('Sergio Leone').
+diretor('Darren Aronofsky').
+diretor('Vincent Paronnaud').
+diretor('Robert Rossen').
+diretor('Vikramaditya Motwane').
+diretor('Adam Elliot').
+diretor('Mike Leigh').
+diretor('Martin Scorsese').
+diretor('Peter Weir').
+diretor('Joe Wright').
+diretor('Guy Ritchie').
+diretor('Sam Mendes').
+diretor('Norman Jewison').
+diretor('Aniruddha Roy Chowdhury').
+diretor('Don Siegel').
+diretor('Sudha Kongara').
+diretor('Terence Young').
+diretor('Gene Saks').
+diretor('Robert Wiene').
+diretor('David Lynch').
+diretor('Brian G. Hutton').
+diretor('Stephen Frears').
+diretor('John McTiernan').
+diretor('Bong Joon Ho').
+diretor('Michael Powell').
+diretor('David Mackenzie').
+diretor('Neeraj Pandey').
+diretor('George Cukor').
+diretor('Joel Coen').
+diretor('Nathan Greno').
+diretor('Yoshiaki Kawajiri').
+diretor('John Huston').
+diretor('Akira Kurosawa').
+diretor('Francis Ford Coppola').
+diretor('Frank Capra').
+diretor('John Schlesinger').
+diretor('Paolo Sorrentino').
+diretor('Lukas Moodysson').
+diretor('Trey Parker').
+diretor('Federico Fellini').
+diretor('Mukesh Chhabra').
+diretor('Taylor Hackford').
+diretor('David Zucker').
+diretor('Alejandro G. Iñárritu').
+diretor('Hideaki Anno').
+diretor('Martin McDonagh').
+diretor('Thomas Vinterberg').
+diretor('Christophe Barratier').
+diretor('Abdellatif Kechiche').
+diretor('Jonathan Demme').
+diretor('James Whale').
+diretor('John Ford').
+diretor('Alfred Hitchcock').
+diretor('Mike Nichols').
+diretor('Milos Forman').
+diretor('Nicholas Meyer').
+diretor('Theodore Melfi').
+diretor('Sean Penn').
+diretor('Matt Ross').
+diretor('Rob Reiner').
+diretor('Alain Resnais').
+diretor('Sam Peckinpah').
+diretor('Ashutosh Gowariker').
+diretor('Lee Tamahori').
+diretor('Darius Marder').
+diretor('Louis Malle').
+diretor('Clint Eastwood').
+diretor('Oliver Stone').
+diretor('Charles Laughton').
+diretor('Nicolas Winding Refn').
+diretor('John Sturges').
+diretor('Fabián Bielinsky').
+diretor('Robert Altman').
+diretor('Neill Blomkamp').
+diretor('Yavuz Turgul').
+diretor("Shin'ichirô Watanabe").
+diretor('Wim Wenders').
+diretor('Rajkumar Hirani').
+diretor('Frank Miller').
+diretor('Christian Carion').
+diretor('Nicholas Ray').
+diretor('Peter Jackson').
+diretor('Andrew Adamson').
+diretor('Brian Henson').
+diretor('Martin Zandvliet').
+diretor('Todd Phillips').
+diretor('Stephen Chow').
+diretor('Michael Curtiz').
+diretor('Cristian Mungiu').
+diretor('Stanley Kubrick').
+diretor('Dennis Gansel').
+diretor('Hayao Miyazaki').
+diretor('Barry Levinson').
+diretor('Philip Kaufman').
+diretor('David Cronenberg').
+diretor('Jack Clayton').
+diretor('Jim Abrahams').
+diretor('Woody Allen').
+diretor('Christopher McQuarrie').
+diretor('Andrew Niccol').
+diretor('Anthony Russo').
+diretor('Rahi Anil Barve').
+diretor('Naoko Yamada').
+diretor('Matthew Vaughn').
+diretor('Gary Trousdale').
+diretor('Aditya Chopra').
+diretor('Alex Garland').
+diretor('Vishal Bhardwaj').
+diretor('Fritz Lang').
+diretor('Carl Theodor Dreyer').
+diretor('Gus Van Sant').
+diretor('Raja Menon').
+diretor('Julian Schnabel').
+diretor('Emir Kusturica').
+diretor('Shoojit Sircar').
+diretor('James L. Brooks').
+diretor('Chan-wook Park').
+diretor('Asghar Farhadi').
+diretor('Henry Koster').
+diretor('Ryan Coogler').
+diretor('Richard Donner').
+diretor('Clyde Bruckman').
+diretor('Gauri Shinde').
+diretor('John Lee Hancock').
+diretor('Todd Haynes').
+diretor('Kinji Fukasaku').
+diretor('Richard Attenborough').
+diretor('Irvin Kershner').
+diretor('Pierre Coffin').
+diretor('George Roy Hill').
+diretor('Robert Aldrich').
+diretor('Luca Guadagnino').
+diretor('Nuri Bilge Ceylan').
+diretor('Sujoy Ghosh').
+diretor('Yôjirô Takita').
+diretor('Jeong-beom Lee').
+diretor('Michael Cimino').
+diretor('Arthur Penn').
+diretor('Jean-Luc Godard').
+diretor('Alfonso Gomez-Rejon').
+diretor('Sean Baker').
+diretor('Ted Kotcheff').
+diretor('James McTeigue').
+diretor('Jean-Marc Vallée').
+diretor('Satoshi Kon').
+diretor('Shimit Amin').
+diretor('Jemaine Clement').
+diretor('Nick Cassavetes').
+diretor('F. Gary Gray').
+diretor('Tony Scott').
+diretor('Bryan Singer').
+diretor('Wilson Yip').
+diretor('Mehmet Ada Öztekin').
+diretor('Alan J. Pakula').
+diretor('Can Ulkay').
+diretor('Jean Renoir').
+diretor('Martin Campbell').
+diretor('Paul McGuigan').
+diretor('Tomm Moore').
+diretor('Jon Favreau').
+diretor('Jonathan Dayton').
+diretor('Ken Loach').
+diretor('Michael Radford').
+diretor('Elem Klimov').
+diretor('Zack Snyder').
+diretor('James Frawley').
+diretor('Shane Meadows').
+diretor('Richard Linklater').
+diretor('Richard Lester').
+diretor('Deniz Gamze Ergüven').
+diretor('Terrence Malick').
+diretor('John Landis').
+diretor('Fred Zinnemann').
+diretor('Garth Davis').
+diretor('Antoine Fuqua').
+diretor('Kar-Wai Wong').
+diretor('Ericson Core').
+diretor('Guy Hamilton').
+diretor('Pedro Almodóvar').
+diretor('Martin Brest').
+diretor('Sam Wood').
+diretor('Andrew Stanton').
+diretor('Steven Spielberg').
+diretor('Gayatri').
+diretor('Sergio Pablos').
+diretor('Greta Gerwig').
+diretor('Michael Mann').
+diretor('Gareth Edwards').
+diretor('Denis Villeneuve').
+diretor('Cy Endfield').
+diretor('Alejandro Jodorowsky').
+diretor('Mark Osborne').
+diretor('Paul Thomas Anderson').
+diretor('Kaige Chen').
+diretor('Çagan Irmak').
+diretor('Robert Zemeckis').
+diretor('Ivan Reitman').
+diretor('Joel Schumacher').
+diretor('Henri-Georges Clouzot').
+diretor('Alejandro Amenábar').
+diretor('Dean DeBlois').
+diretor('Alfonso Cuarón').
+diretor('Walter Hill').
+diretor('Christopher Miller').
+diretor('Chris Columbus').
+diretor('Tony Bancroft').
+diretor('Noah Baumbach').
+diretor('Neil Burger').
+diretor('David Yates').
+diretor('Martin Rosen').
+diretor('Gregg Araki').
+diretor('J.J. Abrams').
+diretor('Roland Joffé').
+diretor('Wes Anderson').
+diretor('Adam McKay').
+diretor('Lewis Milestone').
+diretor('Ömer Faruk Sorak').
+diretor('Ron Howard').
+diretor('Isao Takahata').
+diretor("Gavin O'Connor").
+diretor('Dan Gilroy').
+diretor('Ridley Scott').
+diretor('Kevin Costner').
+diretor('Olivier Dahan').
+diretor('Jessie Nelson').
+diretor('Ethan Coen').
+diretor('Ki-duk Kim').
+diretor('Buster Keaton').
+diretor('Edward Zwick').
+diretor('Paul Verhoeven').
+diretor('Ruben Fleischer').
+diretor('Georges Franju').
+diretor('Steven Soderbergh').
+diretor('Lars von Trier').
+diretor('Andrei Tarkovsky').
+diretor('Mathieu Kassovitz').
+diretor('Makoto Shinkai').
+diretor('Fernando Meirelles').
+diretor('Tetsuya Nakashima').
+diretor('Frank Darabont').
+diretor('Scott Hicks').
+diretor('Hirokazu Koreeda').
+diretor('Nishikant Kamat').
+diretor('George Seaton').
+diretor('Ken Annakin').
+diretor('Robert Mulligan').
+diretor('Gareth Evans').
+diretor('David Mickey Evans').
+diretor('Mamoru Hosoda').
+diretor('Victor Fleming').
+diretor('Tony Kaye').
+diretor('Anthony Harvey').
+diretor('Luc Besson').
+diretor('Aditya Dhar').
+diretor('Jordan Peele').
+diretor('Jonathan Levine').
+diretor('Je-kyu Kang').
+diretor('Robert De Niro').
+diretor('Richard Schenkman').
+diretor('Terry George').
+diretor('Doug Liman').
+diretor('Pete Docter').
+diretor('Daniel Monzón').
+diretor('Anton Corbijn').
+diretor('Leo McCarey').
+diretor('Spike Lee').
+diretor('George A. Romero').
+diretor('Prashanth Neel').
+diretor('Charles Chaplin').
+diretor('Hannes Holm').
+diretor('Richard Kelly').
+diretor('Joe Johnston').
+diretor('Mary Harron').
+diretor('Josh Boone').
+diretor('Alexander Payne').
+diretor('Aneesh Chaganty').
+diretor('Howard Hawks').
+diretor('Charlie Kaufman').
+diretor('Marc Caro').
+diretor('Taylor Sheridan').
+diretor('Ingmar Bergman').
+diretor('Peter Bogdanovich').
+diretor('Marc Forster').
+diretor('Katsuhiro Ôtomo').
+diretor('Cameron Crowe').
+diretor('Mikael Håfström').
+diretor('Robert Hamer').
+diretor('Florian Henckel von Donnersmarck').
+diretor('Joss Whedon').
+diretor('Kenneth Lonergan').
+diretor('Vikas Bahl').
+diretor('George Miller').
+diretor('Jon Avnet').
+diretor('James Cameron').
+diretor('F.W. Murnau').
+diretor('Andrew Davis').
+diretor('John Carpenter').
+diretor('Felix van Groeningen').
+diretor('Byron Howard').
+diretor('John Singleton').
+diretor('Jonathan Lynn').
+diretor('Meghna Gulzar').
+diretor('John Lasseter').
+diretor('Eric Bress').
+diretor('Damien Chazelle').
+diretor('Paul Greengrass').
+diretor('Farhan Akhtar').
+diretor('James Gunn').
+diretor('Billy Wilder').
+diretor('Stephen Chbosky').
+diretor('Ang Lee').
+diretor('Jules Dassin').
+diretor('Kevin Smith').
+diretor('Destin Daniel Cretton').
+diretor('Mark Herman').
+diretor('Gillo Pontecorvo').
+diretor('John Boorman').
+diretor('Oliver Hirschbiegel').
+diretor('Ron Clements').
+diretor('Abhishek Chaubey').
+diretor('Richard Brooks').
+diretor('Curtis Hanson').
+diretor('Jean-Pierre Melville').
+diretor('Sam Raimi').
+diretor('Robert Wise').
+diretor('Majid Majidi').
+diretor('Walter Salles').
+diretor('Marc Webb').
+diretor('Zaza Urushadze').
+diretor('Nitesh Tiwari').
+diretor('Stanley Kramer').
+diretor('Roger Donaldson').
+diretor('Mel Brooks').
+diretor('Jean-Jacques Annaud').
+diretor('M. Night Shyamalan').
+diretor('Alexander Mackendrick').
+diretor('Sriram Raghavan').
+diretor('Giuseppe Tornatore').
+diretor('Bennett Miller').
+diretor('Sebastian Schipper').
+diretor('Morten Tyldum').
+diretor('Brad Bird').
+diretor('Carol Reed').
+
+genero('Sci-Fi').
+genero('Action').
+genero('Film-Noir').
+genero('Biography').
+genero('Romance').
+genero('Drama').
+genero('Musical').
+genero('Music').
+genero('Fantasy').
+genero('Comedy').
+genero('Western').
+genero('Adventure').
+genero('Sport').
+genero('Family').
+genero('History').
+genero('Animation').
+genero('War').
+genero('Thriller').
+genero('Mystery').
+genero('Crime').
+genero('Horror').
