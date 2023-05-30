@@ -1,9 +1,15 @@
+:- use_module(library(pce)).
+:- [src/database/data].
+:- [src/util].
+:- (dynamic movie/11).
+
+
 
 
 menu_rec_ano :-
     new(Dialog, dialog('Recomendacao por Ano')),
     send(Dialog, size, size(500, 500)),
-    send(Dialog, background, '#87CEEB'),
+    send(Dialog, background, '#c8c8c8'),
     send_list(Dialog,
               append,
               
@@ -21,9 +27,24 @@ menu_rec_ano :-
 
 rec_ano(Ano) :-
     new(D, dialog('Filmes Recomendados')),
+    send(D, background, '#c8c8c8'),
     findall(Filme,
-            ( filme(_,_,Filme,_,Ano,_,_)
+            ( 
+                filme(Filme,Ano,_,_,_,_,_,_,_,_,_)
+                
             ),
             Filmes),
+    send(D,append, new(T, text('Filmes Recomendados do ano  '))),
+    send(T, append, Ano),
+	new(F, font(screen, bold, 20)),
+	send(T, font(F)),
+    send(T,colour('#000000')),
+    send(D, append(T)),
     append_text_dialog(Filmes, D),
-    send(D, open).
+    send(D, open_centered).
+
+
+
+
+
+  

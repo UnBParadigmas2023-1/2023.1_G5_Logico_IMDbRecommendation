@@ -1,5 +1,6 @@
 :- use_module(library(pce)).
 :- [src/menu].
+:- [src/util].
 :- pce_image_directory('../img').
 
 resource(imagem_principal, image, image('principal.jpg')).
@@ -16,11 +17,3 @@ principal :-
    send(Dialog,append(BotaoSair)),
    send(Dialog,open_centered).
 
-
-mostrar_img(T, Img) :- 
-      new(Figura, figure),
-      new(Bitmap, bitmap(resource(Img),@on)),
-      send(Bitmap, name, 1),
-      send(Figura, display, Bitmap),
-      send(Figura, status, 1),
-      send(T, display,Figura,point(600,500)).
