@@ -1,5 +1,6 @@
 import csv
 import pathlib
+import itertools
 
 
 DATA_PATH = pathlib.Path(__file__).parent / 'data.csv'
@@ -10,8 +11,7 @@ MOVIE_FIELDS = [
     ('Series_Title', str),
     ('Released_Year', int),
     ('Runtime', lambda x: int(x.split()[0])),
-    # TODO: Parse Genre into a list of genres
-    ('Genre', str),
+    ('Genre', lambda x: [*map(str.strip, x.split(','))]),
     ('IMDB_Rating', float),
     ('Director', str),
     ('Star1', str),
@@ -32,15 +32,20 @@ with open(DATA_PATH, 'r') as f:
 
     for row in reader:
         try:
-            movies.append([
-                parser(row[name])
+            movies.append({
+                name: parser(row[name])
                 for name, parser in MOVIE_FIELDS
-            ])
+            })
         except Exception as e:
             print(f'Failed to parse row: {row}.\n  -> Error: {e}')
 
 
 OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
 with open(OUTPUT_PATH, 'w') as f:
+    f.write('% Series_Title, Released_Year, Runtime, Genre, IMDB_Rating, Director, Star, Gross\n')
     for movie in movies:
-        f.write(f'movie({", ".join(map(repr, movie))}).\n')
+        stars = [movie[f'Star{i}'] for i in range(1, 5) if movie[f'Star{i}'].strip()] or ['Desconhecido']
+        genres = movie['Genre'] or ['Desconhecido']
+
+        for genre, star in itertools.product(genres, stars):
+            f.write(f'movie({", ".join(map(repr, [movie["Series_Title"], movie["Released_Year"], movie["Runtime"], genre, movie["IMDB_Rating"], movie["Director"], star, movie["Gross"]]))}).\n')
