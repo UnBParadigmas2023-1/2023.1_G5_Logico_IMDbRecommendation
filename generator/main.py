@@ -42,10 +42,11 @@ with open(DATA_PATH, 'r') as f:
 
 OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
 with open(OUTPUT_PATH, 'w') as f:
-    f.write('% Series_Title, Released_Year, Runtime, Genre, IMDB_Rating, Director, Star, Gross\n')
+    f.write('% Series_Title, Released_Year, Runtime, Genre, IMDB_Rating, Director, Star1, Star2, Star3, Star4, Gross\n')
     for movie in movies:
-        stars = [movie[f'Star{i}'] for i in range(1, 5) if movie[f'Star{i}'].strip()] or ['Desconhecido']
         genres = movie['Genre'] or ['Desconhecido']
 
-        for genre, star in itertools.product(genres, stars):
-            f.write(f'movie({", ".join(map(repr, [movie["Series_Title"], movie["Released_Year"], movie["Runtime"], genre, movie["IMDB_Rating"], movie["Director"], star, movie["Gross"]]))}).\n')
+        for genre in genres:
+            movie['Genre'] = genre
+            values = [movie[label] for label, _ in MOVIE_FIELDS]
+            f.write(f'filme({", ".join(map(repr, values))}).\n')
