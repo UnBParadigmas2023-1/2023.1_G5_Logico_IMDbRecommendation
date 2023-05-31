@@ -45,7 +45,7 @@ menu_escolha(Option) :-
     ;   Option = 'Classificação'
     ->  menu_rec_ano
     ;   Option = 'Diretor'
-    ->  menu_rec_ano
+    ->  menu_rec_diretor
     ;   Option = 'Arrecadação'
     ->  menu_rec_ano
     ;   menu
