@@ -25,8 +25,9 @@ rec_Classificacao(Classificacao) :-
     new(D, dialog('Filmes Recomendados')),
     findall(Filme,
             ( 
-                filme(Filme,_,_,_,Filtro,_,_,_,_,_,_)
+                filme(Filme,_,_,_,Filtro,_,_,_,_,_,_),Filtro=<Classificacao
             ),
             Filmes),
+
     append_text_dialog(Filmes, D),
     send(D, open).
