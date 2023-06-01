@@ -3,6 +3,7 @@
 :- [src/duracao].
 :- [src/genero].
 :- [src/ator].
+:- [src/classificacao].
 
 menu:-
     new(Dialog, dialog('IMDb Recommendation')),
@@ -30,7 +31,7 @@ menu:-
                 'Ator',
                 'Arrecadação'
               ]),
-    send(S, columns, 2),
+    send(S, columns, 3),
     send(S, colour('#000000')),
     send(S, gap, size(15, 15)),
     send(Dialog, default_button, confirmar),
@@ -46,7 +47,7 @@ menu_escolha(Option) :-
     ;   Option = 'Gênero'
     ->  menu_rec_genero
     ;   Option = 'Classificação'
-    ->  menu_rec_ano
+    ->  menu_rec_classificacao
     ;   Option = 'Diretor'
     ->  menu_rec_ano
     ;   Option = 'Ator'
