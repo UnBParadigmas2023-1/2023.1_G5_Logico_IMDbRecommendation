@@ -52,15 +52,15 @@ menu_escolha(Option) :-
     ;   Option = 'Duração'
     ,  menu_rec_duracao
     ;   Option = 'Gênero'
-    ,  menu_rec_ano
+    ,  menu_rec_genero
     ;   Option = 'Classificação'
-    ,  menu_rec_ano
+    ,  menu_rec_classificacao
     ;   Option = 'Diretor'
-    ,  menu_rec_ano
+    ,  menu_rec_diretor
     ;   Option = 'Ator'
     ,  menu_rec_ator  
     ;   Option = 'Arrecadação'
-    ,  menu_rec_ano
+    ,  menu_rec_arrecadacao
     ;   menu
     ).
 
