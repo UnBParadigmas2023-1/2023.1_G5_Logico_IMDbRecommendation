@@ -7,9 +7,9 @@ resource(imagem_principal, image, image('principal.jpg')).
 
 principal :-
    new(Dialog, dialog('Bem vindo')),
-   send(Dialog, size, size(1030, 700)),
+   send(Dialog, size, size(1030, 840)),
    mostrar_img(Dialog,imagem_principal),
-   send(Dialog, background, '#c8c8c8'),
+   send(Dialog, background, '#ffffdf'),
    new(BotaoSair,button('Sair',and(message(Dialog,destroy),message(Dialog,free)))),
    new(BotaoIniciar,button('Iniciar',and(message(@prolog,menu) ,
    and(message(Dialog,destroy),message(Dialog,free)) ))),

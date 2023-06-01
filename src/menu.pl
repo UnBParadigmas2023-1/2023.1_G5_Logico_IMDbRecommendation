@@ -2,12 +2,13 @@
 :- [src/ano].
 :- [src/duracao].
 :- [src/util].
+:- [src/ator].
 
 
 menu:-
     new(Dialog, dialog('IMDb Recommendation')),
     send(Dialog, size, size(620, 500)),
-    send(Dialog, background, '#c8c8c8'),
+    send(Dialog, background, '#ffffdf'),
     send_list(Dialog,
               append,
               [
@@ -32,7 +33,7 @@ menu:-
               ]),
     send(S, columns, 2),
     send(S, colour('#000000')),
-    send(S, gap, size(15, 15)),
+    send(S, gap, size(5, 5)),
     send(Dialog, default_button, confirmar),
     send(Dialog, open_centered).
 
@@ -50,7 +51,7 @@ menu_escolha(Option) :-
     ;   Option = 'Diretor'
     ,  menu_rec_ano
     ;   Option = 'Ator'
-    ,  menu_rec_ano  
+    ,  menu_rec_ator  
     ;   Option = 'Arrecadação'
     ,  menu_rec_ano
     ;   menu
