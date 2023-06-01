@@ -5,7 +5,7 @@ menu_rec_genero :-
     send_list(Dialog,
               append,
               
-              [ new(genero, slider('Genero desejado', Drama, Action, Adventure)),
+              [ new(genero, menu(genero, cycle)),
                 button(cancelar, message(Dialog, destroy)),
                 button(confirmar,
                        and(message(@prolog,
@@ -13,6 +13,7 @@ menu_rec_genero :-
                                    genero?selection),
                            message(Dialog, destroy)))
               ]),
+    forall(genre(G), send_list(genero, append, G)),
     send(genero, colour('#000000')),
     send(Dialog, open_centered).
 
