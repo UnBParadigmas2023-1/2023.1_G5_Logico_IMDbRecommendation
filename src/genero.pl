@@ -1,3 +1,6 @@
+:- [src/database/data].
+:- (dynamic filme/11, genero/1).
+
 menu_rec_genero :-
     new(Dialog, dialog('Recomendacao por Genero')),
     send(Dialog, size, size(500, 500)),
@@ -5,24 +8,26 @@ menu_rec_genero :-
     send_list(Dialog,
               append,
               
-              [ new(genero, menu(genero, cycle)),
+              [ new(Genero, menu(genero, cycle)),
                 button(cancelar, message(Dialog, destroy)),
                 button(confirmar,
                        and(message(@prolog,
                                    rec_genero,
-                                   genero?selection),
+                                   Genero?selection),
                            message(Dialog, destroy)))
               ]),
-    forall(genre(G), send_list(genero, append, G)),
-    send(genero, colour('#000000')),
+    forall(genero(G), send_list(Genero, append, G)),
+    send(Genero, colour('#000000')),
     send(Dialog, open_centered).
 
 
-rec_genero(genero) :-
+rec_genero(Genero) :-
     new(D, dialog('Filmes Recomendados')),
     findall(Filme,
-            ( filme(_,_,Filme,_,_,_,genero)
+            ( filme(Filme,_,_,Genero,_,_,_,_,_,_,_)
+              
             ),
             Filmes),
     append_text_dialog(Filmes, D),
     send(D, open).
+
