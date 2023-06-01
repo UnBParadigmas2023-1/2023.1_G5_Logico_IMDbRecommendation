@@ -1,25 +1,31 @@
+:- use_module(library(pce)).
+:- [src/database/data].
+:- (dynamic filme/11).
+
+
 menu_rec_classificacao :-
-    new(Dialog, dialog('Recomendacao por avaliação IMDb ')),
+    new(Dialog, dialog('Recomendacao por Classificacao do IMDb')),
     send(Dialog, size, size(500, 500)),
     send(Dialog, background, '#87CEEB'),
     send_list(Dialog,
               append,
               
-              [ new(Classificacao, slider('Avaliação IMDb ', 0.0, 10.0, 8.0)),
+              [ new(Classificacao, slider('Classificacao', 0.0, 10.0, 5.0)),
                 button(cancelar, message(Dialog, destroy)),
                 button(confirmar,
                        and(message(@prolog,
-                                   rec_duracao,
+                                   rec_Classificacao,
                                    Classificacao?selection),
                            message(Dialog, destroy)))
               ]),
     send(Classificacao, colour('#000000')),
-    send(Classificacao, open_centered).
+    send(Dialog, open_centered).
 
-rec_classificacao(Classificacao) :-
+rec_Classificacao(Classificacao) :-
     new(D, dialog('Filmes Recomendados')),
     findall(Filme,
-            ( filme(_,_,Filme,_,_,Classificacao,_)
+            ( 
+                filme(Filme,_,_,_,Filtro,_,_,_,_,_,_)
             ),
             Filmes),
     append_text_dialog(Filmes, D),
