@@ -14,9 +14,9 @@ filme('The Lord of the Rings: The Return of the King', 2003, 201, 'Adventure', 8
 filme('The Lord of the Rings: The Return of the King', 2003, 201, 'Drama', 8.9, 'Peter Jackson', 'Elijah Wood', 'Viggo Mortensen', 'Ian McKellen', 'Orlando Bloom', 377845905).
 filme('Pulp Fiction', 1994, 154, 'Crime', 8.9, 'Quentin Tarantino', 'John Travolta', 'Uma Thurman', 'Samuel L. Jackson', 'Bruce Willis', 107928762).
 filme('Pulp Fiction', 1994, 154, 'Drama', 8.9, 'Quentin Tarantino', 'John Travolta', 'Uma Thurman', 'Samuel L. Jackson', 'Bruce Willis', 107928762).
-filme("Schindler's List", 1993, 195, 'Biography', 8.9, 'Steven Spielberg', 'Liam Neeson', 'Ralph Fiennes', 'Ben Kingsley', 'Caroline Goodall', 96898818).
-filme("Schindler's List", 1993, 195, 'Drama', 8.9, 'Steven Spielberg', 'Liam Neeson', 'Ralph Fiennes', 'Ben Kingsley', 'Caroline Goodall', 96898818).
-filme("Schindler's List", 1993, 195, 'History', 8.9, 'Steven Spielberg', 'Liam Neeson', 'Ralph Fiennes', 'Ben Kingsley', 'Caroline Goodall', 96898818).
+filme('Schindler\'s List', 1993, 195, 'Biography', 8.9, 'Steven Spielberg', 'Liam Neeson', 'Ralph Fiennes', 'Ben Kingsley', 'Caroline Goodall', 96898818).
+filme('Schindler\'s List', 1993, 195, 'Drama', 8.9, 'Steven Spielberg', 'Liam Neeson', 'Ralph Fiennes', 'Ben Kingsley', 'Caroline Goodall', 96898818).
+filme('Schindler\'s List', 1993, 195, 'History', 8.9, 'Steven Spielberg', 'Liam Neeson', 'Ralph Fiennes', 'Ben Kingsley', 'Caroline Goodall', 96898818).
 filme('Inception', 2010, 148, 'Action', 8.8, 'Christopher Nolan', 'Leonardo DiCaprio', 'Joseph Gordon-Levitt', 'Elliot Page', 'Ken Watanabe', 292576195).
 filme('Inception', 2010, 148, 'Adventure', 8.8, 'Christopher Nolan', 'Leonardo DiCaprio', 'Joseph Gordon-Levitt', 'Elliot Page', 'Ken Watanabe', 292576195).
 filme('Inception', 2010, 148, 'Sci-Fi', 8.8, 'Christopher Nolan', 'Leonardo DiCaprio', 'Joseph Gordon-Levitt', 'Elliot Page', 'Ken Watanabe', 292576195).
@@ -38,7 +38,7 @@ filme('Goodfellas', 1990, 146, 'Drama', 8.7, 'Martin Scorsese', 'Robert De Niro'
 filme('Star Wars: Episode V - The Empire Strikes Back', 1980, 124, 'Action', 8.7, 'Irvin Kershner', 'Mark Hamill', 'Harrison Ford', 'Carrie Fisher', 'Billy Dee Williams', 290475067).
 filme('Star Wars: Episode V - The Empire Strikes Back', 1980, 124, 'Adventure', 8.7, 'Irvin Kershner', 'Mark Hamill', 'Harrison Ford', 'Carrie Fisher', 'Billy Dee Williams', 290475067).
 filme('Star Wars: Episode V - The Empire Strikes Back', 1980, 124, 'Fantasy', 8.7, 'Irvin Kershner', 'Mark Hamill', 'Harrison Ford', 'Carrie Fisher', 'Billy Dee Williams', 290475067).
-filme("One Flew Over the Cuckoo's Nest", 1975, 133, 'Drama', 8.7, 'Milos Forman', 'Jack Nicholson', 'Louise Fletcher', 'Michael Berryman', 'Peter Brocco', 112000000).
+filme('One Flew Over the Cuckoo\'s Nest', 1975, 133, 'Drama', 8.7, 'Milos Forman', 'Jack Nicholson', 'Louise Fletcher', 'Michael Berryman', 'Peter Brocco', 112000000).
 filme('Hamilton', 2020, 160, 'Biography', 8.6, 'Thomas Kail', 'Lin-Manuel Miranda', 'Phillipa Soo', 'Leslie Odom Jr.', 'Renée Elise Goldsberry', -1).
 filme('Hamilton', 2020, 160, 'Drama', 8.6, 'Thomas Kail', 'Lin-Manuel Miranda', 'Phillipa Soo', 'Leslie Odom Jr.', 'Renée Elise Goldsberry', -1).
 filme('Hamilton', 2020, 160, 'History', 8.6, 'Thomas Kail', 'Lin-Manuel Miranda', 'Phillipa Soo', 'Leslie Odom Jr.', 'Renée Elise Goldsberry', -1).
@@ -77,9 +77,9 @@ filme('Seppuku', 1962, 133, 'Mystery', 8.6, 'Masaki Kobayashi', 'Tatsuya Nakadai
 filme('Shichinin no samurai', 1954, 207, 'Action', 8.6, 'Akira Kurosawa', 'Toshirô Mifune', 'Takashi Shimura', 'Keiko Tsushima', 'Yukiko Shimazaki', 269061).
 filme('Shichinin no samurai', 1954, 207, 'Adventure', 8.6, 'Akira Kurosawa', 'Toshirô Mifune', 'Takashi Shimura', 'Keiko Tsushima', 'Yukiko Shimazaki', 269061).
 filme('Shichinin no samurai', 1954, 207, 'Drama', 8.6, 'Akira Kurosawa', 'Toshirô Mifune', 'Takashi Shimura', 'Keiko Tsushima', 'Yukiko Shimazaki', 269061).
-filme("It's a Wonderful Life", 1946, 130, 'Drama', 8.6, 'Frank Capra', 'James Stewart', 'Donna Reed', 'Lionel Barrymore', 'Thomas Mitchell', -1).
-filme("It's a Wonderful Life", 1946, 130, 'Family', 8.6, 'Frank Capra', 'James Stewart', 'Donna Reed', 'Lionel Barrymore', 'Thomas Mitchell', -1).
-filme("It's a Wonderful Life", 1946, 130, 'Fantasy', 8.6, 'Frank Capra', 'James Stewart', 'Donna Reed', 'Lionel Barrymore', 'Thomas Mitchell', -1).
+filme('It\'s a Wonderful Life', 1946, 130, 'Drama', 8.6, 'Frank Capra', 'James Stewart', 'Donna Reed', 'Lionel Barrymore', 'Thomas Mitchell', -1).
+filme('It\'s a Wonderful Life', 1946, 130, 'Family', 8.6, 'Frank Capra', 'James Stewart', 'Donna Reed', 'Lionel Barrymore', 'Thomas Mitchell', -1).
+filme('It\'s a Wonderful Life', 1946, 130, 'Fantasy', 8.6, 'Frank Capra', 'James Stewart', 'Donna Reed', 'Lionel Barrymore', 'Thomas Mitchell', -1).
 filme('Joker', 2019, 122, 'Crime', 8.5, 'Todd Phillips', 'Joaquin Phoenix', 'Robert De Niro', 'Zazie Beetz', 'Frances Conroy', 335451311).
 filme('Joker', 2019, 122, 'Drama', 8.5, 'Todd Phillips', 'Joaquin Phoenix', 'Robert De Niro', 'Zazie Beetz', 'Frances Conroy', 335451311).
 filme('Joker', 2019, 122, 'Thriller', 8.5, 'Todd Phillips', 'Joaquin Phoenix', 'Robert De Niro', 'Zazie Beetz', 'Frances Conroy', 335451311).
@@ -100,7 +100,7 @@ filme('The Pianist', 2002, 150, 'Music', 8.5, 'Roman Polanski', 'Adrien Brody', 
 filme('Gladiator', 2000, 155, 'Action', 8.5, 'Ridley Scott', 'Russell Crowe', 'Joaquin Phoenix', 'Connie Nielsen', 'Oliver Reed', 187705427).
 filme('Gladiator', 2000, 155, 'Adventure', 8.5, 'Ridley Scott', 'Russell Crowe', 'Joaquin Phoenix', 'Connie Nielsen', 'Oliver Reed', 187705427).
 filme('Gladiator', 2000, 155, 'Drama', 8.5, 'Ridley Scott', 'Russell Crowe', 'Joaquin Phoenix', 'Connie Nielsen', 'Oliver Reed', 187705427).
-filme('American History X', 1998, 119, 'Drama', 8.5, 'Tony Kaye', 'Edward Norton', 'Edward Furlong', "Beverly D'Angelo", 'Jennifer Lien', 6719864).
+filme('American History X', 1998, 119, 'Drama', 8.5, 'Tony Kaye', 'Edward Norton', 'Edward Furlong', 'Beverly D\'Angelo', 'Jennifer Lien', 6719864).
 filme('The Usual Suspects', 1995, 106, 'Crime', 8.5, 'Bryan Singer', 'Kevin Spacey', 'Gabriel Byrne', 'Chazz Palminteri', 'Stephen Baldwin', 23341568).
 filme('The Usual Suspects', 1995, 106, 'Mystery', 8.5, 'Bryan Singer', 'Kevin Spacey', 'Gabriel Byrne', 'Chazz Palminteri', 'Stephen Baldwin', 23341568).
 filme('The Usual Suspects', 1995, 106, 'Thriller', 8.5, 'Bryan Singer', 'Kevin Spacey', 'Gabriel Byrne', 'Chazz Palminteri', 'Stephen Baldwin', 23341568).
@@ -255,8 +255,8 @@ filme('Braveheart', 1995, 178, 'History', 8.3, 'Mel Gibson', 'Mel Gibson', 'Soph
 filme('Reservoir Dogs', 1992, 99, 'Crime', 8.3, 'Quentin Tarantino', 'Harvey Keitel', 'Tim Roth', 'Michael Madsen', 'Chris Penn', 2832029).
 filme('Reservoir Dogs', 1992, 99, 'Drama', 8.3, 'Quentin Tarantino', 'Harvey Keitel', 'Tim Roth', 'Michael Madsen', 'Chris Penn', 2832029).
 filme('Reservoir Dogs', 1992, 99, 'Thriller', 8.3, 'Quentin Tarantino', 'Harvey Keitel', 'Tim Roth', 'Michael Madsen', 'Chris Penn', 2832029).
-filme('Full Metal Jacket', 1987, 116, 'Drama', 8.3, 'Stanley Kubrick', 'Matthew Modine', 'R. Lee Ermey', "Vincent D'Onofrio", 'Adam Baldwin', 46357676).
-filme('Full Metal Jacket', 1987, 116, 'War', 8.3, 'Stanley Kubrick', 'Matthew Modine', 'R. Lee Ermey', "Vincent D'Onofrio", 'Adam Baldwin', 46357676).
+filme('Full Metal Jacket', 1987, 116, 'Drama', 8.3, 'Stanley Kubrick', 'Matthew Modine', 'R. Lee Ermey', 'Vincent D\'Onofrio', 'Adam Baldwin', 46357676).
+filme('Full Metal Jacket', 1987, 116, 'War', 8.3, 'Stanley Kubrick', 'Matthew Modine', 'R. Lee Ermey', 'Vincent D\'Onofrio', 'Adam Baldwin', 46357676).
 filme('Idi i smotri', 1985, 142, 'Drama', 8.3, 'Elem Klimov', 'Aleksey Kravchenko', 'Olga Mironova', 'Liubomiras Laucevicius', 'Vladas Bagdonas', -1).
 filme('Idi i smotri', 1985, 142, 'Thriller', 8.3, 'Elem Klimov', 'Aleksey Kravchenko', 'Olga Mironova', 'Liubomiras Laucevicius', 'Vladas Bagdonas', -1).
 filme('Idi i smotri', 1985, 142, 'War', 8.3, 'Elem Klimov', 'Aleksey Kravchenko', 'Olga Mironova', 'Liubomiras Laucevicius', 'Vladas Bagdonas', -1).
@@ -285,9 +285,9 @@ filme('A Clockwork Orange', 1971, 136, 'Sci-Fi', 8.3, 'Stanley Kubrick', 'Malcol
 filme('2001: A Space Odyssey', 1968, 149, 'Adventure', 8.3, 'Stanley Kubrick', 'Keir Dullea', 'Gary Lockwood', 'William Sylvester', 'Daniel Richter', 56954992).
 filme('2001: A Space Odyssey', 1968, 149, 'Sci-Fi', 8.3, 'Stanley Kubrick', 'Keir Dullea', 'Gary Lockwood', 'William Sylvester', 'Daniel Richter', 56954992).
 filme('Per qualche dollaro in più', 1965, 132, 'Western', 8.3, 'Sergio Leone', 'Clint Eastwood', 'Lee Van Cleef', 'Gian Maria Volontè', 'Mara Krupp', 15000000).
-filme('Lawrence of Arabia', 1962, 228, 'Adventure', 8.3, 'David Lean', "Peter O'Toole", 'Alec Guinness', 'Anthony Quinn', 'Jack Hawkins', 44824144).
-filme('Lawrence of Arabia', 1962, 228, 'Biography', 8.3, 'David Lean', "Peter O'Toole", 'Alec Guinness', 'Anthony Quinn', 'Jack Hawkins', 44824144).
-filme('Lawrence of Arabia', 1962, 228, 'Drama', 8.3, 'David Lean', "Peter O'Toole", 'Alec Guinness', 'Anthony Quinn', 'Jack Hawkins', 44824144).
+filme('Lawrence of Arabia', 1962, 228, 'Adventure', 8.3, 'David Lean', 'Peter O\'Toole', 'Alec Guinness', 'Anthony Quinn', 'Jack Hawkins', 44824144).
+filme('Lawrence of Arabia', 1962, 228, 'Biography', 8.3, 'David Lean', 'Peter O\'Toole', 'Alec Guinness', 'Anthony Quinn', 'Jack Hawkins', 44824144).
+filme('Lawrence of Arabia', 1962, 228, 'Drama', 8.3, 'David Lean', 'Peter O\'Toole', 'Alec Guinness', 'Anthony Quinn', 'Jack Hawkins', 44824144).
 filme('The Apartment', 1960, 125, 'Comedy', 8.3, 'Billy Wilder', 'Jack Lemmon', 'Shirley MacLaine', 'Fred MacMurray', 'Ray Walston', 18600000).
 filme('The Apartment', 1960, 125, 'Drama', 8.3, 'Billy Wilder', 'Jack Lemmon', 'Shirley MacLaine', 'Fred MacMurray', 'Ray Walston', 18600000).
 filme('The Apartment', 1960, 125, 'Romance', 8.3, 'Billy Wilder', 'Jack Lemmon', 'Shirley MacLaine', 'Fred MacMurray', 'Ray Walston', 18600000).
@@ -297,10 +297,10 @@ filme('North by Northwest', 1959, 136, 'Thriller', 8.3, 'Alfred Hitchcock', 'Car
 filme('Vertigo', 1958, 128, 'Mystery', 8.3, 'Alfred Hitchcock', 'James Stewart', 'Kim Novak', 'Barbara Bel Geddes', 'Tom Helmore', 3200000).
 filme('Vertigo', 1958, 128, 'Romance', 8.3, 'Alfred Hitchcock', 'James Stewart', 'Kim Novak', 'Barbara Bel Geddes', 'Tom Helmore', 3200000).
 filme('Vertigo', 1958, 128, 'Thriller', 8.3, 'Alfred Hitchcock', 'James Stewart', 'Kim Novak', 'Barbara Bel Geddes', 'Tom Helmore', 3200000).
-filme("Singin' in the Rain", 1952, 103, 'Comedy', 8.3, 'Stanley Donen', 'Gene Kelly', 'Gene Kelly', "Donald O'Connor", 'Debbie Reynolds', 8819028).
-filme("Singin' in the Rain", 1952, 103, 'Musical', 8.3, 'Stanley Donen', 'Gene Kelly', 'Gene Kelly', "Donald O'Connor", 'Debbie Reynolds', 8819028).
-filme("Singin' in the Rain", 1952, 103, 'Romance', 8.3, 'Stanley Donen', 'Gene Kelly', 'Gene Kelly', "Donald O'Connor", 'Debbie Reynolds', 8819028).
-filme('Ikiru', 1952, 143, 'Drama', 8.3, 'Akira Kurosawa', 'Takashi Shimura', 'Nobuo Kaneko', "Shin'ichi Himori", 'Haruo Tanaka', 55240).
+filme('Singin\' in the Rain', 1952, 103, 'Comedy', 8.3, 'Stanley Donen', 'Gene Kelly', 'Gene Kelly', 'Donald O\'Connor', 'Debbie Reynolds', 8819028).
+filme('Singin\' in the Rain', 1952, 103, 'Musical', 8.3, 'Stanley Donen', 'Gene Kelly', 'Gene Kelly', 'Donald O\'Connor', 'Debbie Reynolds', 8819028).
+filme('Singin\' in the Rain', 1952, 103, 'Romance', 8.3, 'Stanley Donen', 'Gene Kelly', 'Gene Kelly', 'Donald O\'Connor', 'Debbie Reynolds', 8819028).
+filme('Ikiru', 1952, 143, 'Drama', 8.3, 'Akira Kurosawa', 'Takashi Shimura', 'Nobuo Kaneko', 'Shin\'ichi Himori', 'Haruo Tanaka', 55240).
 filme('Ladri di biciclette', 1948, 89, 'Drama', 8.3, 'Vittorio De Sica', 'Lamberto Maggiorani', 'Enzo Staiola', 'Lianella Carell', 'Elena Altieri', 332930).
 filme('Double Indemnity', 1944, 107, 'Crime', 8.3, 'Billy Wilder', 'Fred MacMurray', 'Barbara Stanwyck', 'Edward G. Robinson', 'Byron Barr', 5720000).
 filme('Double Indemnity', 1944, 107, 'Drama', 8.3, 'Billy Wilder', 'Fred MacMurray', 'Barbara Stanwyck', 'Edward G. Robinson', 'Byron Barr', 5720000).
@@ -357,9 +357,9 @@ filme('Paan Singh Tomar', 2012, 135, 'Crime', 8.2, 'Tigmanshu Dhulia', 'Irrfan K
 filme('El secreto de sus ojos', 2009, 129, 'Drama', 8.2, 'Juan José Campanella', 'Ricardo Darín', 'Soledad Villamil', 'Pablo Rago', 'Carla Quevedo', 6391436).
 filme('El secreto de sus ojos', 2009, 129, 'Mystery', 8.2, 'Juan José Campanella', 'Ricardo Darín', 'Soledad Villamil', 'Pablo Rago', 'Carla Quevedo', 6391436).
 filme('El secreto de sus ojos', 2009, 129, 'Romance', 8.2, 'Juan José Campanella', 'Ricardo Darín', 'Soledad Villamil', 'Pablo Rago', 'Carla Quevedo', 6391436).
-filme('Warrior', 2011, 140, 'Action', 8.2, "Gavin O'Connor", 'Tom Hardy', 'Nick Nolte', 'Joel Edgerton', 'Jennifer Morrison', 13657115).
-filme('Warrior', 2011, 140, 'Drama', 8.2, "Gavin O'Connor", 'Tom Hardy', 'Nick Nolte', 'Joel Edgerton', 'Jennifer Morrison', 13657115).
-filme('Warrior', 2011, 140, 'Sport', 8.2, "Gavin O'Connor", 'Tom Hardy', 'Nick Nolte', 'Joel Edgerton', 'Jennifer Morrison', 13657115).
+filme('Warrior', 2011, 140, 'Action', 8.2, 'Gavin O\'Connor', 'Tom Hardy', 'Nick Nolte', 'Joel Edgerton', 'Jennifer Morrison', 13657115).
+filme('Warrior', 2011, 140, 'Drama', 8.2, 'Gavin O\'Connor', 'Tom Hardy', 'Nick Nolte', 'Joel Edgerton', 'Jennifer Morrison', 13657115).
+filme('Warrior', 2011, 140, 'Sport', 8.2, 'Gavin O\'Connor', 'Tom Hardy', 'Nick Nolte', 'Joel Edgerton', 'Jennifer Morrison', 13657115).
 filme('Shutter Island', 2010, 138, 'Mystery', 8.2, 'Martin Scorsese', 'Leonardo DiCaprio', 'Emily Mortimer', 'Mark Ruffalo', 'Ben Kingsley', 128012934).
 filme('Shutter Island', 2010, 138, 'Thriller', 8.2, 'Martin Scorsese', 'Leonardo DiCaprio', 'Emily Mortimer', 'Mark Ruffalo', 'Ben Kingsley', 128012934).
 filme('Up', 2009, 96, 'Animation', 8.2, 'Pete Docter', 'Bob Peterson', 'Edward Asner', 'Jordan Nagai', 'John Ratzenberger', 293004164).
@@ -372,9 +372,9 @@ filme('Chak De! India', 2007, 153, 'Drama', 8.2, 'Shimit Amin', 'Shah Rukh Khan'
 filme('Chak De! India', 2007, 153, 'Family', 8.2, 'Shimit Amin', 'Shah Rukh Khan', 'Vidya Malvade', 'Sagarika Ghatge', 'Shilpa Shukla', 1113541).
 filme('Chak De! India', 2007, 153, 'Sport', 8.2, 'Shimit Amin', 'Shah Rukh Khan', 'Vidya Malvade', 'Sagarika Ghatge', 'Shilpa Shukla', 1113541).
 filme('There Will Be Blood', 2007, 158, 'Drama', 8.2, 'Paul Thomas Anderson', 'Daniel Day-Lewis', 'Paul Dano', 'Ciarán Hinds', 'Martin Stringer', 40222514).
-filme("Pan's Labyrinth", 2006, 118, 'Drama', 8.2, 'Guillermo del Toro', 'Ivana Baquero', 'Ariadna Gil', 'Sergi López', 'Maribel Verdú', 37634615).
-filme("Pan's Labyrinth", 2006, 118, 'Fantasy', 8.2, 'Guillermo del Toro', 'Ivana Baquero', 'Ariadna Gil', 'Sergi López', 'Maribel Verdú', 37634615).
-filme("Pan's Labyrinth", 2006, 118, 'War', 8.2, 'Guillermo del Toro', 'Ivana Baquero', 'Ariadna Gil', 'Sergi López', 'Maribel Verdú', 37634615).
+filme('Pan\'s Labyrinth', 2006, 118, 'Drama', 8.2, 'Guillermo del Toro', 'Ivana Baquero', 'Ariadna Gil', 'Sergi López', 'Maribel Verdú', 37634615).
+filme('Pan\'s Labyrinth', 2006, 118, 'Fantasy', 8.2, 'Guillermo del Toro', 'Ivana Baquero', 'Ariadna Gil', 'Sergi López', 'Maribel Verdú', 37634615).
+filme('Pan\'s Labyrinth', 2006, 118, 'War', 8.2, 'Guillermo del Toro', 'Ivana Baquero', 'Ariadna Gil', 'Sergi López', 'Maribel Verdú', 37634615).
 filme('Toy Story 3', 2010, 103, 'Animation', 8.2, 'Lee Unkrich', 'Tom Hanks', 'Tim Allen', 'Joan Cusack', 'Ned Beatty', 415004880).
 filme('Toy Story 3', 2010, 103, 'Adventure', 8.2, 'Lee Unkrich', 'Tom Hanks', 'Tim Allen', 'Joan Cusack', 'Ned Beatty', 415004880).
 filme('Toy Story 3', 2010, 103, 'Comedy', 8.2, 'Lee Unkrich', 'Tom Hanks', 'Tim Allen', 'Joan Cusack', 'Ned Beatty', 415004880).
@@ -536,9 +536,9 @@ filme('Hacksaw Ridge', 2016, 139, 'History', 8.1, 'Mel Gibson', 'Andrew Garfield
 filme('Inside Out', 2015, 95, 'Animation', 8.1, 'Pete Docter', 'Ronnie Del Carmen', 'Amy Poehler', 'Bill Hader', 'Lewis Black', 356461711).
 filme('Inside Out', 2015, 95, 'Adventure', 8.1, 'Pete Docter', 'Ronnie Del Carmen', 'Amy Poehler', 'Bill Hader', 'Lewis Black', 356461711).
 filme('Inside Out', 2015, 95, 'Comedy', 8.1, 'Pete Docter', 'Ronnie Del Carmen', 'Amy Poehler', 'Bill Hader', 'Lewis Black', 356461711).
-filme('Barfi!', 2012, 151, 'Comedy', 8.1, 'Anurag Basu', 'Ranbir Kapoor', 'Priyanka Chopra', "Ileana D'Cruz", 'Saurabh Shukla', 2804874).
-filme('Barfi!', 2012, 151, 'Drama', 8.1, 'Anurag Basu', 'Ranbir Kapoor', 'Priyanka Chopra', "Ileana D'Cruz", 'Saurabh Shukla', 2804874).
-filme('Barfi!', 2012, 151, 'Romance', 8.1, 'Anurag Basu', 'Ranbir Kapoor', 'Priyanka Chopra', "Ileana D'Cruz", 'Saurabh Shukla', 2804874).
+filme('Barfi!', 2012, 151, 'Comedy', 8.1, 'Anurag Basu', 'Ranbir Kapoor', 'Priyanka Chopra', 'Ileana D\'Cruz', 'Saurabh Shukla', 2804874).
+filme('Barfi!', 2012, 151, 'Drama', 8.1, 'Anurag Basu', 'Ranbir Kapoor', 'Priyanka Chopra', 'Ileana D\'Cruz', 'Saurabh Shukla', 2804874).
+filme('Barfi!', 2012, 151, 'Romance', 8.1, 'Anurag Basu', 'Ranbir Kapoor', 'Priyanka Chopra', 'Ileana D\'Cruz', 'Saurabh Shukla', 2804874).
 filme('12 Years a Slave', 2013, 134, 'Biography', 8.1, 'Steve McQueen', 'Chiwetel Ejiofor', 'Michael Kenneth Williams', 'Michael Fassbender', 'Brad Pitt', 56671993).
 filme('12 Years a Slave', 2013, 134, 'Drama', 8.1, 'Steve McQueen', 'Chiwetel Ejiofor', 'Michael Kenneth Williams', 'Michael Fassbender', 'Brad Pitt', 56671993).
 filme('12 Years a Slave', 2013, 134, 'History', 8.1, 'Steve McQueen', 'Chiwetel Ejiofor', 'Michael Kenneth Williams', 'Michael Fassbender', 'Brad Pitt', 56671993).
@@ -573,9 +573,9 @@ filme('Harry Potter and the Deathly Hallows: Part 2', 2011, 130, 'Drama', 8.1, '
 filme('Harry Potter and the Deathly Hallows: Part 2', 2011, 130, 'Fantasy', 8.1, 'David Yates', 'Daniel Radcliffe', 'Emma Watson', 'Rupert Grint', 'Michael Gambon', 381011219).
 filme('Okuribito', 2008, 130, 'Drama', 8.1, 'Yôjirô Takita', 'Masahiro Motoki', 'Ryôko Hirosue', 'Tsutomu Yamazaki', 'Kazuko Yoshiyuki', 1498210).
 filme('Okuribito', 2008, 130, 'Music', 8.1, 'Yôjirô Takita', 'Masahiro Motoki', 'Ryôko Hirosue', 'Tsutomu Yamazaki', 'Kazuko Yoshiyuki', 1498210).
-filme("Hachi: A Dog's Tale", 2009, 93, 'Biography', 8.1, 'Lasse Hallström', 'Richard Gere', 'Joan Allen', 'Cary-Hiroyuki Tagawa', 'Sarah Roemer', -1).
-filme("Hachi: A Dog's Tale", 2009, 93, 'Drama', 8.1, 'Lasse Hallström', 'Richard Gere', 'Joan Allen', 'Cary-Hiroyuki Tagawa', 'Sarah Roemer', -1).
-filme("Hachi: A Dog's Tale", 2009, 93, 'Family', 8.1, 'Lasse Hallström', 'Richard Gere', 'Joan Allen', 'Cary-Hiroyuki Tagawa', 'Sarah Roemer', -1).
+filme('Hachi: A Dog\'s Tale', 2009, 93, 'Biography', 8.1, 'Lasse Hallström', 'Richard Gere', 'Joan Allen', 'Cary-Hiroyuki Tagawa', 'Sarah Roemer', -1).
+filme('Hachi: A Dog\'s Tale', 2009, 93, 'Drama', 8.1, 'Lasse Hallström', 'Richard Gere', 'Joan Allen', 'Cary-Hiroyuki Tagawa', 'Sarah Roemer', -1).
+filme('Hachi: A Dog\'s Tale', 2009, 93, 'Family', 8.1, 'Lasse Hallström', 'Richard Gere', 'Joan Allen', 'Cary-Hiroyuki Tagawa', 'Sarah Roemer', -1).
 filme('Mary and Max', 2009, 92, 'Animation', 8.1, 'Adam Elliot', 'Toni Collette', 'Philip Seymour Hoffman', 'Eric Bana', 'Barry Humphries', -1).
 filme('Mary and Max', 2009, 92, 'Comedy', 8.1, 'Adam Elliot', 'Toni Collette', 'Philip Seymour Hoffman', 'Eric Bana', 'Barry Humphries', -1).
 filme('Mary and Max', 2009, 92, 'Drama', 8.1, 'Adam Elliot', 'Toni Collette', 'Philip Seymour Hoffman', 'Eric Bana', 'Barry Humphries', -1).
@@ -633,26 +633,26 @@ filme('Lagaan: Once Upon a Time in India', 2001, 224, 'Musical', 8.1, 'Ashutosh 
 filme('The Sixth Sense', 1999, 107, 'Drama', 8.1, 'M. Night Shyamalan', 'Bruce Willis', 'Haley Joel Osment', 'Toni Collette', 'Olivia Williams', 293506292).
 filme('The Sixth Sense', 1999, 107, 'Mystery', 8.1, 'M. Night Shyamalan', 'Bruce Willis', 'Haley Joel Osment', 'Toni Collette', 'Olivia Williams', 293506292).
 filme('The Sixth Sense', 1999, 107, 'Thriller', 8.1, 'M. Night Shyamalan', 'Bruce Willis', 'Haley Joel Osment', 'Toni Collette', 'Olivia Williams', 293506292).
-filme("La leggenda del pianista sull'oceano", 1998, 169, 'Drama', 8.1, 'Giuseppe Tornatore', 'Tim Roth', 'Pruitt Taylor Vince', 'Mélanie Thierry', 'Bill Nunn', 259127).
-filme("La leggenda del pianista sull'oceano", 1998, 169, 'Music', 8.1, 'Giuseppe Tornatore', 'Tim Roth', 'Pruitt Taylor Vince', 'Mélanie Thierry', 'Bill Nunn', 259127).
-filme("La leggenda del pianista sull'oceano", 1998, 169, 'Romance', 8.1, 'Giuseppe Tornatore', 'Tim Roth', 'Pruitt Taylor Vince', 'Mélanie Thierry', 'Bill Nunn', 259127).
+filme('La leggenda del pianista sull\'oceano', 1998, 169, 'Drama', 8.1, 'Giuseppe Tornatore', 'Tim Roth', 'Pruitt Taylor Vince', 'Mélanie Thierry', 'Bill Nunn', 259127).
+filme('La leggenda del pianista sull\'oceano', 1998, 169, 'Music', 8.1, 'Giuseppe Tornatore', 'Tim Roth', 'Pruitt Taylor Vince', 'Mélanie Thierry', 'Bill Nunn', 259127).
+filme('La leggenda del pianista sull\'oceano', 1998, 169, 'Romance', 8.1, 'Giuseppe Tornatore', 'Tim Roth', 'Pruitt Taylor Vince', 'Mélanie Thierry', 'Bill Nunn', 259127).
 filme('The Truman Show', 1998, 103, 'Comedy', 8.1, 'Peter Weir', 'Jim Carrey', 'Ed Harris', 'Laura Linney', 'Noah Emmerich', 125618201).
 filme('The Truman Show', 1998, 103, 'Drama', 8.1, 'Peter Weir', 'Jim Carrey', 'Ed Harris', 'Laura Linney', 'Noah Emmerich', 125618201).
-filme('Crna macka, beli macor', 1998, 127, 'Comedy', 8.1, 'Emir Kusturica', 'Bajram Severdzan', "Srdjan 'Zika' Todorovic", 'Branka Katic', 'Florijan Ajdini', 348660).
-filme('Crna macka, beli macor', 1998, 127, 'Crime', 8.1, 'Emir Kusturica', 'Bajram Severdzan', "Srdjan 'Zika' Todorovic", 'Branka Katic', 'Florijan Ajdini', 348660).
-filme('Crna macka, beli macor', 1998, 127, 'Romance', 8.1, 'Emir Kusturica', 'Bajram Severdzan', "Srdjan 'Zika' Todorovic", 'Branka Katic', 'Florijan Ajdini', 348660).
+filme('Crna macka, beli macor', 1998, 127, 'Comedy', 8.1, 'Emir Kusturica', 'Bajram Severdzan', 'Srdjan \'Zika\' Todorovic', 'Branka Katic', 'Florijan Ajdini', 348660).
+filme('Crna macka, beli macor', 1998, 127, 'Crime', 8.1, 'Emir Kusturica', 'Bajram Severdzan', 'Srdjan \'Zika\' Todorovic', 'Branka Katic', 'Florijan Ajdini', 348660).
+filme('Crna macka, beli macor', 1998, 127, 'Romance', 8.1, 'Emir Kusturica', 'Bajram Severdzan', 'Srdjan \'Zika\' Todorovic', 'Branka Katic', 'Florijan Ajdini', 348660).
 filme('The Big Lebowski', 1998, 117, 'Comedy', 8.1, 'Joel Coen', 'Ethan Coen', 'Jeff Bridges', 'John Goodman', 'Julianne Moore', 17498804).
 filme('The Big Lebowski', 1998, 117, 'Crime', 8.1, 'Joel Coen', 'Ethan Coen', 'Jeff Bridges', 'John Goodman', 'Julianne Moore', 17498804).
 filme('The Big Lebowski', 1998, 117, 'Sport', 8.1, 'Joel Coen', 'Ethan Coen', 'Jeff Bridges', 'John Goodman', 'Julianne Moore', 17498804).
-filme('Fa yeung nin wah', 2000, 98, 'Drama', 8.1, 'Kar-Wai Wong', 'Tony Chiu-Wai Leung', 'Maggie Cheung', 'Ping Lam Siu', "Tung Cho 'Joe' Cheung", 2734044).
-filme('Fa yeung nin wah', 2000, 98, 'Romance', 8.1, 'Kar-Wai Wong', 'Tony Chiu-Wai Leung', 'Maggie Cheung', 'Ping Lam Siu', "Tung Cho 'Joe' Cheung", 2734044).
+filme('Fa yeung nin wah', 2000, 98, 'Drama', 8.1, 'Kar-Wai Wong', 'Tony Chiu-Wai Leung', 'Maggie Cheung', 'Ping Lam Siu', 'Tung Cho \'Joe\' Cheung', 2734044).
+filme('Fa yeung nin wah', 2000, 98, 'Romance', 8.1, 'Kar-Wai Wong', 'Tony Chiu-Wai Leung', 'Maggie Cheung', 'Ping Lam Siu', 'Tung Cho \'Joe\' Cheung', 2734044).
 filme('Trainspotting', 1996, 93, 'Drama', 8.1, 'Danny Boyle', 'Ewan McGregor', 'Ewen Bremner', 'Jonny Lee Miller', 'Kevin McKidd', 16501785).
 filme('Fargo', 1996, 98, 'Crime', 8.1, 'Joel Coen', 'Ethan Coen', 'William H. Macy', 'Frances McDormand', 'Steve Buscemi', 24611975).
 filme('Fargo', 1996, 98, 'Drama', 8.1, 'Joel Coen', 'Ethan Coen', 'William H. Macy', 'Frances McDormand', 'Steve Buscemi', 24611975).
 filme('Fargo', 1996, 98, 'Thriller', 8.1, 'Joel Coen', 'Ethan Coen', 'William H. Macy', 'Frances McDormand', 'Steve Buscemi', 24611975).
-filme('Underground', 1995, 170, 'Comedy', 8.1, 'Emir Kusturica', "Predrag 'Miki' Manojlovic", 'Lazar Ristovski', 'Mirjana Jokovic', 'Slavko Stimac', 171082).
-filme('Underground', 1995, 170, 'Drama', 8.1, 'Emir Kusturica', "Predrag 'Miki' Manojlovic", 'Lazar Ristovski', 'Mirjana Jokovic', 'Slavko Stimac', 171082).
-filme('Underground', 1995, 170, 'War', 8.1, 'Emir Kusturica', "Predrag 'Miki' Manojlovic", 'Lazar Ristovski', 'Mirjana Jokovic', 'Slavko Stimac', 171082).
+filme('Underground', 1995, 170, 'Comedy', 8.1, 'Emir Kusturica', 'Predrag \'Miki\' Manojlovic', 'Lazar Ristovski', 'Mirjana Jokovic', 'Slavko Stimac', 171082).
+filme('Underground', 1995, 170, 'Drama', 8.1, 'Emir Kusturica', 'Predrag \'Miki\' Manojlovic', 'Lazar Ristovski', 'Mirjana Jokovic', 'Slavko Stimac', 171082).
+filme('Underground', 1995, 170, 'War', 8.1, 'Emir Kusturica', 'Predrag \'Miki\' Manojlovic', 'Lazar Ristovski', 'Mirjana Jokovic', 'Slavko Stimac', 171082).
 filme('La haine', 1995, 98, 'Crime', 8.1, 'Mathieu Kassovitz', 'Vincent Cassel', 'Hubert Koundé', 'Saïd Taghmaoui', 'Abdel Ahmed Ghili', 309811).
 filme('La haine', 1995, 98, 'Drama', 8.1, 'Mathieu Kassovitz', 'Vincent Cassel', 'Hubert Koundé', 'Saïd Taghmaoui', 'Abdel Ahmed Ghili', 309811).
 filme('Dilwale Dulhania Le Jayenge', 1995, 189, 'Drama', 8.1, 'Aditya Chopra', 'Shah Rukh Khan', 'Kajol', 'Amrish Puri', 'Farida Jalal', -1).
@@ -679,8 +679,8 @@ filme('Dà hóng denglong gaogao guà', 1991, 125, 'History', 8.1, 'Yimou Zhang'
 filme('Dà hóng denglong gaogao guà', 1991, 125, 'Romance', 8.1, 'Yimou Zhang', 'Gong Li', 'Jingwu Ma', 'Saifei He', 'Cuifen Cao', 2603061).
 filme('Dead Poets Society', 1989, 128, 'Comedy', 8.1, 'Peter Weir', 'Robin Williams', 'Robert Sean Leonard', 'Ethan Hawke', 'Josh Charles', 95860116).
 filme('Dead Poets Society', 1989, 128, 'Drama', 8.1, 'Peter Weir', 'Robin Williams', 'Robert Sean Leonard', 'Ethan Hawke', 'Josh Charles', 95860116).
-filme('Stand by Me', 1986, 89, 'Adventure', 8.1, 'Rob Reiner', 'Wil Wheaton', 'River Phoenix', 'Corey Feldman', "Jerry O'Connell", 52287414).
-filme('Stand by Me', 1986, 89, 'Drama', 8.1, 'Rob Reiner', 'Wil Wheaton', 'River Phoenix', 'Corey Feldman', "Jerry O'Connell", 52287414).
+filme('Stand by Me', 1986, 89, 'Adventure', 8.1, 'Rob Reiner', 'Wil Wheaton', 'River Phoenix', 'Corey Feldman', 'Jerry O\'Connell', 52287414).
+filme('Stand by Me', 1986, 89, 'Drama', 8.1, 'Rob Reiner', 'Wil Wheaton', 'River Phoenix', 'Corey Feldman', 'Jerry O\'Connell', 52287414).
 filme('Platoon', 1986, 120, 'Drama', 8.1, 'Oliver Stone', 'Charlie Sheen', 'Tom Berenger', 'Willem Dafoe', 'Keith David', 138530565).
 filme('Platoon', 1986, 120, 'War', 8.1, 'Oliver Stone', 'Charlie Sheen', 'Tom Berenger', 'Willem Dafoe', 'Keith David', 138530565).
 filme('Paris, Texas', 1984, 145, 'Drama', 8.1, 'Wim Wenders', 'Harry Dean Stanton', 'Nastassja Kinski', 'Dean Stockwell', 'Aurore Clément', 2181987).
@@ -707,17 +707,17 @@ filme('The Deer Hunter', 1978, 183, 'War', 8.1, 'Michael Cimino', 'Robert De Nir
 filme('Rocky', 1976, 120, 'Drama', 8.1, 'John G. Avildsen', 'Sylvester Stallone', 'Talia Shire', 'Burt Young', 'Carl Weathers', 117235247).
 filme('Rocky', 1976, 120, 'Sport', 8.1, 'John G. Avildsen', 'Sylvester Stallone', 'Talia Shire', 'Burt Young', 'Carl Weathers', 117235247).
 filme('Network', 1976, 121, 'Drama', 8.1, 'Sidney Lumet', 'Faye Dunaway', 'William Holden', 'Peter Finch', 'Robert Duvall', -1).
-filme('Barry Lyndon', 1975, 185, 'Adventure', 8.1, 'Stanley Kubrick', "Ryan O'Neal", 'Marisa Berenson', 'Patrick Magee', 'Hardy Krüger', -1).
-filme('Barry Lyndon', 1975, 185, 'Drama', 8.1, 'Stanley Kubrick', "Ryan O'Neal", 'Marisa Berenson', 'Patrick Magee', 'Hardy Krüger', -1).
-filme('Barry Lyndon', 1975, 185, 'History', 8.1, 'Stanley Kubrick', "Ryan O'Neal", 'Marisa Berenson', 'Patrick Magee', 'Hardy Krüger', -1).
+filme('Barry Lyndon', 1975, 185, 'Adventure', 8.1, 'Stanley Kubrick', 'Ryan O\'Neal', 'Marisa Berenson', 'Patrick Magee', 'Hardy Krüger', -1).
+filme('Barry Lyndon', 1975, 185, 'Drama', 8.1, 'Stanley Kubrick', 'Ryan O\'Neal', 'Marisa Berenson', 'Patrick Magee', 'Hardy Krüger', -1).
+filme('Barry Lyndon', 1975, 185, 'History', 8.1, 'Stanley Kubrick', 'Ryan O\'Neal', 'Marisa Berenson', 'Patrick Magee', 'Hardy Krüger', -1).
 filme('Zerkalo', 1975, 107, 'Biography', 8.1, 'Andrei Tarkovsky', 'Margarita Terekhova', 'Filipp Yankovskiy', 'Ignat Daniltsev', 'Oleg Yankovskiy', 177345).
 filme('Zerkalo', 1975, 107, 'Drama', 8.1, 'Andrei Tarkovsky', 'Margarita Terekhova', 'Filipp Yankovskiy', 'Ignat Daniltsev', 'Oleg Yankovskiy', 177345).
 filme('Chinatown', 1974, 130, 'Drama', 8.1, 'Roman Polanski', 'Jack Nicholson', 'Faye Dunaway', 'John Huston', 'Perry Lopez', 29000000).
 filme('Chinatown', 1974, 130, 'Mystery', 8.1, 'Roman Polanski', 'Jack Nicholson', 'Faye Dunaway', 'John Huston', 'Perry Lopez', 29000000).
 filme('Chinatown', 1974, 130, 'Thriller', 8.1, 'Roman Polanski', 'Jack Nicholson', 'Faye Dunaway', 'John Huston', 'Perry Lopez', 29000000).
-filme('Paper Moon', 1973, 102, 'Comedy', 8.1, 'Peter Bogdanovich', "Ryan O'Neal", "Tatum O'Neal", 'Madeline Kahn', 'John Hillerman', 30933743).
-filme('Paper Moon', 1973, 102, 'Crime', 8.1, 'Peter Bogdanovich', "Ryan O'Neal", "Tatum O'Neal", 'Madeline Kahn', 'John Hillerman', 30933743).
-filme('Paper Moon', 1973, 102, 'Drama', 8.1, 'Peter Bogdanovich', "Ryan O'Neal", "Tatum O'Neal", 'Madeline Kahn', 'John Hillerman', 30933743).
+filme('Paper Moon', 1973, 102, 'Comedy', 8.1, 'Peter Bogdanovich', 'Ryan O\'Neal', 'Tatum O\'Neal', 'Madeline Kahn', 'John Hillerman', 30933743).
+filme('Paper Moon', 1973, 102, 'Crime', 8.1, 'Peter Bogdanovich', 'Ryan O\'Neal', 'Tatum O\'Neal', 'Madeline Kahn', 'John Hillerman', 30933743).
+filme('Paper Moon', 1973, 102, 'Drama', 8.1, 'Peter Bogdanovich', 'Ryan O\'Neal', 'Tatum O\'Neal', 'Madeline Kahn', 'John Hillerman', 30933743).
 filme('Viskningar och rop', 1972, 91, 'Drama', 8.1, 'Ingmar Bergman', 'Harriet Andersson', 'Liv Ullmann', 'Kari Sylwan', 'Ingrid Thulin', 1742348).
 filme('Solaris', 1972, 167, 'Drama', 8.1, 'Andrei Tarkovsky', 'Natalya Bondarchuk', 'Donatas Banionis', 'Jüri Järvet', 'Vladislav Dvorzhetskiy', -1).
 filme('Solaris', 1972, 167, 'Mystery', 8.1, 'Andrei Tarkovsky', 'Natalya Bondarchuk', 'Donatas Banionis', 'Jüri Järvet', 'Vladislav Dvorzhetskiy', -1).
@@ -771,9 +771,9 @@ filme('Le salaire de la peur', 1953, 131, 'Drama', 8.1, 'Henri-Georges Clouzot',
 filme('Le salaire de la peur', 1953, 131, 'Thriller', 8.1, 'Henri-Georges Clouzot', 'Yves Montand', 'Charles Vanel', 'Peter van Eyck', 'Folco Lulli', -1).
 filme('Ace in the Hole', 1951, 111, 'Drama', 8.1, 'Billy Wilder', 'Kirk Douglas', 'Jan Sterling', 'Robert Arthur', 'Porter Hall', 3969893).
 filme('Ace in the Hole', 1951, 111, 'Film-Noir', 8.1, 'Billy Wilder', 'Kirk Douglas', 'Jan Sterling', 'Robert Arthur', 'Porter Hall', 3969893).
-filme('White Heat', 1949, 114, 'Action', 8.1, 'Raoul Walsh', 'James Cagney', 'Virginia Mayo', "Edmond O'Brien", 'Margaret Wycherly', -1).
-filme('White Heat', 1949, 114, 'Crime', 8.1, 'Raoul Walsh', 'James Cagney', 'Virginia Mayo', "Edmond O'Brien", 'Margaret Wycherly', -1).
-filme('White Heat', 1949, 114, 'Drama', 8.1, 'Raoul Walsh', 'James Cagney', 'Virginia Mayo', "Edmond O'Brien", 'Margaret Wycherly', -1).
+filme('White Heat', 1949, 114, 'Action', 8.1, 'Raoul Walsh', 'James Cagney', 'Virginia Mayo', 'Edmond O\'Brien', 'Margaret Wycherly', -1).
+filme('White Heat', 1949, 114, 'Crime', 8.1, 'Raoul Walsh', 'James Cagney', 'Virginia Mayo', 'Edmond O\'Brien', 'Margaret Wycherly', -1).
+filme('White Heat', 1949, 114, 'Drama', 8.1, 'Raoul Walsh', 'James Cagney', 'Virginia Mayo', 'Edmond O\'Brien', 'Margaret Wycherly', -1).
 filme('The Third Man', 1949, 104, 'Film-Noir', 8.1, 'Carol Reed', 'Orson Welles', 'Joseph Cotten', 'Alida Valli', 'Trevor Howard', 449191).
 filme('The Third Man', 1949, 104, 'Mystery', 8.1, 'Carol Reed', 'Orson Welles', 'Joseph Cotten', 'Alida Valli', 'Trevor Howard', 449191).
 filme('The Third Man', 1949, 104, 'Thriller', 8.1, 'Carol Reed', 'Orson Welles', 'Joseph Cotten', 'Alida Valli', 'Trevor Howard', 449191).
@@ -795,13 +795,13 @@ filme('La Grande Illusion', 1937, 113, 'Drama', 8.1, 'Jean Renoir', 'Jean Gabin'
 filme('La Grande Illusion', 1937, 113, 'War', 8.1, 'Jean Renoir', 'Jean Gabin', 'Dita Parlo', 'Pierre Fresnay', 'Erich von Stroheim', 172885).
 filme('It Happened One Night', 1934, 105, 'Comedy', 8.1, 'Frank Capra', 'Clark Gable', 'Claudette Colbert', 'Walter Connolly', 'Roscoe Karns', 4360000).
 filme('It Happened One Night', 1934, 105, 'Romance', 8.1, 'Frank Capra', 'Clark Gable', 'Claudette Colbert', 'Walter Connolly', 'Roscoe Karns', 4360000).
-filme("La passion de Jeanne d'Arc", 1928, 110, 'Biography', 8.1, 'Carl Theodor Dreyer', 'Maria Falconetti', 'Eugene Silvain', 'André Berley', 'Maurice Schutz', 21877).
-filme("La passion de Jeanne d'Arc", 1928, 110, 'Drama', 8.1, 'Carl Theodor Dreyer', 'Maria Falconetti', 'Eugene Silvain', 'André Berley', 'Maurice Schutz', 21877).
-filme("La passion de Jeanne d'Arc", 1928, 110, 'History', 8.1, 'Carl Theodor Dreyer', 'Maria Falconetti', 'Eugene Silvain', 'André Berley', 'Maurice Schutz', 21877).
+filme('La passion de Jeanne d\'Arc', 1928, 110, 'Biography', 8.1, 'Carl Theodor Dreyer', 'Maria Falconetti', 'Eugene Silvain', 'André Berley', 'Maurice Schutz', 21877).
+filme('La passion de Jeanne d\'Arc', 1928, 110, 'Drama', 8.1, 'Carl Theodor Dreyer', 'Maria Falconetti', 'Eugene Silvain', 'André Berley', 'Maurice Schutz', 21877).
+filme('La passion de Jeanne d\'Arc', 1928, 110, 'History', 8.1, 'Carl Theodor Dreyer', 'Maria Falconetti', 'Eugene Silvain', 'André Berley', 'Maurice Schutz', 21877).
 filme('The Circus', 1928, 72, 'Comedy', 8.1, 'Charles Chaplin', 'Charles Chaplin', 'Merna Kennedy', 'Al Ernest Garcia', 'Harry Crocker', -1).
 filme('The Circus', 1928, 72, 'Romance', 8.1, 'Charles Chaplin', 'Charles Chaplin', 'Merna Kennedy', 'Al Ernest Garcia', 'Harry Crocker', -1).
-filme('Sunrise: A Song of Two Humans', 1927, 94, 'Drama', 8.1, 'F.W. Murnau', "George O'Brien", 'Janet Gaynor', 'Margaret Livingston', 'Bodil Rosing', 539540).
-filme('Sunrise: A Song of Two Humans', 1927, 94, 'Romance', 8.1, 'F.W. Murnau', "George O'Brien", 'Janet Gaynor', 'Margaret Livingston', 'Bodil Rosing', 539540).
+filme('Sunrise: A Song of Two Humans', 1927, 94, 'Drama', 8.1, 'F.W. Murnau', 'George O\'Brien', 'Janet Gaynor', 'Margaret Livingston', 'Bodil Rosing', 539540).
+filme('Sunrise: A Song of Two Humans', 1927, 94, 'Romance', 8.1, 'F.W. Murnau', 'George O\'Brien', 'Janet Gaynor', 'Margaret Livingston', 'Bodil Rosing', 539540).
 filme('The General', 1926, 67, 'Action', 8.1, 'Clyde Bruckman', 'Buster Keaton', 'Buster Keaton', 'Marion Mack', 'Glen Cavender', 1033895).
 filme('The General', 1926, 67, 'Adventure', 8.1, 'Clyde Bruckman', 'Buster Keaton', 'Buster Keaton', 'Marion Mack', 'Glen Cavender', 1033895).
 filme('The General', 1926, 67, 'Comedy', 8.1, 'Clyde Bruckman', 'Buster Keaton', 'Buster Keaton', 'Marion Mack', 'Glen Cavender', 1033895).
@@ -872,15 +872,15 @@ filme('The Perks of Being a Wallflower', 2012, 103, 'Romance', 8.0, 'Stephen Chb
 filme('Tropa de Elite 2: O Inimigo Agora é Outro', 2010, 115, 'Action', 8.0, 'José Padilha', 'Wagner Moura', 'Irandhir Santos', 'André Ramiro', 'Milhem Cortaz', 100119).
 filme('Tropa de Elite 2: O Inimigo Agora é Outro', 2010, 115, 'Crime', 8.0, 'José Padilha', 'Wagner Moura', 'Irandhir Santos', 'André Ramiro', 'Milhem Cortaz', 100119).
 filme('Tropa de Elite 2: O Inimigo Agora é Outro', 2010, 115, 'Drama', 8.0, 'José Padilha', 'Wagner Moura', 'Irandhir Santos', 'André Ramiro', 'Milhem Cortaz', 100119).
-filme("The King's Speech", 2010, 118, 'Biography', 8.0, 'Tom Hooper', 'Colin Firth', 'Geoffrey Rush', 'Helena Bonham Carter', 'Derek Jacobi', 138797449).
-filme("The King's Speech", 2010, 118, 'Drama', 8.0, 'Tom Hooper', 'Colin Firth', 'Geoffrey Rush', 'Helena Bonham Carter', 'Derek Jacobi', 138797449).
-filme("The King's Speech", 2010, 118, 'History', 8.0, 'Tom Hooper', 'Colin Firth', 'Geoffrey Rush', 'Helena Bonham Carter', 'Derek Jacobi', 138797449).
+filme('The King\'s Speech', 2010, 118, 'Biography', 8.0, 'Tom Hooper', 'Colin Firth', 'Geoffrey Rush', 'Helena Bonham Carter', 'Derek Jacobi', 138797449).
+filme('The King\'s Speech', 2010, 118, 'Drama', 8.0, 'Tom Hooper', 'Colin Firth', 'Geoffrey Rush', 'Helena Bonham Carter', 'Derek Jacobi', 138797449).
+filme('The King\'s Speech', 2010, 118, 'History', 8.0, 'Tom Hooper', 'Colin Firth', 'Geoffrey Rush', 'Helena Bonham Carter', 'Derek Jacobi', 138797449).
 filme('The Help', 2011, 146, 'Drama', 8.0, 'Tate Taylor', 'Emma Stone', 'Viola Davis', 'Octavia Spencer', 'Bryce Dallas Howard', 169708112).
 filme('Deadpool', 2016, 108, 'Action', 8.0, 'Tim Miller', 'Ryan Reynolds', 'Morena Baccarin', 'T.J. Miller', 'Ed Skrein', 363070709).
 filme('Deadpool', 2016, 108, 'Adventure', 8.0, 'Tim Miller', 'Ryan Reynolds', 'Morena Baccarin', 'T.J. Miller', 'Ed Skrein', 363070709).
 filme('Deadpool', 2016, 108, 'Comedy', 8.0, 'Tim Miller', 'Ryan Reynolds', 'Morena Baccarin', 'T.J. Miller', 'Ed Skrein', 363070709).
-filme('Darbareye Elly', 2009, 119, 'Drama', 8.0, 'Asghar Farhadi', 'Golshifteh Farahani', 'Shahab Hosseini', 'Taraneh Alidoosti', "Merila Zare'i", 106662).
-filme('Darbareye Elly', 2009, 119, 'Mystery', 8.0, 'Asghar Farhadi', 'Golshifteh Farahani', 'Shahab Hosseini', 'Taraneh Alidoosti', "Merila Zare'i", 106662).
+filme('Darbareye Elly', 2009, 119, 'Drama', 8.0, 'Asghar Farhadi', 'Golshifteh Farahani', 'Shahab Hosseini', 'Taraneh Alidoosti', 'Merila Zare\'i', 106662).
+filme('Darbareye Elly', 2009, 119, 'Mystery', 8.0, 'Asghar Farhadi', 'Golshifteh Farahani', 'Shahab Hosseini', 'Taraneh Alidoosti', 'Merila Zare\'i', 106662).
 filme('Dev.D', 2009, 144, 'Drama', 8.0, 'Anurag Kashyap', 'Abhay Deol', 'Mahie Gill', 'Kalki Koechlin', 'Dibyendu Bhattacharya', 10950).
 filme('Dev.D', 2009, 144, 'Romance', 8.0, 'Anurag Kashyap', 'Abhay Deol', 'Mahie Gill', 'Kalki Koechlin', 'Dibyendu Bhattacharya', 10950).
 filme('Yip Man', 2008, 106, 'Action', 8.0, 'Wilson Yip', 'Donnie Yen', 'Simon Yam', 'Siu-Wong Fan', 'Ka Tung Lam', -1).
@@ -979,9 +979,9 @@ filme('Central do Brasil', 1998, 110, 'Drama', 8.0, 'Walter Salles', 'Fernanda M
 filme('The Iron Giant', 1999, 86, 'Animation', 8.0, 'Brad Bird', 'Eli Marienthal', 'Harry Connick Jr.', 'Jennifer Aniston', 'Vin Diesel', 23159305).
 filme('The Iron Giant', 1999, 86, 'Action', 8.0, 'Brad Bird', 'Eli Marienthal', 'Harry Connick Jr.', 'Jennifer Aniston', 'Vin Diesel', 23159305).
 filme('The Iron Giant', 1999, 86, 'Adventure', 8.0, 'Brad Bird', 'Eli Marienthal', 'Harry Connick Jr.', 'Jennifer Aniston', 'Vin Diesel', 23159305).
-filme("Knockin' on Heaven's Door", 1997, 87, 'Action', 8.0, 'Thomas Jahn', 'Til Schweiger', 'Jan Josef Liefers', 'Thierry van Werveke', 'Moritz Bleibtreu', 3296).
-filme("Knockin' on Heaven's Door", 1997, 87, 'Crime', 8.0, 'Thomas Jahn', 'Til Schweiger', 'Jan Josef Liefers', 'Thierry van Werveke', 'Moritz Bleibtreu', 3296).
-filme("Knockin' on Heaven's Door", 1997, 87, 'Comedy', 8.0, 'Thomas Jahn', 'Til Schweiger', 'Jan Josef Liefers', 'Thierry van Werveke', 'Moritz Bleibtreu', 3296).
+filme('Knockin\' on Heaven\'s Door', 1997, 87, 'Action', 8.0, 'Thomas Jahn', 'Til Schweiger', 'Jan Josef Liefers', 'Thierry van Werveke', 'Moritz Bleibtreu', 3296).
+filme('Knockin\' on Heaven\'s Door', 1997, 87, 'Crime', 8.0, 'Thomas Jahn', 'Til Schweiger', 'Jan Josef Liefers', 'Thierry van Werveke', 'Moritz Bleibtreu', 3296).
+filme('Knockin\' on Heaven\'s Door', 1997, 87, 'Comedy', 8.0, 'Thomas Jahn', 'Til Schweiger', 'Jan Josef Liefers', 'Thierry van Werveke', 'Moritz Bleibtreu', 3296).
 filme('Sling Blade', 1996, 135, 'Drama', 8.0, 'Billy Bob Thornton', 'Billy Bob Thornton', 'Dwight Yoakam', 'J.T. Walsh', 'John Ritter', 24475416).
 filme('Secrets & Lies', 1996, 136, 'Comedy', 8.0, 'Mike Leigh', 'Timothy Spall', 'Brenda Blethyn', 'Phyllis Logan', 'Claire Rushbrook', 13417292).
 filme('Secrets & Lies', 1996, 136, 'Drama', 8.0, 'Mike Leigh', 'Timothy Spall', 'Brenda Blethyn', 'Phyllis Logan', 'Claire Rushbrook', 13417292).
@@ -991,24 +991,24 @@ filme('Twelve Monkeys', 1995, 129, 'Thriller', 8.0, 'Terry Gilliam', 'Bruce Will
 filme('Kôkaku Kidôtai', 1995, 83, 'Animation', 8.0, 'Mamoru Oshii', 'Atsuko Tanaka', 'Iemasa Kayumi', 'Akio Ôtsuka', 'Kôichi Yamadera', 515905).
 filme('Kôkaku Kidôtai', 1995, 83, 'Action', 8.0, 'Mamoru Oshii', 'Atsuko Tanaka', 'Iemasa Kayumi', 'Akio Ôtsuka', 'Kôichi Yamadera', 515905).
 filme('Kôkaku Kidôtai', 1995, 83, 'Crime', 8.0, 'Mamoru Oshii', 'Atsuko Tanaka', 'Iemasa Kayumi', 'Akio Ôtsuka', 'Kôichi Yamadera', 515905).
-filme('The Nightmare Before Christmas', 1993, 76, 'Animation', 8.0, 'Henry Selick', 'Danny Elfman', 'Chris Sarandon', "Catherine O'Hara", 'William Hickey', 75082668).
-filme('The Nightmare Before Christmas', 1993, 76, 'Family', 8.0, 'Henry Selick', 'Danny Elfman', 'Chris Sarandon', "Catherine O'Hara", 'William Hickey', 75082668).
-filme('The Nightmare Before Christmas', 1993, 76, 'Fantasy', 8.0, 'Henry Selick', 'Danny Elfman', 'Chris Sarandon', "Catherine O'Hara", 'William Hickey', 75082668).
+filme('The Nightmare Before Christmas', 1993, 76, 'Animation', 8.0, 'Henry Selick', 'Danny Elfman', 'Chris Sarandon', 'Catherine O\'Hara', 'William Hickey', 75082668).
+filme('The Nightmare Before Christmas', 1993, 76, 'Family', 8.0, 'Henry Selick', 'Danny Elfman', 'Chris Sarandon', 'Catherine O\'Hara', 'William Hickey', 75082668).
+filme('The Nightmare Before Christmas', 1993, 76, 'Fantasy', 8.0, 'Henry Selick', 'Danny Elfman', 'Chris Sarandon', 'Catherine O\'Hara', 'William Hickey', 75082668).
 filme('Groundhog Day', 1993, 101, 'Comedy', 8.0, 'Harold Ramis', 'Bill Murray', 'Andie MacDowell', 'Chris Elliott', 'Stephen Tobolowsky', 70906973).
 filme('Groundhog Day', 1993, 101, 'Fantasy', 8.0, 'Harold Ramis', 'Bill Murray', 'Andie MacDowell', 'Chris Elliott', 'Stephen Tobolowsky', 70906973).
 filme('Groundhog Day', 1993, 101, 'Romance', 8.0, 'Harold Ramis', 'Bill Murray', 'Andie MacDowell', 'Chris Elliott', 'Stephen Tobolowsky', 70906973).
 filme('Bound by Honor', 1993, 180, 'Crime', 8.0, 'Taylor Hackford', 'Damian Chapa', 'Jesse Borrego', 'Benjamin Bratt', 'Enrique Castillo', 4496583).
 filme('Bound by Honor', 1993, 180, 'Drama', 8.0, 'Taylor Hackford', 'Damian Chapa', 'Jesse Borrego', 'Benjamin Bratt', 'Enrique Castillo', 4496583).
-filme('Scent of a Woman', 1992, 156, 'Drama', 8.0, 'Martin Brest', 'Al Pacino', "Chris O'Donnell", 'James Rebhorn', 'Gabrielle Anwar', 63895607).
+filme('Scent of a Woman', 1992, 156, 'Drama', 8.0, 'Martin Brest', 'Al Pacino', 'Chris O\'Donnell', 'James Rebhorn', 'Gabrielle Anwar', 63895607).
 filme('Aladdin', 1992, 90, 'Animation', 8.0, 'Ron Clements', 'John Musker', 'Scott Weinger', 'Robin Williams', 'Linda Larkin', 217350219).
 filme('Aladdin', 1992, 90, 'Adventure', 8.0, 'Ron Clements', 'John Musker', 'Scott Weinger', 'Robin Williams', 'Linda Larkin', 217350219).
 filme('Aladdin', 1992, 90, 'Comedy', 8.0, 'Ron Clements', 'John Musker', 'Scott Weinger', 'Robin Williams', 'Linda Larkin', 217350219).
 filme('JFK', 1991, 189, 'Drama', 8.0, 'Oliver Stone', 'Kevin Costner', 'Gary Oldman', 'Jack Lemmon', 'Walter Matthau', 70405498).
 filme('JFK', 1991, 189, 'History', 8.0, 'Oliver Stone', 'Kevin Costner', 'Gary Oldman', 'Jack Lemmon', 'Walter Matthau', 70405498).
 filme('JFK', 1991, 189, 'Thriller', 8.0, 'Oliver Stone', 'Kevin Costner', 'Gary Oldman', 'Jack Lemmon', 'Walter Matthau', 70405498).
-filme('Beauty and the Beast', 1991, 84, 'Animation', 8.0, 'Gary Trousdale', 'Kirk Wise', "Paige O'Hara", 'Robby Benson', 'Jesse Corti', 218967620).
-filme('Beauty and the Beast', 1991, 84, 'Family', 8.0, 'Gary Trousdale', 'Kirk Wise', "Paige O'Hara", 'Robby Benson', 'Jesse Corti', 218967620).
-filme('Beauty and the Beast', 1991, 84, 'Fantasy', 8.0, 'Gary Trousdale', 'Kirk Wise', "Paige O'Hara", 'Robby Benson', 'Jesse Corti', 218967620).
+filme('Beauty and the Beast', 1991, 84, 'Animation', 8.0, 'Gary Trousdale', 'Kirk Wise', 'Paige O\'Hara', 'Robby Benson', 'Jesse Corti', 218967620).
+filme('Beauty and the Beast', 1991, 84, 'Family', 8.0, 'Gary Trousdale', 'Kirk Wise', 'Paige O\'Hara', 'Robby Benson', 'Jesse Corti', 218967620).
+filme('Beauty and the Beast', 1991, 84, 'Fantasy', 8.0, 'Gary Trousdale', 'Kirk Wise', 'Paige O\'Hara', 'Robby Benson', 'Jesse Corti', 218967620).
 filme('Dances with Wolves', 1990, 181, 'Adventure', 8.0, 'Kevin Costner', 'Kevin Costner', 'Mary McDonnell', 'Graham Greene', 'Rodney A. Grant', 184208848).
 filme('Dances with Wolves', 1990, 181, 'Drama', 8.0, 'Kevin Costner', 'Kevin Costner', 'Mary McDonnell', 'Graham Greene', 'Rodney A. Grant', 184208848).
 filme('Dances with Wolves', 1990, 181, 'Western', 8.0, 'Kevin Costner', 'Kevin Costner', 'Mary McDonnell', 'Graham Greene', 'Rodney A. Grant', 184208848).
@@ -1034,9 +1034,9 @@ filme('The Terminator', 1984, 107, 'Sci-Fi', 8.0, 'James Cameron', 'Arnold Schwa
 filme('Gandhi', 1982, 191, 'Biography', 8.0, 'Richard Attenborough', 'Ben Kingsley', 'John Gielgud', 'Rohini Hattangadi', 'Roshan Seth', 52767889).
 filme('Gandhi', 1982, 191, 'Drama', 8.0, 'Richard Attenborough', 'Ben Kingsley', 'John Gielgud', 'Rohini Hattangadi', 'Roshan Seth', 52767889).
 filme('Gandhi', 1982, 191, 'History', 8.0, 'Richard Attenborough', 'Ben Kingsley', 'John Gielgud', 'Rohini Hattangadi', 'Roshan Seth', 52767889).
-filme('Kagemusha', 1980, 180, 'Drama', 8.0, 'Akira Kurosawa', 'Tatsuya Nakadai', 'Tsutomu Yamazaki', "Ken'ichi Hagiwara", 'Jinpachi Nezu', -1).
-filme('Kagemusha', 1980, 180, 'History', 8.0, 'Akira Kurosawa', 'Tatsuya Nakadai', 'Tsutomu Yamazaki', "Ken'ichi Hagiwara", 'Jinpachi Nezu', -1).
-filme('Kagemusha', 1980, 180, 'War', 8.0, 'Akira Kurosawa', 'Tatsuya Nakadai', 'Tsutomu Yamazaki', "Ken'ichi Hagiwara", 'Jinpachi Nezu', -1).
+filme('Kagemusha', 1980, 180, 'Drama', 8.0, 'Akira Kurosawa', 'Tatsuya Nakadai', 'Tsutomu Yamazaki', 'Ken\'ichi Hagiwara', 'Jinpachi Nezu', -1).
+filme('Kagemusha', 1980, 180, 'History', 8.0, 'Akira Kurosawa', 'Tatsuya Nakadai', 'Tsutomu Yamazaki', 'Ken\'ichi Hagiwara', 'Jinpachi Nezu', -1).
+filme('Kagemusha', 1980, 180, 'War', 8.0, 'Akira Kurosawa', 'Tatsuya Nakadai', 'Tsutomu Yamazaki', 'Ken\'ichi Hagiwara', 'Jinpachi Nezu', -1).
 filme('Being There', 1979, 130, 'Comedy', 8.0, 'Hal Ashby', 'Peter Sellers', 'Shirley MacLaine', 'Melvyn Douglas', 'Jack Warden', 30177511).
 filme('Being There', 1979, 130, 'Drama', 8.0, 'Hal Ashby', 'Peter Sellers', 'Shirley MacLaine', 'Melvyn Douglas', 'Jack Warden', 30177511).
 filme('Annie Hall', 1977, 93, 'Comedy', 8.0, 'Woody Allen', 'Woody Allen', 'Diane Keaton', 'Tony Roberts', 'Carol Kane', 39200000).
@@ -1062,14 +1062,14 @@ filme('Il conformista', 1970, 113, 'Drama', 8.0, 'Bernardo Bertolucci', 'Jean-Lo
 filme('Butch Cassidy and the Sundance Kid', 1969, 110, 'Biography', 8.0, 'George Roy Hill', 'Paul Newman', 'Robert Redford', 'Katharine Ross', 'Strother Martin', 102308889).
 filme('Butch Cassidy and the Sundance Kid', 1969, 110, 'Crime', 8.0, 'George Roy Hill', 'Paul Newman', 'Robert Redford', 'Katharine Ross', 'Strother Martin', 102308889).
 filme('Butch Cassidy and the Sundance Kid', 1969, 110, 'Drama', 8.0, 'George Roy Hill', 'Paul Newman', 'Robert Redford', 'Katharine Ross', 'Strother Martin', 102308889).
-filme("Rosemary's Baby", 1968, 137, 'Drama', 8.0, 'Roman Polanski', 'Mia Farrow', 'John Cassavetes', 'Ruth Gordon', 'Sidney Blackmer', -1).
-filme("Rosemary's Baby", 1968, 137, 'Horror', 8.0, 'Roman Polanski', 'Mia Farrow', 'John Cassavetes', 'Ruth Gordon', 'Sidney Blackmer', -1).
+filme('Rosemary\'s Baby', 1968, 137, 'Drama', 8.0, 'Roman Polanski', 'Mia Farrow', 'John Cassavetes', 'Ruth Gordon', 'Sidney Blackmer', -1).
+filme('Rosemary\'s Baby', 1968, 137, 'Horror', 8.0, 'Roman Polanski', 'Mia Farrow', 'John Cassavetes', 'Ruth Gordon', 'Sidney Blackmer', -1).
 filme('Planet of the Apes', 1968, 112, 'Adventure', 8.0, 'Franklin J. Schaffner', 'Charlton Heston', 'Roddy McDowall', 'Kim Hunter', 'Maurice Evans', 33395426).
 filme('Planet of the Apes', 1968, 112, 'Sci-Fi', 8.0, 'Franklin J. Schaffner', 'Charlton Heston', 'Roddy McDowall', 'Kim Hunter', 'Maurice Evans', 33395426).
 filme('The Graduate', 1967, 106, 'Comedy', 8.0, 'Mike Nichols', 'Dustin Hoffman', 'Anne Bancroft', 'Katharine Ross', 'William Daniels', 104945305).
 filme('The Graduate', 1967, 106, 'Drama', 8.0, 'Mike Nichols', 'Dustin Hoffman', 'Anne Bancroft', 'Katharine Ross', 'William Daniels', 104945305).
 filme('The Graduate', 1967, 106, 'Romance', 8.0, 'Mike Nichols', 'Dustin Hoffman', 'Anne Bancroft', 'Katharine Ross', 'William Daniels', 104945305).
-filme("Who's Afraid of Virginia Woolf?", 1966, 131, 'Drama', 8.0, 'Mike Nichols', 'Elizabeth Taylor', 'Richard Burton', 'George Segal', 'Sandy Dennis', -1).
+filme('Who\'s Afraid of Virginia Woolf?', 1966, 131, 'Drama', 8.0, 'Mike Nichols', 'Elizabeth Taylor', 'Richard Burton', 'George Segal', 'Sandy Dennis', -1).
 filme('The Sound of Music', 1965, 172, 'Biography', 8.0, 'Robert Wise', 'Julie Andrews', 'Christopher Plummer', 'Eleanor Parker', 'Richard Haydn', 163214286).
 filme('The Sound of Music', 1965, 172, 'Drama', 8.0, 'Robert Wise', 'Julie Andrews', 'Christopher Plummer', 'Eleanor Parker', 'Richard Haydn', 163214286).
 filme('The Sound of Music', 1965, 172, 'Family', 8.0, 'Robert Wise', 'Julie Andrews', 'Christopher Plummer', 'Eleanor Parker', 'Richard Haydn', 163214286).
@@ -1088,9 +1088,9 @@ filme('La dolce vita', 1960, 174, 'Drama', 8.0, 'Federico Fellini', 'Marcello Ma
 filme('Rio Bravo', 1959, 141, 'Action', 8.0, 'Howard Hawks', 'John Wayne', 'Dean Martin', 'Ricky Nelson', 'Angie Dickinson', 12535000).
 filme('Rio Bravo', 1959, 141, 'Drama', 8.0, 'Howard Hawks', 'John Wayne', 'Dean Martin', 'Ricky Nelson', 'Angie Dickinson', 12535000).
 filme('Rio Bravo', 1959, 141, 'Western', 8.0, 'Howard Hawks', 'John Wayne', 'Dean Martin', 'Ricky Nelson', 'Angie Dickinson', 12535000).
-filme('Anatomy of a Murder', 1959, 161, 'Crime', 8.0, 'Otto Preminger', 'James Stewart', 'Lee Remick', 'Ben Gazzara', "Arthur O'Connell", 11900000).
-filme('Anatomy of a Murder', 1959, 161, 'Drama', 8.0, 'Otto Preminger', 'James Stewart', 'Lee Remick', 'Ben Gazzara', "Arthur O'Connell", 11900000).
-filme('Anatomy of a Murder', 1959, 161, 'Mystery', 8.0, 'Otto Preminger', 'James Stewart', 'Lee Remick', 'Ben Gazzara', "Arthur O'Connell", 11900000).
+filme('Anatomy of a Murder', 1959, 161, 'Crime', 8.0, 'Otto Preminger', 'James Stewart', 'Lee Remick', 'Ben Gazzara', 'Arthur O\'Connell', 11900000).
+filme('Anatomy of a Murder', 1959, 161, 'Drama', 8.0, 'Otto Preminger', 'James Stewart', 'Lee Remick', 'Ben Gazzara', 'Arthur O\'Connell', 11900000).
+filme('Anatomy of a Murder', 1959, 161, 'Mystery', 8.0, 'Otto Preminger', 'James Stewart', 'Lee Remick', 'Ben Gazzara', 'Arthur O\'Connell', 11900000).
 filme('Touch of Evil', 1958, 95, 'Crime', 8.0, 'Orson Welles', 'Charlton Heston', 'Orson Welles', 'Janet Leigh', 'Joseph Calleia', 2237659).
 filme('Touch of Evil', 1958, 95, 'Drama', 8.0, 'Orson Welles', 'Charlton Heston', 'Orson Welles', 'Janet Leigh', 'Joseph Calleia', 2237659).
 filme('Touch of Evil', 1958, 95, 'Film-Noir', 8.0, 'Orson Welles', 'Charlton Heston', 'Orson Welles', 'Janet Leigh', 'Joseph Calleia', 2237659).
@@ -1144,9 +1144,9 @@ filme('The Wizard of Oz', 1939, 102, 'Family', 8.0, 'Victor Fleming', 'George Cu
 filme('The Wizard of Oz', 1939, 102, 'Fantasy', 8.0, 'Victor Fleming', 'George Cukor', 'Mervyn LeRoy', 'Norman Taurog', 'Richard Thorpe', 2076020).
 filme('La règle du jeu', 1939, 110, 'Comedy', 8.0, 'Jean Renoir', 'Marcel Dalio', 'Nora Gregor', 'Paulette Dubost', 'Mila Parély', -1).
 filme('La règle du jeu', 1939, 110, 'Drama', 8.0, 'Jean Renoir', 'Marcel Dalio', 'Nora Gregor', 'Paulette Dubost', 'Mila Parély', -1).
-filme('The Thin Man', 1934, 91, 'Comedy', 8.0, 'W.S. Van Dyke', 'William Powell', 'Myrna Loy', "Maureen O'Sullivan", 'Nat Pendleton', -1).
-filme('The Thin Man', 1934, 91, 'Crime', 8.0, 'W.S. Van Dyke', 'William Powell', 'Myrna Loy', "Maureen O'Sullivan", 'Nat Pendleton', -1).
-filme('The Thin Man', 1934, 91, 'Mystery', 8.0, 'W.S. Van Dyke', 'William Powell', 'Myrna Loy', "Maureen O'Sullivan", 'Nat Pendleton', -1).
+filme('The Thin Man', 1934, 91, 'Comedy', 8.0, 'W.S. Van Dyke', 'William Powell', 'Myrna Loy', 'Maureen O\'Sullivan', 'Nat Pendleton', -1).
+filme('The Thin Man', 1934, 91, 'Crime', 8.0, 'W.S. Van Dyke', 'William Powell', 'Myrna Loy', 'Maureen O\'Sullivan', 'Nat Pendleton', -1).
+filme('The Thin Man', 1934, 91, 'Mystery', 8.0, 'W.S. Van Dyke', 'William Powell', 'Myrna Loy', 'Maureen O\'Sullivan', 'Nat Pendleton', -1).
 filme('All Quiet on the Western Front', 1930, 152, 'Drama', 8.0, 'Lewis Milestone', 'Lew Ayres', 'Louis Wolheim', 'John Wray', 'Arnold Lucy', 3270000).
 filme('All Quiet on the Western Front', 1930, 152, 'War', 8.0, 'Lewis Milestone', 'Lew Ayres', 'Louis Wolheim', 'John Wray', 'Arnold Lucy', 3270000).
 filme('Bronenosets Potemkin', 1925, 75, 'Drama', 8.0, 'Sergei M. Eisenstein', 'Aleksandr Antonov', 'Vladimir Barskiy', 'Grigoriy Aleksandrov', 'Ivan Bobrov', 50970).
@@ -1196,8 +1196,8 @@ filme('Before Midnight', 2013, 109, 'Romance', 7.9, 'Richard Linklater', 'Ethan 
 filme('X-Men: Days of Future Past', 2014, 132, 'Action', 7.9, 'Bryan Singer', 'Patrick Stewart', 'Ian McKellen', 'Hugh Jackman', 'James McAvoy', 233921534).
 filme('X-Men: Days of Future Past', 2014, 132, 'Adventure', 7.9, 'Bryan Singer', 'Patrick Stewart', 'Ian McKellen', 'Hugh Jackman', 'James McAvoy', 233921534).
 filme('X-Men: Days of Future Past', 2014, 132, 'Sci-Fi', 7.9, 'Bryan Singer', 'Patrick Stewart', 'Ian McKellen', 'Hugh Jackman', 'James McAvoy', 233921534).
-filme("Bir Zamanlar Anadolu'da", 2011, 157, 'Crime', 7.9, 'Nuri Bilge Ceylan', 'Muhammet Uzuner', 'Yilmaz Erdogan', 'Taner Birsel', 'Ahmet Mümtaz Taylan', 138730).
-filme("Bir Zamanlar Anadolu'da", 2011, 157, 'Drama', 7.9, 'Nuri Bilge Ceylan', 'Muhammet Uzuner', 'Yilmaz Erdogan', 'Taner Birsel', 'Ahmet Mümtaz Taylan', 138730).
+filme('Bir Zamanlar Anadolu\'da', 2011, 157, 'Crime', 7.9, 'Nuri Bilge Ceylan', 'Muhammet Uzuner', 'Yilmaz Erdogan', 'Taner Birsel', 'Ahmet Mümtaz Taylan', 138730).
+filme('Bir Zamanlar Anadolu\'da', 2011, 157, 'Drama', 7.9, 'Nuri Bilge Ceylan', 'Muhammet Uzuner', 'Yilmaz Erdogan', 'Taner Birsel', 'Ahmet Mümtaz Taylan', 138730).
 filme('The Artist', 2011, 100, 'Comedy', 7.9, 'Michel Hazanavicius', 'Jean Dujardin', 'Bérénice Bejo', 'John Goodman', 'James Cromwell', 44671682).
 filme('The Artist', 2011, 100, 'Drama', 7.9, 'Michel Hazanavicius', 'Jean Dujardin', 'Bérénice Bejo', 'John Goodman', 'James Cromwell', 44671682).
 filme('The Artist', 2011, 100, 'Romance', 7.9, 'Michel Hazanavicius', 'Jean Dujardin', 'Bérénice Bejo', 'John Goodman', 'James Cromwell', 44671682).
@@ -1271,12 +1271,12 @@ filme('Ying xiong', 2002, 120, 'History', 7.9, 'Yimou Zhang', 'Jet Li', 'Tony Ch
 filme('Hable con ella', 2002, 112, 'Drama', 7.9, 'Pedro Almodóvar', 'Rosario Flores', 'Javier Cámara', 'Darío Grandinetti', 'Leonor Watling', 9284265).
 filme('Hable con ella', 2002, 112, 'Mystery', 7.9, 'Pedro Almodóvar', 'Rosario Flores', 'Javier Cámara', 'Darío Grandinetti', 'Leonor Watling', 9284265).
 filme('Hable con ella', 2002, 112, 'Romance', 7.9, 'Pedro Almodóvar', 'Rosario Flores', 'Javier Cámara', 'Darío Grandinetti', 'Leonor Watling', 9284265).
-filme("No Man's Land", 2001, 98, 'Comedy', 7.9, 'Danis Tanovic', 'Branko Djuric', 'Rene Bitorajac', 'Filip Sovagovic', 'Georges Siatidis', 1059830).
-filme("No Man's Land", 2001, 98, 'Drama', 7.9, 'Danis Tanovic', 'Branko Djuric', 'Rene Bitorajac', 'Filip Sovagovic', 'Georges Siatidis', 1059830).
-filme("No Man's Land", 2001, 98, 'War', 7.9, 'Danis Tanovic', 'Branko Djuric', 'Rene Bitorajac', 'Filip Sovagovic', 'Georges Siatidis', 1059830).
-filme('Cowboy Bebop: Tengoku no tobira', 2001, 115, 'Animation', 7.9, "Shin'ichirô Watanabe", 'Tensai Okamura', 'Hiroyuki Okiura', 'Yoshiyuki Takei', 'Beau Billingslea', 1000045).
-filme('Cowboy Bebop: Tengoku no tobira', 2001, 115, 'Action', 7.9, "Shin'ichirô Watanabe", 'Tensai Okamura', 'Hiroyuki Okiura', 'Yoshiyuki Takei', 'Beau Billingslea', 1000045).
-filme('Cowboy Bebop: Tengoku no tobira', 2001, 115, 'Crime', 7.9, "Shin'ichirô Watanabe", 'Tensai Okamura', 'Hiroyuki Okiura', 'Yoshiyuki Takei', 'Beau Billingslea', 1000045).
+filme('No Man\'s Land', 2001, 98, 'Comedy', 7.9, 'Danis Tanovic', 'Branko Djuric', 'Rene Bitorajac', 'Filip Sovagovic', 'Georges Siatidis', 1059830).
+filme('No Man\'s Land', 2001, 98, 'Drama', 7.9, 'Danis Tanovic', 'Branko Djuric', 'Rene Bitorajac', 'Filip Sovagovic', 'Georges Siatidis', 1059830).
+filme('No Man\'s Land', 2001, 98, 'War', 7.9, 'Danis Tanovic', 'Branko Djuric', 'Rene Bitorajac', 'Filip Sovagovic', 'Georges Siatidis', 1059830).
+filme('Cowboy Bebop: Tengoku no tobira', 2001, 115, 'Animation', 7.9, 'Shin\'ichirô Watanabe', 'Tensai Okamura', 'Hiroyuki Okiura', 'Yoshiyuki Takei', 'Beau Billingslea', 1000045).
+filme('Cowboy Bebop: Tengoku no tobira', 2001, 115, 'Action', 7.9, 'Shin\'ichirô Watanabe', 'Tensai Okamura', 'Hiroyuki Okiura', 'Yoshiyuki Takei', 'Beau Billingslea', 1000045).
+filme('Cowboy Bebop: Tengoku no tobira', 2001, 115, 'Crime', 7.9, 'Shin\'ichirô Watanabe', 'Tensai Okamura', 'Hiroyuki Okiura', 'Yoshiyuki Takei', 'Beau Billingslea', 1000045).
 filme('The Bourne Identity', 2002, 119, 'Action', 7.9, 'Doug Liman', 'Franka Potente', 'Matt Damon', 'Chris Cooper', 'Clive Owen', 121661683).
 filme('The Bourne Identity', 2002, 119, 'Mystery', 7.9, 'Doug Liman', 'Franka Potente', 'Matt Damon', 'Chris Cooper', 'Clive Owen', 121661683).
 filme('The Bourne Identity', 2002, 119, 'Thriller', 7.9, 'Doug Liman', 'Franka Potente', 'Matt Damon', 'Chris Cooper', 'Clive Owen', 121661683).
@@ -1310,9 +1310,9 @@ filme('Trois couleurs: Bleu', 1993, 94, 'Mystery', 7.9, 'Krzysztof Kieslowski', 
 filme('Jûbê ninpûchô', 1993, 94, 'Animation', 7.9, 'Yoshiaki Kawajiri', 'Kôichi Yamadera', 'Emi Shinohara', 'Takeshi Aono', 'Osamu Saka', -1).
 filme('Jûbê ninpûchô', 1993, 94, 'Action', 7.9, 'Yoshiaki Kawajiri', 'Kôichi Yamadera', 'Emi Shinohara', 'Takeshi Aono', 'Osamu Saka', -1).
 filme('Jûbê ninpûchô', 1993, 94, 'Adventure', 7.9, 'Yoshiaki Kawajiri', 'Kôichi Yamadera', 'Emi Shinohara', 'Takeshi Aono', 'Osamu Saka', -1).
-filme("Carlito's Way", 1993, 144, 'Crime', 7.9, 'Brian De Palma', 'Al Pacino', 'Sean Penn', 'Penelope Ann Miller', 'John Leguizamo', 36948322).
-filme("Carlito's Way", 1993, 144, 'Drama', 7.9, 'Brian De Palma', 'Al Pacino', 'Sean Penn', 'Penelope Ann Miller', 'John Leguizamo', 36948322).
-filme("Carlito's Way", 1993, 144, 'Thriller', 7.9, 'Brian De Palma', 'Al Pacino', 'Sean Penn', 'Penelope Ann Miller', 'John Leguizamo', 36948322).
+filme('Carlito\'s Way', 1993, 144, 'Crime', 7.9, 'Brian De Palma', 'Al Pacino', 'Sean Penn', 'Penelope Ann Miller', 'John Leguizamo', 36948322).
+filme('Carlito\'s Way', 1993, 144, 'Drama', 7.9, 'Brian De Palma', 'Al Pacino', 'Sean Penn', 'Penelope Ann Miller', 'John Leguizamo', 36948322).
+filme('Carlito\'s Way', 1993, 144, 'Thriller', 7.9, 'Brian De Palma', 'Al Pacino', 'Sean Penn', 'Penelope Ann Miller', 'John Leguizamo', 36948322).
 filme('Edward Scissorhands', 1990, 105, 'Drama', 7.9, 'Tim Burton', 'Johnny Depp', 'Winona Ryder', 'Dianne Wiest', 'Anthony Michael Hall', 56362352).
 filme('Edward Scissorhands', 1990, 105, 'Fantasy', 7.9, 'Tim Burton', 'Johnny Depp', 'Winona Ryder', 'Dianne Wiest', 'Anthony Michael Hall', 56362352).
 filme('Edward Scissorhands', 1990, 105, 'Romance', 7.9, 'Tim Burton', 'Johnny Depp', 'Winona Ryder', 'Dianne Wiest', 'Anthony Michael Hall', 56362352).
@@ -1343,9 +1343,9 @@ filme('All That Jazz', 1979, 123, 'Musical', 7.9, 'Bob Fosse', 'Roy Scheider', '
 filme('Dawn of the Dead', 1978, 127, 'Action', 7.9, 'George A. Romero', 'David Emge', 'Ken Foree', 'Scott H. Reiniger', 'Gaylen Ross', 5100000).
 filme('Dawn of the Dead', 1978, 127, 'Adventure', 7.9, 'George A. Romero', 'David Emge', 'Ken Foree', 'Scott H. Reiniger', 'Gaylen Ross', 5100000).
 filme('Dawn of the Dead', 1978, 127, 'Horror', 7.9, 'George A. Romero', 'David Emge', 'Ken Foree', 'Scott H. Reiniger', 'Gaylen Ross', 5100000).
-filme("All the President's Men", 1976, 138, 'Biography', 7.9, 'Alan J. Pakula', 'Dustin Hoffman', 'Robert Redford', 'Jack Warden', 'Martin Balsam', 70600000).
-filme("All the President's Men", 1976, 138, 'Drama', 7.9, 'Alan J. Pakula', 'Dustin Hoffman', 'Robert Redford', 'Jack Warden', 'Martin Balsam', 70600000).
-filme("All the President's Men", 1976, 138, 'History', 7.9, 'Alan J. Pakula', 'Dustin Hoffman', 'Robert Redford', 'Jack Warden', 'Martin Balsam', 70600000).
+filme('All the President\'s Men', 1976, 138, 'Biography', 7.9, 'Alan J. Pakula', 'Dustin Hoffman', 'Robert Redford', 'Jack Warden', 'Martin Balsam', 70600000).
+filme('All the President\'s Men', 1976, 138, 'Drama', 7.9, 'Alan J. Pakula', 'Dustin Hoffman', 'Robert Redford', 'Jack Warden', 'Martin Balsam', 70600000).
+filme('All the President\'s Men', 1976, 138, 'History', 7.9, 'Alan J. Pakula', 'Dustin Hoffman', 'Robert Redford', 'Jack Warden', 'Martin Balsam', 70600000).
 filme('La montaña sagrada', 1973, 114, 'Adventure', 7.9, 'Alejandro Jodorowsky', 'Alejandro Jodorowsky', 'Horacio Salinas', 'Zamira Saunders', 'Juan Ferrara', 61001).
 filme('La montaña sagrada', 1973, 114, 'Drama', 7.9, 'Alejandro Jodorowsky', 'Alejandro Jodorowsky', 'Horacio Salinas', 'Zamira Saunders', 'Juan Ferrara', 61001).
 filme('La montaña sagrada', 1973, 114, 'Fantasy', 7.9, 'Alejandro Jodorowsky', 'Alejandro Jodorowsky', 'Horacio Salinas', 'Zamira Saunders', 'Juan Ferrara', 61001).
@@ -1362,14 +1362,14 @@ filme('Harold and Maude', 1971, 91, 'Romance', 7.9, 'Hal Ashby', 'Ruth Gordon', 
 filme('Patton', 1970, 172, 'Biography', 7.9, 'Franklin J. Schaffner', 'George C. Scott', 'Karl Malden', 'Stephen Young', 'Michael Strong', 61700000).
 filme('Patton', 1970, 172, 'Drama', 7.9, 'Franklin J. Schaffner', 'George C. Scott', 'Karl Malden', 'Stephen Young', 'Michael Strong', 61700000).
 filme('Patton', 1970, 172, 'War', 7.9, 'Franklin J. Schaffner', 'George C. Scott', 'Karl Malden', 'Stephen Young', 'Michael Strong', 61700000).
-filme('The Wild Bunch', 1969, 145, 'Action', 7.9, 'Sam Peckinpah', 'William Holden', 'Ernest Borgnine', 'Robert Ryan', "Edmond O'Brien", 12064472).
-filme('The Wild Bunch', 1969, 145, 'Adventure', 7.9, 'Sam Peckinpah', 'William Holden', 'Ernest Borgnine', 'Robert Ryan', "Edmond O'Brien", 12064472).
-filme('The Wild Bunch', 1969, 145, 'Western', 7.9, 'Sam Peckinpah', 'William Holden', 'Ernest Borgnine', 'Robert Ryan', "Edmond O'Brien", 12064472).
-filme('Night of the Living Dead', 1968, 96, 'Horror', 7.9, 'George A. Romero', 'Duane Jones', "Judith O'Dea", 'Karl Hardman', 'Marilyn Eastman', 89029).
-filme('Night of the Living Dead', 1968, 96, 'Thriller', 7.9, 'George A. Romero', 'Duane Jones', "Judith O'Dea", 'Karl Hardman', 'Marilyn Eastman', 89029).
-filme('The Lion in Winter', 1968, 134, 'Biography', 7.9, 'Anthony Harvey', "Peter O'Toole", 'Katharine Hepburn', 'Anthony Hopkins', 'John Castle', 22276975).
-filme('The Lion in Winter', 1968, 134, 'Drama', 7.9, 'Anthony Harvey', "Peter O'Toole", 'Katharine Hepburn', 'Anthony Hopkins', 'John Castle', 22276975).
-filme('The Lion in Winter', 1968, 134, 'History', 7.9, 'Anthony Harvey', "Peter O'Toole", 'Katharine Hepburn', 'Anthony Hopkins', 'John Castle', 22276975).
+filme('The Wild Bunch', 1969, 145, 'Action', 7.9, 'Sam Peckinpah', 'William Holden', 'Ernest Borgnine', 'Robert Ryan', 'Edmond O\'Brien', 12064472).
+filme('The Wild Bunch', 1969, 145, 'Adventure', 7.9, 'Sam Peckinpah', 'William Holden', 'Ernest Borgnine', 'Robert Ryan', 'Edmond O\'Brien', 12064472).
+filme('The Wild Bunch', 1969, 145, 'Western', 7.9, 'Sam Peckinpah', 'William Holden', 'Ernest Borgnine', 'Robert Ryan', 'Edmond O\'Brien', 12064472).
+filme('Night of the Living Dead', 1968, 96, 'Horror', 7.9, 'George A. Romero', 'Duane Jones', 'Judith O\'Dea', 'Karl Hardman', 'Marilyn Eastman', 89029).
+filme('Night of the Living Dead', 1968, 96, 'Thriller', 7.9, 'George A. Romero', 'Duane Jones', 'Judith O\'Dea', 'Karl Hardman', 'Marilyn Eastman', 89029).
+filme('The Lion in Winter', 1968, 134, 'Biography', 7.9, 'Anthony Harvey', 'Peter O\'Toole', 'Katharine Hepburn', 'Anthony Hopkins', 'John Castle', 22276975).
+filme('The Lion in Winter', 1968, 134, 'Drama', 7.9, 'Anthony Harvey', 'Peter O\'Toole', 'Katharine Hepburn', 'Anthony Hopkins', 'John Castle', 22276975).
+filme('The Lion in Winter', 1968, 134, 'History', 7.9, 'Anthony Harvey', 'Peter O\'Toole', 'Katharine Hepburn', 'Anthony Hopkins', 'John Castle', 22276975).
 filme('In the Heat of the Night', 1967, 110, 'Crime', 7.9, 'Norman Jewison', 'Sidney Poitier', 'Rod Steiger', 'Warren Oates', 'Lee Grant', 24379978).
 filme('In the Heat of the Night', 1967, 110, 'Drama', 7.9, 'Norman Jewison', 'Sidney Poitier', 'Rod Steiger', 'Warren Oates', 'Lee Grant', 24379978).
 filme('In the Heat of the Night', 1967, 110, 'Mystery', 7.9, 'Norman Jewison', 'Sidney Poitier', 'Rod Steiger', 'Warren Oates', 'Lee Grant', 24379978).
@@ -1381,8 +1381,8 @@ filme('The Manchurian Candidate', 1962, 126, 'Thriller', 7.9, 'John Frankenheime
 filme('Spartacus', 1960, 197, 'Adventure', 7.9, 'Stanley Kubrick', 'Kirk Douglas', 'Laurence Olivier', 'Jean Simmons', 'Charles Laughton', 30000000).
 filme('Spartacus', 1960, 197, 'Biography', 7.9, 'Stanley Kubrick', 'Kirk Douglas', 'Laurence Olivier', 'Jean Simmons', 'Charles Laughton', 30000000).
 filme('Spartacus', 1960, 197, 'Drama', 7.9, 'Stanley Kubrick', 'Kirk Douglas', 'Laurence Olivier', 'Jean Simmons', 'Charles Laughton', 30000000).
-filme("L'avventura", 1960, 144, 'Drama', 7.9, 'Michelangelo Antonioni', 'Gabriele Ferzetti', 'Monica Vitti', 'Lea Massari', 'Dominique Blanchar', -1).
-filme("L'avventura", 1960, 144, 'Mystery', 7.9, 'Michelangelo Antonioni', 'Gabriele Ferzetti', 'Monica Vitti', 'Lea Massari', 'Dominique Blanchar', -1).
+filme('L\'avventura', 1960, 144, 'Drama', 7.9, 'Michelangelo Antonioni', 'Gabriele Ferzetti', 'Monica Vitti', 'Lea Massari', 'Dominique Blanchar', -1).
+filme('L\'avventura', 1960, 144, 'Mystery', 7.9, 'Michelangelo Antonioni', 'Gabriele Ferzetti', 'Monica Vitti', 'Lea Massari', 'Dominique Blanchar', -1).
 filme('Hiroshima mon amour', 1959, 90, 'Drama', 7.9, 'Alain Resnais', 'Emmanuelle Riva', 'Eiji Okada', 'Stella Dassas', 'Pierre Barbaud', 88300).
 filme('Hiroshima mon amour', 1959, 90, 'Romance', 7.9, 'Alain Resnais', 'Emmanuelle Riva', 'Eiji Okada', 'Stella Dassas', 'Pierre Barbaud', 88300).
 filme('The Ten Commandments', 1956, 220, 'Adventure', 7.9, 'Cecil B. DeMille', 'Charlton Heston', 'Yul Brynner', 'Anne Baxter', 'Edward G. Robinson', 93740000).
@@ -1400,9 +1400,9 @@ filme('Strangers on a Train', 1951, 101, 'Thriller', 7.9, 'Alfred Hitchcock', 'F
 filme('Harvey', 1950, 104, 'Comedy', 7.9, 'Henry Koster', 'James Stewart', 'Wallace Ford', 'William H. Lynn', 'Victoria Horne', -1).
 filme('Harvey', 1950, 104, 'Drama', 7.9, 'Henry Koster', 'James Stewart', 'Wallace Ford', 'William H. Lynn', 'Victoria Horne', -1).
 filme('Harvey', 1950, 104, 'Fantasy', 7.9, 'Henry Koster', 'James Stewart', 'Wallace Ford', 'William H. Lynn', 'Victoria Horne', -1).
-filme('Miracle on 34th Street', 1947, 96, 'Comedy', 7.9, 'George Seaton', 'Edmund Gwenn', "Maureen O'Hara", 'John Payne', 'Gene Lockhart', 2650000).
-filme('Miracle on 34th Street', 1947, 96, 'Drama', 7.9, 'George Seaton', 'Edmund Gwenn', "Maureen O'Hara", 'John Payne', 'Gene Lockhart', 2650000).
-filme('Miracle on 34th Street', 1947, 96, 'Family', 7.9, 'George Seaton', 'Edmund Gwenn', "Maureen O'Hara", 'John Payne', 'Gene Lockhart', 2650000).
+filme('Miracle on 34th Street', 1947, 96, 'Comedy', 7.9, 'George Seaton', 'Edmund Gwenn', 'Maureen O\'Hara', 'John Payne', 'Gene Lockhart', 2650000).
+filme('Miracle on 34th Street', 1947, 96, 'Drama', 7.9, 'George Seaton', 'Edmund Gwenn', 'Maureen O\'Hara', 'John Payne', 'Gene Lockhart', 2650000).
+filme('Miracle on 34th Street', 1947, 96, 'Family', 7.9, 'George Seaton', 'Edmund Gwenn', 'Maureen O\'Hara', 'John Payne', 'Gene Lockhart', 2650000).
 filme('Notorious', 1946, 102, 'Drama', 7.9, 'Alfred Hitchcock', 'Cary Grant', 'Ingrid Bergman', 'Claude Rains', 'Louis Calhern', 10464000).
 filme('Notorious', 1946, 102, 'Film-Noir', 7.9, 'Alfred Hitchcock', 'Cary Grant', 'Ingrid Bergman', 'Claude Rains', 'Louis Calhern', 10464000).
 filme('Notorious', 1946, 102, 'Romance', 7.9, 'Alfred Hitchcock', 'Cary Grant', 'Ingrid Bergman', 'Claude Rains', 'Louis Calhern', 10464000).
@@ -1527,9 +1527,9 @@ filme('Captain Phillips', 2013, 134, 'Crime', 7.8, 'Paul Greengrass', 'Tom Hanks
 filme('Ajeossi', 2010, 119, 'Action', 7.8, 'Jeong-beom Lee', 'Won Bin', 'Sae-ron Kim', 'Tae-hoon Kim', 'Hee-won Kim', 6460).
 filme('Ajeossi', 2010, 119, 'Crime', 7.8, 'Jeong-beom Lee', 'Won Bin', 'Sae-ron Kim', 'Tae-hoon Kim', 'Hee-won Kim', 6460).
 filme('Ajeossi', 2010, 119, 'Drama', 7.8, 'Jeong-beom Lee', 'Won Bin', 'Sae-ron Kim', 'Tae-hoon Kim', 'Hee-won Kim', 6460).
-filme('Straight Outta Compton', 2015, 147, 'Biography', 7.8, 'F. Gary Gray', "O'Shea Jackson Jr.", 'Corey Hawkins', 'Jason Mitchell', 'Neil Brown Jr.', 161197785).
-filme('Straight Outta Compton', 2015, 147, 'Drama', 7.8, 'F. Gary Gray', "O'Shea Jackson Jr.", 'Corey Hawkins', 'Jason Mitchell', 'Neil Brown Jr.', 161197785).
-filme('Straight Outta Compton', 2015, 147, 'History', 7.8, 'F. Gary Gray', "O'Shea Jackson Jr.", 'Corey Hawkins', 'Jason Mitchell', 'Neil Brown Jr.', 161197785).
+filme('Straight Outta Compton', 2015, 147, 'Biography', 7.8, 'F. Gary Gray', 'O\'Shea Jackson Jr.', 'Corey Hawkins', 'Jason Mitchell', 'Neil Brown Jr.', 161197785).
+filme('Straight Outta Compton', 2015, 147, 'Drama', 7.8, 'F. Gary Gray', 'O\'Shea Jackson Jr.', 'Corey Hawkins', 'Jason Mitchell', 'Neil Brown Jr.', 161197785).
+filme('Straight Outta Compton', 2015, 147, 'History', 7.8, 'F. Gary Gray', 'O\'Shea Jackson Jr.', 'Corey Hawkins', 'Jason Mitchell', 'Neil Brown Jr.', 161197785).
 filme('Madeo', 2009, 129, 'Crime', 7.8, 'Bong Joon Ho', 'Hye-ja Kim', 'Won Bin', 'Jin Goo', 'Je-mun Yun', 547292).
 filme('Madeo', 2009, 129, 'Drama', 7.8, 'Bong Joon Ho', 'Hye-ja Kim', 'Won Bin', 'Jin Goo', 'Je-mun Yun', 547292).
 filme('Madeo', 2009, 129, 'Mystery', 7.8, 'Bong Joon Ho', 'Hye-ja Kim', 'Won Bin', 'Jin Goo', 'Je-mun Yun', 547292).
@@ -1554,9 +1554,9 @@ filme('The Fighter', 2010, 116, 'Drama', 7.8, 'David O. Russell', 'Mark Wahlberg
 filme('The Fighter', 2010, 116, 'Sport', 7.8, 'David O. Russell', 'Mark Wahlberg', 'Christian Bale', 'Amy Adams', 'Melissa Leo', 93617009).
 filme('Taken', 2008, 90, 'Action', 7.8, 'Pierre Morel', 'Liam Neeson', 'Maggie Grace', 'Famke Janssen', 'Leland Orser', 145000989).
 filme('Taken', 2008, 90, 'Thriller', 7.8, 'Pierre Morel', 'Liam Neeson', 'Maggie Grace', 'Famke Janssen', 'Leland Orser', 145000989).
-filme('The Boy in the Striped Pyjamas', 2008, 94, 'Drama', 7.8, 'Mark Herman', 'Asa Butterfield', 'David Thewlis', 'Rupert Friend', "Zac Mattoon O'Brien", 9030581).
-filme('The Boy in the Striped Pyjamas', 2008, 94, 'History', 7.8, 'Mark Herman', 'Asa Butterfield', 'David Thewlis', 'Rupert Friend', "Zac Mattoon O'Brien", 9030581).
-filme('The Boy in the Striped Pyjamas', 2008, 94, 'War', 7.8, 'Mark Herman', 'Asa Butterfield', 'David Thewlis', 'Rupert Friend', "Zac Mattoon O'Brien", 9030581).
+filme('The Boy in the Striped Pyjamas', 2008, 94, 'Drama', 7.8, 'Mark Herman', 'Asa Butterfield', 'David Thewlis', 'Rupert Friend', 'Zac Mattoon O\'Brien', 9030581).
+filme('The Boy in the Striped Pyjamas', 2008, 94, 'History', 7.8, 'Mark Herman', 'Asa Butterfield', 'David Thewlis', 'Rupert Friend', 'Zac Mattoon O\'Brien', 9030581).
+filme('The Boy in the Striped Pyjamas', 2008, 94, 'War', 7.8, 'Mark Herman', 'Asa Butterfield', 'David Thewlis', 'Rupert Friend', 'Zac Mattoon O\'Brien', 9030581).
 filme('Once', 2007, 86, 'Drama', 7.8, 'John Carney', 'Glen Hansard', 'Markéta Irglová', 'Hugh Walsh', 'Gerard Hendrick', 9439923).
 filme('Once', 2007, 86, 'Music', 7.8, 'John Carney', 'Glen Hansard', 'Markéta Irglová', 'Hugh Walsh', 'Gerard Hendrick', 9439923).
 filme('Once', 2007, 86, 'Romance', 7.8, 'John Carney', 'Glen Hansard', 'Markéta Irglová', 'Hugh Walsh', 'Gerard Hendrick', 9439923).
@@ -1596,9 +1596,9 @@ filme('Adams æbler', 2005, 94, 'Crime', 7.8, 'Anders Thomas Jensen', 'Ulrich Th
 filme('Adams æbler', 2005, 94, 'Drama', 7.8, 'Anders Thomas Jensen', 'Ulrich Thomsen', 'Mads Mikkelsen', 'Nicolas Bro', 'Paprika Steen', 1305).
 filme('Pride & Prejudice', 2005, 129, 'Drama', 7.8, 'Joe Wright', 'Keira Knightley', 'Matthew Macfadyen', 'Brenda Blethyn', 'Donald Sutherland', 38405088).
 filme('Pride & Prejudice', 2005, 129, 'Romance', 7.8, 'Joe Wright', 'Keira Knightley', 'Matthew Macfadyen', 'Brenda Blethyn', 'Donald Sutherland', 38405088).
-filme("The World's Fastest Indian", 2005, 127, 'Biography', 7.8, 'Roger Donaldson', 'Anthony Hopkins', 'Diane Ladd', 'Iain Rea', 'Tessa Mitchell', 5128124).
-filme("The World's Fastest Indian", 2005, 127, 'Drama', 7.8, 'Roger Donaldson', 'Anthony Hopkins', 'Diane Ladd', 'Iain Rea', 'Tessa Mitchell', 5128124).
-filme("The World's Fastest Indian", 2005, 127, 'Sport', 7.8, 'Roger Donaldson', 'Anthony Hopkins', 'Diane Ladd', 'Iain Rea', 'Tessa Mitchell', 5128124).
+filme('The World\'s Fastest Indian', 2005, 127, 'Biography', 7.8, 'Roger Donaldson', 'Anthony Hopkins', 'Diane Ladd', 'Iain Rea', 'Tessa Mitchell', 5128124).
+filme('The World\'s Fastest Indian', 2005, 127, 'Drama', 7.8, 'Roger Donaldson', 'Anthony Hopkins', 'Diane Ladd', 'Iain Rea', 'Tessa Mitchell', 5128124).
+filme('The World\'s Fastest Indian', 2005, 127, 'Sport', 7.8, 'Roger Donaldson', 'Anthony Hopkins', 'Diane Ladd', 'Iain Rea', 'Tessa Mitchell', 5128124).
 filme('Tôkyô goddofâzâzu', 2003, 90, 'Animation', 7.8, 'Satoshi Kon', 'Shôgo Furuya', 'Tôru Emori', 'Yoshiaki Umegaki', 'Aya Okamoto', 128985).
 filme('Tôkyô goddofâzâzu', 2003, 90, 'Adventure', 7.8, 'Satoshi Kon', 'Shôgo Furuya', 'Tôru Emori', 'Yoshiaki Umegaki', 'Aya Okamoto', 128985).
 filme('Tôkyô goddofâzâzu', 2003, 90, 'Comedy', 7.8, 'Satoshi Kon', 'Shôgo Furuya', 'Tôru Emori', 'Yoshiaki Umegaki', 'Aya Okamoto', 128985).
@@ -1665,7 +1665,7 @@ filme('Breaking the Waves', 1996, 159, 'Drama', 7.8, 'Lars von Trier', 'Emily Wa
 filme('Ed Wood', 1994, 127, 'Biography', 7.8, 'Tim Burton', 'Johnny Depp', 'Martin Landau', 'Sarah Jessica Parker', 'Patricia Arquette', 5887457).
 filme('Ed Wood', 1994, 127, 'Comedy', 7.8, 'Tim Burton', 'Johnny Depp', 'Martin Landau', 'Sarah Jessica Parker', 'Patricia Arquette', 5887457).
 filme('Ed Wood', 1994, 127, 'Drama', 7.8, 'Tim Burton', 'Johnny Depp', 'Martin Landau', 'Sarah Jessica Parker', 'Patricia Arquette', 5887457).
-filme("What's Eating Gilbert Grape", 1993, 118, 'Drama', 7.8, 'Lasse Hallström', 'Johnny Depp', 'Leonardo DiCaprio', 'Juliette Lewis', 'Mary Steenburgen', 9170214).
+filme('What\'s Eating Gilbert Grape', 1993, 118, 'Drama', 7.8, 'Lasse Hallström', 'Johnny Depp', 'Leonardo DiCaprio', 'Juliette Lewis', 'Mary Steenburgen', 9170214).
 filme('Tombstone', 1993, 130, 'Action', 7.8, 'George P. Cosmatos', 'Kevin Jarre', 'Kurt Russell', 'Val Kilmer', 'Sam Elliott', 56505065).
 filme('Tombstone', 1993, 130, 'Biography', 7.8, 'George P. Cosmatos', 'Kevin Jarre', 'Kurt Russell', 'Val Kilmer', 'Sam Elliott', 56505065).
 filme('Tombstone', 1993, 130, 'Drama', 7.8, 'George P. Cosmatos', 'Kevin Jarre', 'Kurt Russell', 'Val Kilmer', 'Sam Elliott', 56505065).
@@ -1720,7 +1720,7 @@ filme('Predator', 1987, 107, 'Sci-Fi', 7.8, 'John McTiernan', 'Arnold Schwarzene
 filme('Evil Dead II', 1987, 84, 'Action', 7.8, 'Sam Raimi', 'Bruce Campbell', 'Sarah Berry', 'Dan Hicks', 'Kassie Wesley DePaiva', 5923044).
 filme('Evil Dead II', 1987, 84, 'Comedy', 7.8, 'Sam Raimi', 'Bruce Campbell', 'Sarah Berry', 'Dan Hicks', 'Kassie Wesley DePaiva', 5923044).
 filme('Evil Dead II', 1987, 84, 'Fantasy', 7.8, 'Sam Raimi', 'Bruce Campbell', 'Sarah Berry', 'Dan Hicks', 'Kassie Wesley DePaiva', 5923044).
-filme("Ferris Bueller's Day Off", 1986, 103, 'Comedy', 7.8, 'John Hughes', 'Matthew Broderick', 'Alan Ruck', 'Mia Sara', 'Jeffrey Jones', 70136369).
+filme('Ferris Bueller\'s Day Off', 1986, 103, 'Comedy', 7.8, 'John Hughes', 'Matthew Broderick', 'Alan Ruck', 'Mia Sara', 'Jeffrey Jones', 70136369).
 filme('Down by Law', 1986, 107, 'Comedy', 7.8, 'Jim Jarmusch', 'Tom Waits', 'John Lurie', 'Roberto Benigni', 'Nicoletta Braschi', 1436000).
 filme('Down by Law', 1986, 107, 'Crime', 7.8, 'Jim Jarmusch', 'Tom Waits', 'John Lurie', 'Roberto Benigni', 'Nicoletta Braschi', 1436000).
 filme('Down by Law', 1986, 107, 'Drama', 7.8, 'Jim Jarmusch', 'Tom Waits', 'John Lurie', 'Roberto Benigni', 'Nicoletta Braschi', 1436000).
@@ -1770,8 +1770,8 @@ filme('Willy Wonka & the Chocolate Factory', 1971, 100, 'Fantasy', 7.8, 'Mel Stu
 filme('Willy Wonka & the Chocolate Factory', 1971, 100, 'Musical', 7.8, 'Mel Stuart', 'Gene Wilder', 'Jack Albertson', 'Peter Ostrum', 'Roy Kinnear', 4000000).
 filme('Midnight Cowboy', 1969, 113, 'Drama', 7.8, 'John Schlesinger', 'Dustin Hoffman', 'Jon Voight', 'Sylvia Miles', 'John McGiver', 44785053).
 filme('Wait Until Dark', 1967, 108, 'Thriller', 7.8, 'Terence Young', 'Audrey Hepburn', 'Alan Arkin', 'Richard Crenna', 'Efrem Zimbalist Jr.', 17550741).
-filme("Guess Who's Coming to Dinner", 1967, 108, 'Comedy', 7.8, 'Stanley Kramer', 'Spencer Tracy', 'Sidney Poitier', 'Katharine Hepburn', 'Katharine Houghton', 56700000).
-filme("Guess Who's Coming to Dinner", 1967, 108, 'Drama', 7.8, 'Stanley Kramer', 'Spencer Tracy', 'Sidney Poitier', 'Katharine Hepburn', 'Katharine Houghton', 56700000).
+filme('Guess Who\'s Coming to Dinner', 1967, 108, 'Comedy', 7.8, 'Stanley Kramer', 'Spencer Tracy', 'Sidney Poitier', 'Katharine Hepburn', 'Katharine Houghton', 56700000).
+filme('Guess Who\'s Coming to Dinner', 1967, 108, 'Drama', 7.8, 'Stanley Kramer', 'Spencer Tracy', 'Sidney Poitier', 'Katharine Hepburn', 'Katharine Houghton', 56700000).
 filme('Bonnie and Clyde', 1967, 111, 'Action', 7.8, 'Arthur Penn', 'Warren Beatty', 'Faye Dunaway', 'Michael J. Pollard', 'Gene Hackman', -1).
 filme('Bonnie and Clyde', 1967, 111, 'Biography', 7.8, 'Arthur Penn', 'Warren Beatty', 'Faye Dunaway', 'Michael J. Pollard', 'Gene Hackman', -1).
 filme('Bonnie and Clyde', 1967, 111, 'Crime', 7.8, 'Arthur Penn', 'Warren Beatty', 'Faye Dunaway', 'Michael J. Pollard', 'Gene Hackman', -1).
@@ -1821,8 +1821,8 @@ filme('Frankenstein', 1931, 70, 'Drama', 7.8, 'James Whale', 'Colin Clive', 'Mae
 filme('Frankenstein', 1931, 70, 'Horror', 7.8, 'James Whale', 'Colin Clive', 'Mae Clarke', 'Boris Karloff', 'John Boles', -1).
 filme('Frankenstein', 1931, 70, 'Sci-Fi', 7.8, 'James Whale', 'Colin Clive', 'Mae Clarke', 'Boris Karloff', 'John Boles', -1).
 filme('Roma', 2018, 135, 'Drama', 7.7, 'Alfonso Cuarón', 'Yalitza Aparicio', 'Marina de Tavira', 'Diego Cortina Autrey', 'Carlos Peralta', -1).
-filme("God's Own Country", 2017, 104, 'Drama', 7.7, 'Francis Lee', "Josh O'Connor", 'Alec Secareanu', 'Gemma Jones', 'Ian Hart', 335609).
-filme("God's Own Country", 2017, 104, 'Romance', 7.7, 'Francis Lee', "Josh O'Connor", 'Alec Secareanu', 'Gemma Jones', 'Ian Hart', 335609).
+filme('God\'s Own Country', 2017, 104, 'Drama', 7.7, 'Francis Lee', 'Josh O\'Connor', 'Alec Secareanu', 'Gemma Jones', 'Ian Hart', 335609).
+filme('God\'s Own Country', 2017, 104, 'Romance', 7.7, 'Francis Lee', 'Josh O\'Connor', 'Alec Secareanu', 'Gemma Jones', 'Ian Hart', 335609).
 filme('Deadpool 2', 2018, 119, 'Action', 7.7, 'David Leitch', 'Ryan Reynolds', 'Josh Brolin', 'Morena Baccarin', 'Julian Dennison', 324591735).
 filme('Deadpool 2', 2018, 119, 'Adventure', 7.7, 'David Leitch', 'Ryan Reynolds', 'Josh Brolin', 'Morena Baccarin', 'Julian Dennison', 324591735).
 filme('Deadpool 2', 2018, 119, 'Comedy', 7.7, 'David Leitch', 'Ryan Reynolds', 'Josh Brolin', 'Morena Baccarin', 'Julian Dennison', 324591735).
@@ -1855,8 +1855,8 @@ filme('Me and Earl and the Dying Girl', 2015, 105, 'Comedy', 7.7, 'Alfonso Gomez
 filme('Me and Earl and the Dying Girl', 2015, 105, 'Drama', 7.7, 'Alfonso Gomez-Rejon', 'Thomas Mann', 'RJ Cyler', 'Olivia Cooke', 'Nick Offerman', 6743776).
 filme('Birdman or (The Unexpected Virtue of Ignorance)', 2014, 119, 'Comedy', 7.7, 'Alejandro G. Iñárritu', 'Michael Keaton', 'Zach Galifianakis', 'Edward Norton', 'Andrea Riseborough', 42340598).
 filme('Birdman or (The Unexpected Virtue of Ignorance)', 2014, 119, 'Drama', 7.7, 'Alejandro G. Iñárritu', 'Michael Keaton', 'Zach Galifianakis', 'Edward Norton', 'Andrea Riseborough', 42340598).
-filme("La vie d'Adèle", 2013, 180, 'Drama', 7.7, 'Abdellatif Kechiche', 'Léa Seydoux', 'Adèle Exarchopoulos', 'Salim Kechiouche', 'Aurélien Recoing', 2199675).
-filme("La vie d'Adèle", 2013, 180, 'Romance', 7.7, 'Abdellatif Kechiche', 'Léa Seydoux', 'Adèle Exarchopoulos', 'Salim Kechiouche', 'Aurélien Recoing', 2199675).
+filme('La vie d\'Adèle', 2013, 180, 'Drama', 7.7, 'Abdellatif Kechiche', 'Léa Seydoux', 'Adèle Exarchopoulos', 'Salim Kechiouche', 'Aurélien Recoing', 2199675).
+filme('La vie d\'Adèle', 2013, 180, 'Romance', 7.7, 'Abdellatif Kechiche', 'Léa Seydoux', 'Adèle Exarchopoulos', 'Salim Kechiouche', 'Aurélien Recoing', 2199675).
 filme('Kai po che!', 2013, 130, 'Drama', 7.7, 'Abhishek Kapoor', 'Amit Sadh', 'Sushant Singh Rajput', 'Rajkummar Rao', 'Amrita Puri', 1122527).
 filme('Kai po che!', 2013, 130, 'Sport', 7.7, 'Abhishek Kapoor', 'Amit Sadh', 'Sushant Singh Rajput', 'Rajkummar Rao', 'Amrita Puri', 1122527).
 filme('The Broken Circle Breakdown', 2012, 111, 'Drama', 7.7, 'Felix van Groeningen', 'Veerle Baetens', 'Johan Heldenbergh', 'Nell Cattrysse', 'Geert Van Rampelberg', 175058).
@@ -1931,9 +1931,9 @@ filme('Flipped', 2010, 90, 'Romance', 7.7, 'Rob Reiner', 'Madeline Carroll', 'Ca
 filme('Toki o kakeru shôjo', 2006, 98, 'Animation', 7.7, 'Mamoru Hosoda', 'Riisa Naka', 'Takuya Ishida', 'Mitsutaka Itakura', 'Ayami Kakiuchi', -1).
 filme('Toki o kakeru shôjo', 2006, 98, 'Adventure', 7.7, 'Mamoru Hosoda', 'Riisa Naka', 'Takuya Ishida', 'Mitsutaka Itakura', 'Ayami Kakiuchi', -1).
 filme('Toki o kakeru shôjo', 2006, 98, 'Comedy', 7.7, 'Mamoru Hosoda', 'Riisa Naka', 'Takuya Ishida', 'Mitsutaka Itakura', 'Ayami Kakiuchi', -1).
-filme('Death Note: Desu nôto', 2006, 126, 'Crime', 7.7, 'Shûsuke Kaneko', 'Tatsuya Fujiwara', "Ken'ichi Matsuyama", 'Asaka Seto', 'Yû Kashii', -1).
-filme('Death Note: Desu nôto', 2006, 126, 'Drama', 7.7, 'Shûsuke Kaneko', 'Tatsuya Fujiwara', "Ken'ichi Matsuyama", 'Asaka Seto', 'Yû Kashii', -1).
-filme('Death Note: Desu nôto', 2006, 126, 'Fantasy', 7.7, 'Shûsuke Kaneko', 'Tatsuya Fujiwara', "Ken'ichi Matsuyama", 'Asaka Seto', 'Yû Kashii', -1).
+filme('Death Note: Desu nôto', 2006, 126, 'Crime', 7.7, 'Shûsuke Kaneko', 'Tatsuya Fujiwara', 'Ken\'ichi Matsuyama', 'Asaka Seto', 'Yû Kashii', -1).
+filme('Death Note: Desu nôto', 2006, 126, 'Drama', 7.7, 'Shûsuke Kaneko', 'Tatsuya Fujiwara', 'Ken\'ichi Matsuyama', 'Asaka Seto', 'Yû Kashii', -1).
+filme('Death Note: Desu nôto', 2006, 126, 'Fantasy', 7.7, 'Shûsuke Kaneko', 'Tatsuya Fujiwara', 'Ken\'ichi Matsuyama', 'Asaka Seto', 'Yû Kashii', -1).
 filme('This Is England', 2006, 101, 'Crime', 7.7, 'Shane Meadows', 'Thomas Turgoose', 'Stephen Graham', 'Jo Hartley', 'Andrew Shim', 327919).
 filme('This Is England', 2006, 101, 'Drama', 7.7, 'Shane Meadows', 'Thomas Turgoose', 'Stephen Graham', 'Jo Hartley', 'Andrew Shim', 327919).
 filme('Ex Machina', 2014, 108, 'Drama', 7.7, 'Alex Garland', 'Alicia Vikander', 'Domhnall Gleeson', 'Oscar Isaac', 'Sonoya Mizuno', 25442958).
@@ -2014,8 +2014,8 @@ filme('Billy Elliot', 2000, 110, 'Music', 7.7, 'Stephen Daldry', 'Jamie Bell', '
 filme('Hedwig and the Angry Inch', 2001, 95, 'Comedy', 7.7, 'John Cameron Mitchell', 'John Cameron Mitchell', 'Miriam Shor', 'Stephen Trask', 'Theodore Liscinski', 3029081).
 filme('Hedwig and the Angry Inch', 2001, 95, 'Drama', 7.7, 'John Cameron Mitchell', 'John Cameron Mitchell', 'Miriam Shor', 'Stephen Trask', 'Theodore Liscinski', 3029081).
 filme('Hedwig and the Angry Inch', 2001, 95, 'Music', 7.7, 'John Cameron Mitchell', 'John Cameron Mitchell', 'Miriam Shor', 'Stephen Trask', 'Theodore Liscinski', 3029081).
-filme("Ocean's Eleven", 2001, 116, 'Crime', 7.7, 'Steven Soderbergh', 'George Clooney', 'Brad Pitt', 'Julia Roberts', 'Matt Damon', 183417150).
-filme("Ocean's Eleven", 2001, 116, 'Thriller', 7.7, 'Steven Soderbergh', 'George Clooney', 'Brad Pitt', 'Julia Roberts', 'Matt Damon', 183417150).
+filme('Ocean\'s Eleven', 2001, 116, 'Crime', 7.7, 'Steven Soderbergh', 'George Clooney', 'Brad Pitt', 'Julia Roberts', 'Matt Damon', 183417150).
+filme('Ocean\'s Eleven', 2001, 116, 'Thriller', 7.7, 'Steven Soderbergh', 'George Clooney', 'Brad Pitt', 'Julia Roberts', 'Matt Damon', 183417150).
 filme('Vampire Hunter D: Bloodlust', 2000, 103, 'Animation', 7.7, 'Yoshiaki Kawajiri', 'Andrew Philpot', 'John Rafter Lee', 'Pamela Adlon', 'Wendee Lee', 151086).
 filme('Vampire Hunter D: Bloodlust', 2000, 103, 'Action', 7.7, 'Yoshiaki Kawajiri', 'Andrew Philpot', 'John Rafter Lee', 'Pamela Adlon', 'Wendee Lee', 151086).
 filme('Vampire Hunter D: Bloodlust', 2000, 103, 'Fantasy', 7.7, 'Yoshiaki Kawajiri', 'Andrew Philpot', 'John Rafter Lee', 'Pamela Adlon', 'Wendee Lee', 151086).
@@ -2069,7 +2069,7 @@ filme('Do lok tin si', 1995, 99, 'Drama', 7.7, 'Kar-Wai Wong', 'Leon Lai', 'Mich
 filme('Il postino', 1994, 108, 'Biography', 7.7, 'Michael Radford', 'Massimo Troisi', 'Massimo Troisi', 'Philippe Noiret', 'Maria Grazia Cucinotta', 21848932).
 filme('Il postino', 1994, 108, 'Comedy', 7.7, 'Michael Radford', 'Massimo Troisi', 'Massimo Troisi', 'Philippe Noiret', 'Maria Grazia Cucinotta', 21848932).
 filme('Il postino', 1994, 108, 'Drama', 7.7, 'Michael Radford', 'Massimo Troisi', 'Massimo Troisi', 'Philippe Noiret', 'Maria Grazia Cucinotta', 21848932).
-filme('Clerks', 1994, 92, 'Comedy', 7.7, 'Kevin Smith', "Brian O'Halloran", 'Jeff Anderson', 'Marilyn Ghigliotti', 'Lisa Spoonauer', 3151130).
+filme('Clerks', 1994, 92, 'Comedy', 7.7, 'Kevin Smith', 'Brian O\'Halloran', 'Jeff Anderson', 'Marilyn Ghigliotti', 'Lisa Spoonauer', 3151130).
 filme('Short Cuts', 1993, 188, 'Comedy', 7.7, 'Robert Altman', 'Andie MacDowell', 'Julianne Moore', 'Tim Robbins', 'Bruce Davison', 6110979).
 filme('Short Cuts', 1993, 188, 'Drama', 7.7, 'Robert Altman', 'Andie MacDowell', 'Julianne Moore', 'Tim Robbins', 'Bruce Davison', 6110979).
 filme('Philadelphia', 1993, 125, 'Drama', 7.7, 'Jonathan Demme', 'Tom Hanks', 'Denzel Washington', 'Roberta Maxwell', 'Buzz Kilman', 77324422).
@@ -2094,9 +2094,9 @@ filme('Fried Green Tomatoes', 1991, 130, 'Drama', 7.7, 'Jon Avnet', 'Kathy Bates
 filme('Barton Fink', 1991, 116, 'Comedy', 7.7, 'Joel Coen', 'Ethan Coen', 'John Turturro', 'John Goodman', 'Judy Davis', 6153939).
 filme('Barton Fink', 1991, 116, 'Drama', 7.7, 'Joel Coen', 'Ethan Coen', 'John Turturro', 'John Goodman', 'Judy Davis', 6153939).
 filme('Barton Fink', 1991, 116, 'Thriller', 7.7, 'Joel Coen', 'Ethan Coen', 'John Turturro', 'John Goodman', 'Judy Davis', 6153939).
-filme("Miller's Crossing", 1990, 115, 'Crime', 7.7, 'Joel Coen', 'Ethan Coen', 'Gabriel Byrne', 'Albert Finney', 'John Turturro', 5080409).
-filme("Miller's Crossing", 1990, 115, 'Drama', 7.7, 'Joel Coen', 'Ethan Coen', 'Gabriel Byrne', 'Albert Finney', 'John Turturro', 5080409).
-filme("Miller's Crossing", 1990, 115, 'Thriller', 7.7, 'Joel Coen', 'Ethan Coen', 'Gabriel Byrne', 'Albert Finney', 'John Turturro', 5080409).
+filme('Miller\'s Crossing', 1990, 115, 'Crime', 7.7, 'Joel Coen', 'Ethan Coen', 'Gabriel Byrne', 'Albert Finney', 'John Turturro', 5080409).
+filme('Miller\'s Crossing', 1990, 115, 'Drama', 7.7, 'Joel Coen', 'Ethan Coen', 'Gabriel Byrne', 'Albert Finney', 'John Turturro', 5080409).
+filme('Miller\'s Crossing', 1990, 115, 'Thriller', 7.7, 'Joel Coen', 'Ethan Coen', 'Gabriel Byrne', 'Albert Finney', 'John Turturro', 5080409).
 filme('Who Framed Roger Rabbit', 1988, 104, 'Animation', 7.7, 'Robert Zemeckis', 'Bob Hoskins', 'Christopher Lloyd', 'Joanna Cassidy', 'Charles Fleischer', 156452370).
 filme('Who Framed Roger Rabbit', 1988, 104, 'Adventure', 7.7, 'Robert Zemeckis', 'Bob Hoskins', 'Christopher Lloyd', 'Joanna Cassidy', 'Charles Fleischer', 156452370).
 filme('Who Framed Roger Rabbit', 1988, 104, 'Comedy', 7.7, 'Robert Zemeckis', 'Bob Hoskins', 'Christopher Lloyd', 'Joanna Cassidy', 'Charles Fleischer', 156452370).
@@ -2104,9 +2104,9 @@ filme('Spoorloos', 1988, 107, 'Mystery', 7.7, 'George Sluizer', 'Bernard-Pierre 
 filme('Spoorloos', 1988, 107, 'Thriller', 7.7, 'George Sluizer', 'Bernard-Pierre Donnadieu', 'Gene Bervoets', 'Johanna ter Steege', 'Gwen Eckhaus', -1).
 filme('Withnail & I', 1987, 107, 'Comedy', 7.7, 'Bruce Robinson', 'Richard E. Grant', 'Paul McGann', 'Richard Griffiths', 'Ralph Brown', 1544889).
 filme('Withnail & I', 1987, 107, 'Drama', 7.7, 'Bruce Robinson', 'Richard E. Grant', 'Paul McGann', 'Richard Griffiths', 'Ralph Brown', 1544889).
-filme('The Last Emperor', 1987, 163, 'Biography', 7.7, 'Bernardo Bertolucci', 'John Lone', 'Joan Chen', "Peter O'Toole", 'Ruocheng Ying', 43984230).
-filme('The Last Emperor', 1987, 163, 'Drama', 7.7, 'Bernardo Bertolucci', 'John Lone', 'Joan Chen', "Peter O'Toole", 'Ruocheng Ying', 43984230).
-filme('The Last Emperor', 1987, 163, 'History', 7.7, 'Bernardo Bertolucci', 'John Lone', 'Joan Chen', "Peter O'Toole", 'Ruocheng Ying', 43984230).
+filme('The Last Emperor', 1987, 163, 'Biography', 7.7, 'Bernardo Bertolucci', 'John Lone', 'Joan Chen', 'Peter O\'Toole', 'Ruocheng Ying', 43984230).
+filme('The Last Emperor', 1987, 163, 'Drama', 7.7, 'Bernardo Bertolucci', 'John Lone', 'Joan Chen', 'Peter O\'Toole', 'Ruocheng Ying', 43984230).
+filme('The Last Emperor', 1987, 163, 'History', 7.7, 'Bernardo Bertolucci', 'John Lone', 'Joan Chen', 'Peter O\'Toole', 'Ruocheng Ying', 43984230).
 filme('Empire of the Sun', 1987, 153, 'Action', 7.7, 'Steven Spielberg', 'Christian Bale', 'John Malkovich', 'Miranda Richardson', 'Nigel Havers', 22238696).
 filme('Empire of the Sun', 1987, 153, 'Drama', 7.7, 'Steven Spielberg', 'Christian Bale', 'John Malkovich', 'Miranda Richardson', 'Nigel Havers', 22238696).
 filme('Empire of the Sun', 1987, 153, 'History', 7.7, 'Steven Spielberg', 'Christian Bale', 'John Malkovich', 'Miranda Richardson', 'Nigel Havers', 22238696).
@@ -2203,9 +2203,9 @@ filme('The Ladykillers', 1955, 91, 'Crime', 7.7, 'Alexander Mackendrick', 'Alec 
 filme('Sabrina', 1954, 113, 'Comedy', 7.7, 'Billy Wilder', 'Humphrey Bogart', 'Audrey Hepburn', 'William Holden', 'Walter Hampden', -1).
 filme('Sabrina', 1954, 113, 'Drama', 7.7, 'Billy Wilder', 'Humphrey Bogart', 'Audrey Hepburn', 'William Holden', 'Walter Hampden', -1).
 filme('Sabrina', 1954, 113, 'Romance', 7.7, 'Billy Wilder', 'Humphrey Bogart', 'Audrey Hepburn', 'William Holden', 'Walter Hampden', -1).
-filme('The Quiet Man', 1952, 129, 'Comedy', 7.7, 'John Ford', 'John Wayne', "Maureen O'Hara", 'Barry Fitzgerald', 'Ward Bond', 10550000).
-filme('The Quiet Man', 1952, 129, 'Drama', 7.7, 'John Ford', 'John Wayne', "Maureen O'Hara", 'Barry Fitzgerald', 'Ward Bond', 10550000).
-filme('The Quiet Man', 1952, 129, 'Romance', 7.7, 'John Ford', 'John Wayne', "Maureen O'Hara", 'Barry Fitzgerald', 'Ward Bond', 10550000).
+filme('The Quiet Man', 1952, 129, 'Comedy', 7.7, 'John Ford', 'John Wayne', 'Maureen O\'Hara', 'Barry Fitzgerald', 'Ward Bond', 10550000).
+filme('The Quiet Man', 1952, 129, 'Drama', 7.7, 'John Ford', 'John Wayne', 'Maureen O\'Hara', 'Barry Fitzgerald', 'Ward Bond', 10550000).
+filme('The Quiet Man', 1952, 129, 'Romance', 7.7, 'John Ford', 'John Wayne', 'Maureen O\'Hara', 'Barry Fitzgerald', 'Ward Bond', 10550000).
 filme('The Day the Earth Stood Still', 1951, 92, 'Drama', 7.7, 'Robert Wise', 'Michael Rennie', 'Patricia Neal', 'Hugh Marlowe', 'Sam Jaffe', -1).
 filme('The Day the Earth Stood Still', 1951, 92, 'Sci-Fi', 7.7, 'Robert Wise', 'Michael Rennie', 'Patricia Neal', 'Hugh Marlowe', 'Sam Jaffe', -1).
 filme('The African Queen', 1951, 105, 'Adventure', 7.7, 'John Huston', 'Humphrey Bogart', 'Katharine Hepburn', 'Robert Morley', 'Peter Bull', 536118).
@@ -2255,9 +2255,9 @@ filme('Bridge of Spies', 2015, 142, 'Thriller', 7.6, 'Steven Spielberg', 'Tom Ha
 filme('Incredibles 2', 2018, 118, 'Animation', 7.6, 'Brad Bird', 'Craig T. Nelson', 'Holly Hunter', 'Sarah Vowell', 'Huck Milner', 608581744).
 filme('Incredibles 2', 2018, 118, 'Action', 7.6, 'Brad Bird', 'Craig T. Nelson', 'Holly Hunter', 'Sarah Vowell', 'Huck Milner', 608581744).
 filme('Incredibles 2', 2018, 118, 'Adventure', 7.6, 'Brad Bird', 'Craig T. Nelson', 'Holly Hunter', 'Sarah Vowell', 'Huck Milner', 608581744).
-filme('Moana', 2016, 107, 'Animation', 7.6, 'Ron Clements', 'John Musker', 'Don Hall', 'Chris Williams', "Auli'i Cravalho", 248757044).
-filme('Moana', 2016, 107, 'Adventure', 7.6, 'Ron Clements', 'John Musker', 'Don Hall', 'Chris Williams', "Auli'i Cravalho", 248757044).
-filme('Moana', 2016, 107, 'Comedy', 7.6, 'Ron Clements', 'John Musker', 'Don Hall', 'Chris Williams', "Auli'i Cravalho", 248757044).
+filme('Moana', 2016, 107, 'Animation', 7.6, 'Ron Clements', 'John Musker', 'Don Hall', 'Chris Williams', 'Auli\'i Cravalho', 248757044).
+filme('Moana', 2016, 107, 'Adventure', 7.6, 'Ron Clements', 'John Musker', 'Don Hall', 'Chris Williams', 'Auli\'i Cravalho', 248757044).
+filme('Moana', 2016, 107, 'Comedy', 7.6, 'Ron Clements', 'John Musker', 'Don Hall', 'Chris Williams', 'Auli\'i Cravalho', 248757044).
 filme('Sicario', 2015, 121, 'Action', 7.6, 'Denis Villeneuve', 'Emily Blunt', 'Josh Brolin', 'Benicio Del Toro', 'Jon Bernthal', 46889293).
 filme('Sicario', 2015, 121, 'Crime', 7.6, 'Denis Villeneuve', 'Emily Blunt', 'Josh Brolin', 'Benicio Del Toro', 'Jon Bernthal', 46889293).
 filme('Sicario', 2015, 121, 'Drama', 7.6, 'Denis Villeneuve', 'Emily Blunt', 'Josh Brolin', 'Benicio Del Toro', 'Jon Bernthal', 46889293).
@@ -2346,9 +2346,9 @@ filme('Huo Yuan Jia', 2006, 104, 'Drama', 7.6, 'Ronny Yu', 'Jet Li', 'Li Sun', '
 filme('The Illusionist', 2006, 110, 'Drama', 7.6, 'Neil Burger', 'Edward Norton', 'Jessica Biel', 'Paul Giamatti', 'Rufus Sewell', 39868642).
 filme('The Illusionist', 2006, 110, 'Fantasy', 7.6, 'Neil Burger', 'Edward Norton', 'Jessica Biel', 'Paul Giamatti', 'Rufus Sewell', 39868642).
 filme('The Illusionist', 2006, 110, 'Mystery', 7.6, 'Neil Burger', 'Edward Norton', 'Jessica Biel', 'Paul Giamatti', 'Rufus Sewell', 39868642).
-filme("Dead Man's Shoes", 2004, 90, 'Crime', 7.6, 'Shane Meadows', 'Paddy Considine', 'Gary Stretch', 'Toby Kebbell', 'Stuart Wolfenden', 6013).
-filme("Dead Man's Shoes", 2004, 90, 'Drama', 7.6, 'Shane Meadows', 'Paddy Considine', 'Gary Stretch', 'Toby Kebbell', 'Stuart Wolfenden', 6013).
-filme("Dead Man's Shoes", 2004, 90, 'Thriller', 7.6, 'Shane Meadows', 'Paddy Considine', 'Gary Stretch', 'Toby Kebbell', 'Stuart Wolfenden', 6013).
+filme('Dead Man\'s Shoes', 2004, 90, 'Crime', 7.6, 'Shane Meadows', 'Paddy Considine', 'Gary Stretch', 'Toby Kebbell', 'Stuart Wolfenden', 6013).
+filme('Dead Man\'s Shoes', 2004, 90, 'Drama', 7.6, 'Shane Meadows', 'Paddy Considine', 'Gary Stretch', 'Toby Kebbell', 'Stuart Wolfenden', 6013).
+filme('Dead Man\'s Shoes', 2004, 90, 'Thriller', 7.6, 'Shane Meadows', 'Paddy Considine', 'Gary Stretch', 'Toby Kebbell', 'Stuart Wolfenden', 6013).
 filme('Harry Potter and the Half-Blood Prince', 2009, 153, 'Action', 7.6, 'David Yates', 'Daniel Radcliffe', 'Emma Watson', 'Rupert Grint', 'Michael Gambon', 301959197).
 filme('Harry Potter and the Half-Blood Prince', 2009, 153, 'Adventure', 7.6, 'David Yates', 'Daniel Radcliffe', 'Emma Watson', 'Rupert Grint', 'Michael Gambon', 301959197).
 filme('Harry Potter and the Half-Blood Prince', 2009, 153, 'Family', 7.6, 'David Yates', 'Daniel Radcliffe', 'Emma Watson', 'Rupert Grint', 'Michael Gambon', 301959197).
@@ -2368,9 +2368,9 @@ filme('Saw', 2004, 103, 'Mystery', 7.6, 'James Wan', 'Cary Elwes', 'Leigh Whanne
 filme('Saw', 2004, 103, 'Thriller', 7.6, 'James Wan', 'Cary Elwes', 'Leigh Whannell', 'Danny Glover', 'Ken Leung', 56000369).
 filme('Synecdoche, New York', 2008, 124, 'Drama', 7.6, 'Charlie Kaufman', 'Philip Seymour Hoffman', 'Samantha Morton', 'Michelle Williams', 'Catherine Keener', 3081925).
 filme('Mysterious Skin', 2004, 105, 'Drama', 7.6, 'Gregg Araki', 'Brady Corbet', 'Joseph Gordon-Levitt', 'Elisabeth Shue', 'Chase Ellison', 697181).
-filme("Jeux d'enfants", 2003, 93, 'Comedy', 7.6, 'Yann Samuell', 'Guillaume Canet', 'Marion Cotillard', 'Thibault Verhaeghe', 'Joséphine Lebas-Joly', 548707).
-filme("Jeux d'enfants", 2003, 93, 'Drama', 7.6, 'Yann Samuell', 'Guillaume Canet', 'Marion Cotillard', 'Thibault Verhaeghe', 'Joséphine Lebas-Joly', 548707).
-filme("Jeux d'enfants", 2003, 93, 'Romance', 7.6, 'Yann Samuell', 'Guillaume Canet', 'Marion Cotillard', 'Thibault Verhaeghe', 'Joséphine Lebas-Joly', 548707).
+filme('Jeux d\'enfants', 2003, 93, 'Comedy', 7.6, 'Yann Samuell', 'Guillaume Canet', 'Marion Cotillard', 'Thibault Verhaeghe', 'Joséphine Lebas-Joly', 548707).
+filme('Jeux d\'enfants', 2003, 93, 'Drama', 7.6, 'Yann Samuell', 'Guillaume Canet', 'Marion Cotillard', 'Thibault Verhaeghe', 'Joséphine Lebas-Joly', 548707).
+filme('Jeux d\'enfants', 2003, 93, 'Romance', 7.6, 'Yann Samuell', 'Guillaume Canet', 'Marion Cotillard', 'Thibault Verhaeghe', 'Joséphine Lebas-Joly', 548707).
 filme('Un long dimanche de fiançailles', 2004, 133, 'Drama', 7.6, 'Jean-Pierre Jeunet', 'Audrey Tautou', 'Gaspard Ulliel', 'Jodie Foster', 'Dominique Pinon', 6167817).
 filme('Un long dimanche de fiançailles', 2004, 133, 'Mystery', 7.6, 'Jean-Pierre Jeunet', 'Audrey Tautou', 'Gaspard Ulliel', 'Jodie Foster', 'Dominique Pinon', 6167817).
 filme('Un long dimanche de fiançailles', 2004, 133, 'Romance', 7.6, 'Jean-Pierre Jeunet', 'Audrey Tautou', 'Gaspard Ulliel', 'Jodie Foster', 'Dominique Pinon', 6167817).
@@ -2398,9 +2398,9 @@ filme('Batoru rowaiaru', 2000, 114, 'Drama', 7.6, 'Kinji Fukasaku', 'Tatsuya Fuj
 filme('The Royal Tenenbaums', 2001, 110, 'Comedy', 7.6, 'Wes Anderson', 'Gene Hackman', 'Gwyneth Paltrow', 'Anjelica Huston', 'Ben Stiller', 52364010).
 filme('The Royal Tenenbaums', 2001, 110, 'Drama', 7.6, 'Wes Anderson', 'Gene Hackman', 'Gwyneth Paltrow', 'Anjelica Huston', 'Ben Stiller', 52364010).
 filme('Y tu mamá también', 2001, 106, 'Drama', 7.6, 'Alfonso Cuarón', 'Maribel Verdú', 'Gael García Bernal', 'Daniel Giménez Cacho', 'Ana López Mercado', 13622333).
-filme("Harry Potter and the Sorcerer's Stone", 2001, 152, 'Adventure', 7.6, 'Chris Columbus', 'Daniel Radcliffe', 'Rupert Grint', 'Richard Harris', 'Maggie Smith', 317575550).
-filme("Harry Potter and the Sorcerer's Stone", 2001, 152, 'Family', 7.6, 'Chris Columbus', 'Daniel Radcliffe', 'Rupert Grint', 'Richard Harris', 'Maggie Smith', 317575550).
-filme("Harry Potter and the Sorcerer's Stone", 2001, 152, 'Fantasy', 7.6, 'Chris Columbus', 'Daniel Radcliffe', 'Rupert Grint', 'Richard Harris', 'Maggie Smith', 317575550).
+filme('Harry Potter and the Sorcerer\'s Stone', 2001, 152, 'Adventure', 7.6, 'Chris Columbus', 'Daniel Radcliffe', 'Rupert Grint', 'Richard Harris', 'Maggie Smith', 317575550).
+filme('Harry Potter and the Sorcerer\'s Stone', 2001, 152, 'Family', 7.6, 'Chris Columbus', 'Daniel Radcliffe', 'Rupert Grint', 'Richard Harris', 'Maggie Smith', 317575550).
+filme('Harry Potter and the Sorcerer\'s Stone', 2001, 152, 'Fantasy', 7.6, 'Chris Columbus', 'Daniel Radcliffe', 'Rupert Grint', 'Richard Harris', 'Maggie Smith', 317575550).
 filme('The Others', 2001, 101, 'Horror', 7.6, 'Alejandro Amenábar', 'Nicole Kidman', 'Christopher Eccleston', 'Fionnula Flanagan', 'Alakina Mann', 96522687).
 filme('The Others', 2001, 101, 'Mystery', 7.6, 'Alejandro Amenábar', 'Nicole Kidman', 'Christopher Eccleston', 'Fionnula Flanagan', 'Alakina Mann', 96522687).
 filme('The Others', 2001, 101, 'Thriller', 7.6, 'Alejandro Amenábar', 'Nicole Kidman', 'Christopher Eccleston', 'Fionnula Flanagan', 'Alakina Mann', 96522687).
@@ -2515,21 +2515,21 @@ filme('The Long Goodbye', 1973, 112, 'Drama', 7.6, 'Robert Altman', 'Elliott Gou
 filme('Giù la testa', 1971, 157, 'Drama', 7.6, 'Sergio Leone', 'Rod Steiger', 'James Coburn', 'Romolo Valli', 'Maria Monti', 696690).
 filme('Giù la testa', 1971, 157, 'War', 7.6, 'Sergio Leone', 'Rod Steiger', 'James Coburn', 'Romolo Valli', 'Maria Monti', 696690).
 filme('Giù la testa', 1971, 157, 'Western', 7.6, 'Sergio Leone', 'Rod Steiger', 'James Coburn', 'Romolo Valli', 'Maria Monti', 696690).
-filme("Kelly's Heroes", 1970, 144, 'Adventure', 7.6, 'Brian G. Hutton', 'Clint Eastwood', 'Telly Savalas', 'Don Rickles', "Carroll O'Connor", 1378435).
-filme("Kelly's Heroes", 1970, 144, 'Comedy', 7.6, 'Brian G. Hutton', 'Clint Eastwood', 'Telly Savalas', 'Don Rickles', "Carroll O'Connor", 1378435).
-filme("Kelly's Heroes", 1970, 144, 'War', 7.6, 'Brian G. Hutton', 'Clint Eastwood', 'Telly Savalas', 'Don Rickles', "Carroll O'Connor", 1378435).
+filme('Kelly\'s Heroes', 1970, 144, 'Adventure', 7.6, 'Brian G. Hutton', 'Clint Eastwood', 'Telly Savalas', 'Don Rickles', 'Carroll O\'Connor', 1378435).
+filme('Kelly\'s Heroes', 1970, 144, 'Comedy', 7.6, 'Brian G. Hutton', 'Clint Eastwood', 'Telly Savalas', 'Don Rickles', 'Carroll O\'Connor', 1378435).
+filme('Kelly\'s Heroes', 1970, 144, 'War', 7.6, 'Brian G. Hutton', 'Clint Eastwood', 'Telly Savalas', 'Don Rickles', 'Carroll O\'Connor', 1378435).
 filme('The Jungle Book', 1967, 78, 'Animation', 7.6, 'Wolfgang Reitherman', 'Phil Harris', 'Sebastian Cabot', 'Louis Prima', 'Bruce Reitherman', 141843612).
 filme('The Jungle Book', 1967, 78, 'Adventure', 7.6, 'Wolfgang Reitherman', 'Phil Harris', 'Sebastian Cabot', 'Louis Prima', 'Bruce Reitherman', 141843612).
 filme('The Jungle Book', 1967, 78, 'Family', 7.6, 'Wolfgang Reitherman', 'Phil Harris', 'Sebastian Cabot', 'Louis Prima', 'Bruce Reitherman', 141843612).
 filme('Blowup', 1966, 111, 'Drama', 7.6, 'Michelangelo Antonioni', 'David Hemmings', 'Vanessa Redgrave', 'Sarah Miles', 'John Castle', -1).
 filme('Blowup', 1966, 111, 'Mystery', 7.6, 'Michelangelo Antonioni', 'David Hemmings', 'Vanessa Redgrave', 'Sarah Miles', 'John Castle', -1).
 filme('Blowup', 1966, 111, 'Thriller', 7.6, 'Michelangelo Antonioni', 'David Hemmings', 'Vanessa Redgrave', 'Sarah Miles', 'John Castle', -1).
-filme("A Hard Day's Night", 1964, 87, 'Comedy', 7.6, 'Richard Lester', 'John Lennon', 'Paul McCartney', 'George Harrison', 'Ringo Starr', 13780024).
-filme("A Hard Day's Night", 1964, 87, 'Music', 7.6, 'Richard Lester', 'John Lennon', 'Paul McCartney', 'George Harrison', 'Ringo Starr', 13780024).
-filme("A Hard Day's Night", 1964, 87, 'Musical', 7.6, 'Richard Lester', 'John Lennon', 'Paul McCartney', 'George Harrison', 'Ringo Starr', 13780024).
-filme("Breakfast at Tiffany's", 1961, 115, 'Comedy', 7.6, 'Blake Edwards', 'Audrey Hepburn', 'George Peppard', 'Patricia Neal', 'Buddy Ebsen', -1).
-filme("Breakfast at Tiffany's", 1961, 115, 'Drama', 7.6, 'Blake Edwards', 'Audrey Hepburn', 'George Peppard', 'Patricia Neal', 'Buddy Ebsen', -1).
-filme("Breakfast at Tiffany's", 1961, 115, 'Romance', 7.6, 'Blake Edwards', 'Audrey Hepburn', 'George Peppard', 'Patricia Neal', 'Buddy Ebsen', -1).
+filme('A Hard Day\'s Night', 1964, 87, 'Comedy', 7.6, 'Richard Lester', 'John Lennon', 'Paul McCartney', 'George Harrison', 'Ringo Starr', 13780024).
+filme('A Hard Day\'s Night', 1964, 87, 'Music', 7.6, 'Richard Lester', 'John Lennon', 'Paul McCartney', 'George Harrison', 'Ringo Starr', 13780024).
+filme('A Hard Day\'s Night', 1964, 87, 'Musical', 7.6, 'Richard Lester', 'John Lennon', 'Paul McCartney', 'George Harrison', 'Ringo Starr', 13780024).
+filme('Breakfast at Tiffany\'s', 1961, 115, 'Comedy', 7.6, 'Blake Edwards', 'Audrey Hepburn', 'George Peppard', 'Patricia Neal', 'Buddy Ebsen', -1).
+filme('Breakfast at Tiffany\'s', 1961, 115, 'Drama', 7.6, 'Blake Edwards', 'Audrey Hepburn', 'George Peppard', 'Patricia Neal', 'Buddy Ebsen', -1).
+filme('Breakfast at Tiffany\'s', 1961, 115, 'Romance', 7.6, 'Blake Edwards', 'Audrey Hepburn', 'George Peppard', 'Patricia Neal', 'Buddy Ebsen', -1).
 filme('Giant', 1956, 201, 'Drama', 7.6, 'George Stevens', 'Elizabeth Taylor', 'Rock Hudson', 'James Dean', 'Carroll Baker', -1).
 filme('Giant', 1956, 201, 'Western', 7.6, 'George Stevens', 'Elizabeth Taylor', 'Rock Hudson', 'James Dean', 'Carroll Baker', -1).
 filme('From Here to Eternity', 1953, 118, 'Drama', 7.6, 'Fred Zinnemann', 'Burt Lancaster', 'Montgomery Clift', 'Deborah Kerr', 'Donna Reed', 30500000).
@@ -2541,573 +2541,3283 @@ filme('The 39 Steps', 1935, 86, 'Crime', 7.6, 'Alfred Hitchcock', 'Robert Donat'
 filme('The 39 Steps', 1935, 86, 'Mystery', 7.6, 'Alfred Hitchcock', 'Robert Donat', 'Madeleine Carroll', 'Lucie Mannheim', 'Godfrey Tearle', -1).
 filme('The 39 Steps', 1935, 86, 'Thriller', 7.6, 'Alfred Hitchcock', 'Robert Donat', 'Madeleine Carroll', 'Lucie Mannheim', 'Godfrey Tearle', -1).
 
-diretor('Ernst Lubitsch').
-diretor('Brian De Palma').
-diretor('Amit Ravindernath Sharma').
-diretor('Thomas Kail').
-diretor('Kabir Khan').
-diretor('Boaz Yakin').
-diretor('John Woo').
-diretor('Paul King').
-diretor('Masaki Kobayashi').
-diretor('Aaron Sorkin').
-diretor('Todd Solondz').
-diretor('Lenny Abrahamson').
-diretor('Gore Verbinski').
-diretor('Andrew Lau').
-diretor('Tom Tykwer').
-diretor('Lana Wachowski').
-diretor('Penny Marshall').
-diretor('Richard Curtis').
-diretor('John Cameron Mitchell').
-diretor('S.S. Rajamouli').
-diretor('Alex Proyas').
-diretor('Joseph L. Mankiewicz').
-diretor('Duncan Jones').
-diretor('Yimou Zhang').
-diretor('Joseph Kosinski').
-diretor('Michel Hazanavicius').
-diretor('Otto Preminger').
-diretor('Brad Anderson').
-diretor('Jee-woon Kim').
-diretor('Josh Cooley').
-diretor('Jacques Audiard').
-diretor('Travis Knight').
-diretor('Wolfgang Becker').
-diretor('Danis Tanovic').
-diretor('George Sluizer').
-diretor('Terry Gilliam').
-diretor('Susanne Bier').
-diretor('Wolfgang Petersen').
-diretor('Robert Redford').
-diretor('Robert Clouse').
-diretor('Sanjay Leela Bhansali').
-diretor('Tim Miller').
-diretor('Werner Herzog').
-diretor('Danny Boyle').
-diretor('Harold Ramis').
-diretor('James Wan').
-diretor('Gabriele Muccino').
-diretor('Taika Waititi').
-diretor('Moustapha Akkad').
-diretor('Pierre Morel').
-diretor('Kevin Reynolds').
-diretor('Ronny Yu').
-diretor('Troy Duffy').
-diretor('Karan Johar').
-diretor('Lasse Hallström').
-diretor('David Ayer').
-diretor('Wolfgang Reitherman').
-diretor('Francis Veber').
-diretor('Sidney Lumet').
-diretor('Oriol Paulo').
-diretor('Joseph Sargent').
-diretor('Jeethu Joseph').
-diretor('Yilmaz Erdogan').
-diretor('Hong-jin Na').
-diretor('Kenneth Branagh').
-diretor('Blake Edwards').
-diretor('Céline Sciamma').
-diretor('Bernardo Bertolucci').
-diretor('John Hughes').
-diretor('Abhishek Kapoor').
-diretor('Gregory Hoblit').
-diretor('Yasujirô Ozu').
-diretor('Paolo Genovese').
-diretor('Cary Joji Fukunaga').
-diretor('Charles Vidor').
-diretor('Steve McQueen').
-diretor('Orson Welles').
-diretor('Bob Fosse').
-diretor('Thomas Jahn').
-diretor('Tyler Nilson').
-diretor('Michel Gondry').
-diretor('Kevin Altieri').
-diretor('Tom Hooper').
-diretor('Stephen Daldry').
-diretor('Krzysztof Kieslowski').
-diretor('Elia Kazan').
-diretor('Stanley Donen').
-diretor('Priyadarshan').
-diretor('Rajkumar Santoshi').
-diretor('James Mangold').
-diretor('Mel Gibson').
-diretor('Christopher Nolan').
-diretor('Niels Arden Oplev').
-diretor('Jim Jarmusch').
-diretor('Terry Jones').
-diretor('Xavier Dolan').
-diretor('David O. Russell').
-diretor('François Truffaut').
-diretor('Olivier Nakache').
-diretor('Imtiaz Ali').
-diretor('Peter Farrelly').
-diretor('Nikkhil Advani').
-diretor('Tigmanshu Dhulia').
-diretor('William Friedkin').
-diretor('Jim Sheridan').
-diretor('Nadine Labaki').
-diretor('John Frankenheimer').
-diretor('Bob Gale').
-diretor('Merian C. Cooper').
-diretor('Bob Persichetti').
-diretor('Guillermo del Toro').
-diretor('Anders Thomas Jensen').
-diretor('Mel Stuart').
-diretor('Juan José Campanella').
-diretor('David Fincher').
-diretor('Yoshifumi Kondô').
-diretor('Sergei M. Eisenstein').
-diretor('Henry Selick').
-diretor('James Foley').
-diretor('Matthew Warchus').
-diretor('Bruce Robinson').
-diretor('Lee Unkrich').
-diretor('John G. Avildsen').
-diretor('David Leitch').
-diretor('Paul Haggis').
-diretor('W.S. Van Dyke').
-diretor('Umesh Shukla').
-diretor('Raoul Walsh').
-diretor('Billy Bob Thornton').
-diretor('Spike Jonze').
-diretor('Richard Marquand').
-diretor('José Padilha').
-diretor('Franklin J. Schaffner').
-diretor('Tomas Alfredson').
-diretor('Mark Rydell').
-diretor('Ted Demme').
-diretor('Alan Parker').
 diretor('Aamir Khan').
-diretor('Anurag Kashyap').
-diretor('Sofia Coppola').
-diretor('Roberto Benigni').
-diretor('Mike Newell').
-diretor('Hal Ashby').
-diretor('Luis Buñuel').
-diretor('Rian Johnson').
-diretor('Roger Allers').
-diretor('George P. Cosmatos').
-diretor('Robert Stevenson').
-diretor('Stuart Rosenberg').
-diretor('Bob Clark').
-diretor('Rich Moore').
-diretor('Dorota Kobiela').
-diretor('Tod Browning').
-diretor('René Laloux').
-diretor('J. Lee Thompson').
-diretor('Vittorio De Sica').
-diretor('Andrey Zvyagintsev').
-diretor('Yash Chopra').
-diretor('David Lean').
-diretor('Kevin Macdonald').
-diretor('James Simone').
-diretor('Tom McCarthy').
-diretor('Levent Semerci').
-diretor('Robert Benton').
-diretor('Matt Reeves').
-diretor('Bradley Cooper').
-diretor('Rakeysh Omprakash Mehra').
-diretor('Don Hall').
-diretor('Sylvain Chomet').
-diretor('Hrishikesh Mukherjee').
-diretor('James Ivory').
-diretor('Peter Mullan').
-diretor('Mike Judge').
-diretor('Quentin Tarantino').
-diretor('Jae-young Kwak').
-diretor('George Lucas').
-diretor('Fatih Akin').
-diretor('Anurag Basu').
-diretor('Ritesh Batra').
-diretor('Edgar Wright').
-diretor('Yann Samuell').
-diretor('Shûsuke Kaneko').
-diretor('Cecil B. DeMille').
-diretor('Mamoru Oshii').
-diretor('James Algar').
-diretor('Ben Affleck').
-diretor('Jacques Tourneur').
-diretor('Roman Polanski').
-diretor('Zoya Akhtar').
-diretor('George Stevens').
-diretor('Hiromasa Yonebayashi').
-diretor('Michelangelo Antonioni').
-diretor('Tarsem Singh').
-diretor('Takeshi Kitano').
-diretor('Damián Szifron').
-diretor('William Wyler').
-diretor('Michael Haneke').
-diretor('Francis Lee').
-diretor('James Marsh').
-diretor('John Carney').
-diretor('Jaco Van Dormael').
-diretor('Jean-Pierre Jeunet').
-diretor('Ramesh Sippy').
-diretor('Tim Burton').
-diretor('Tate Taylor').
-diretor('Sergio Leone').
-diretor('Darren Aronofsky').
-diretor('Vincent Paronnaud').
-diretor('Robert Rossen').
-diretor('Vikramaditya Motwane').
-diretor('Adam Elliot').
-diretor('Mike Leigh').
-diretor('Martin Scorsese').
-diretor('Peter Weir').
-diretor('Joe Wright').
-diretor('Guy Ritchie').
-diretor('Sam Mendes').
-diretor('Norman Jewison').
-diretor('Aniruddha Roy Chowdhury').
-diretor('Don Siegel').
-diretor('Sudha Kongara').
-diretor('Terence Young').
-diretor('Gene Saks').
-diretor('Robert Wiene').
-diretor('David Lynch').
-diretor('Brian G. Hutton').
-diretor('Stephen Frears').
-diretor('John McTiernan').
-diretor('Bong Joon Ho').
-diretor('Michael Powell').
-diretor('David Mackenzie').
-diretor('Neeraj Pandey').
-diretor('George Cukor').
-diretor('Joel Coen').
-diretor('Nathan Greno').
-diretor('Yoshiaki Kawajiri').
-diretor('John Huston').
-diretor('Akira Kurosawa').
-diretor('Francis Ford Coppola').
-diretor('Frank Capra').
-diretor('John Schlesinger').
-diretor('Paolo Sorrentino').
-diretor('Lukas Moodysson').
-diretor('Trey Parker').
-diretor('Federico Fellini').
-diretor('Mukesh Chhabra').
-diretor('Taylor Hackford').
-diretor('David Zucker').
-diretor('Alejandro G. Iñárritu').
-diretor('Hideaki Anno').
-diretor('Martin McDonagh').
-diretor('Thomas Vinterberg').
-diretor('Christophe Barratier').
+diretor('Aaron Sorkin').
 diretor('Abdellatif Kechiche').
-diretor('Jonathan Demme').
-diretor('James Whale').
-diretor('John Ford').
-diretor('Alfred Hitchcock').
-diretor('Mike Nichols').
-diretor('Milos Forman').
-diretor('Nicholas Meyer').
-diretor('Theodore Melfi').
-diretor('Sean Penn').
-diretor('Matt Ross').
-diretor('Rob Reiner').
-diretor('Alain Resnais').
-diretor('Sam Peckinpah').
-diretor('Ashutosh Gowariker').
-diretor('Lee Tamahori').
-diretor('Darius Marder').
-diretor('Louis Malle').
-diretor('Clint Eastwood').
-diretor('Oliver Stone').
-diretor('Charles Laughton').
-diretor('Nicolas Winding Refn').
-diretor('John Sturges').
-diretor('Fabián Bielinsky').
-diretor('Robert Altman').
-diretor('Neill Blomkamp').
-diretor('Yavuz Turgul').
-diretor("Shin'ichirô Watanabe").
-diretor('Wim Wenders').
-diretor('Rajkumar Hirani').
-diretor('Frank Miller').
-diretor('Christian Carion').
-diretor('Nicholas Ray').
-diretor('Peter Jackson').
-diretor('Andrew Adamson').
-diretor('Brian Henson').
-diretor('Martin Zandvliet').
-diretor('Todd Phillips').
-diretor('Stephen Chow').
-diretor('Michael Curtiz').
-diretor('Cristian Mungiu').
-diretor('Stanley Kubrick').
-diretor('Dennis Gansel').
-diretor('Hayao Miyazaki').
-diretor('Barry Levinson').
-diretor('Philip Kaufman').
-diretor('David Cronenberg').
-diretor('Jack Clayton').
-diretor('Jim Abrahams').
-diretor('Woody Allen').
-diretor('Christopher McQuarrie').
-diretor('Andrew Niccol').
-diretor('Anthony Russo').
-diretor('Rahi Anil Barve').
-diretor('Naoko Yamada').
-diretor('Matthew Vaughn').
-diretor('Gary Trousdale').
+diretor('Abhishek Chaubey').
+diretor('Abhishek Kapoor').
+diretor('Adam Elliot').
+diretor('Adam McKay').
 diretor('Aditya Chopra').
-diretor('Alex Garland').
-diretor('Vishal Bhardwaj').
-diretor('Fritz Lang').
-diretor('Carl Theodor Dreyer').
-diretor('Gus Van Sant').
-diretor('Raja Menon').
-diretor('Julian Schnabel').
-diretor('Emir Kusturica').
-diretor('Shoojit Sircar').
-diretor('James L. Brooks').
-diretor('Chan-wook Park').
-diretor('Asghar Farhadi').
-diretor('Henry Koster').
-diretor('Ryan Coogler').
-diretor('Richard Donner').
-diretor('Clyde Bruckman').
-diretor('Gauri Shinde').
-diretor('John Lee Hancock').
-diretor('Todd Haynes').
-diretor('Kinji Fukasaku').
-diretor('Richard Attenborough').
-diretor('Irvin Kershner').
-diretor('Pierre Coffin').
-diretor('George Roy Hill').
-diretor('Robert Aldrich').
-diretor('Luca Guadagnino').
-diretor('Nuri Bilge Ceylan').
-diretor('Sujoy Ghosh').
-diretor('Yôjirô Takita').
-diretor('Jeong-beom Lee').
-diretor('Michael Cimino').
-diretor('Arthur Penn').
-diretor('Jean-Luc Godard').
-diretor('Alfonso Gomez-Rejon').
-diretor('Sean Baker').
-diretor('Ted Kotcheff').
-diretor('James McTeigue').
-diretor('Jean-Marc Vallée').
-diretor('Satoshi Kon').
-diretor('Shimit Amin').
-diretor('Jemaine Clement').
-diretor('Nick Cassavetes').
-diretor('F. Gary Gray').
-diretor('Tony Scott').
-diretor('Bryan Singer').
-diretor('Wilson Yip').
-diretor('Mehmet Ada Öztekin').
+diretor('Aditya Dhar').
+diretor('Akira Kurosawa').
+diretor('Alain Resnais').
 diretor('Alan J. Pakula').
+diretor('Alan Parker').
+diretor('Alejandro Amenábar').
+diretor('Alejandro G. Iñárritu').
+diretor('Alejandro Jodorowsky').
+diretor('Alex Garland').
+diretor('Alex Proyas').
+diretor('Alexander Mackendrick').
+diretor('Alexander Payne').
+diretor('Alfonso Cuarón').
+diretor('Alfonso Gomez-Rejon').
+diretor('Alfred Hitchcock').
+diretor('Amit Ravindernath Sharma').
+diretor('Anders Thomas Jensen').
+diretor('Andrei Tarkovsky').
+diretor('Andrew Adamson').
+diretor('Andrew Davis').
+diretor('Andrew Lau').
+diretor('Andrew Niccol').
+diretor('Andrew Stanton').
+diretor('Andrey Zvyagintsev').
+diretor('Aneesh Chaganty').
+diretor('Ang Lee').
+diretor('Aniruddha Roy Chowdhury').
+diretor('Anthony Harvey').
+diretor('Anthony Russo').
+diretor('Antoine Fuqua').
+diretor('Anton Corbijn').
+diretor('Anurag Basu').
+diretor('Anurag Kashyap').
+diretor('Arthur Penn').
+diretor('Asghar Farhadi').
+diretor('Ashutosh Gowariker').
+diretor('Barry Levinson').
+diretor('Ben Affleck').
+diretor('Bennett Miller').
+diretor('Bernardo Bertolucci').
+diretor('Billy Bob Thornton').
+diretor('Billy Wilder').
+diretor('Blake Edwards').
+diretor('Boaz Yakin').
+diretor('Bob Clark').
+diretor('Bob Fosse').
+diretor('Bob Gale').
+diretor('Bob Persichetti').
+diretor('Bong Joon Ho').
+diretor('Brad Anderson').
+diretor('Brad Bird').
+diretor('Bradley Cooper').
+diretor('Brian De Palma').
+diretor('Brian G. Hutton').
+diretor('Brian Henson').
+diretor('Bruce Robinson').
+diretor('Bryan Singer').
+diretor('Buster Keaton').
+diretor('Byron Howard').
+diretor('Cameron Crowe').
 diretor('Can Ulkay').
+diretor('Carl Theodor Dreyer').
+diretor('Carol Reed').
+diretor('Cary Joji Fukunaga').
+diretor('Cecil B. DeMille').
+diretor('Chan-wook Park').
+diretor('Charles Chaplin').
+diretor('Charles Laughton').
+diretor('Charles Vidor').
+diretor('Charlie Kaufman').
+diretor('Chris Columbus').
+diretor('Christian Carion').
+diretor('Christophe Barratier').
+diretor('Christopher McQuarrie').
+diretor('Christopher Miller').
+diretor('Christopher Nolan').
+diretor('Clint Eastwood').
+diretor('Clyde Bruckman').
+diretor('Cristian Mungiu').
+diretor('Curtis Hanson').
+diretor('Cy Endfield').
+diretor('Céline Sciamma').
+diretor('Damien Chazelle').
+diretor('Damián Szifron').
+diretor('Dan Gilroy').
+diretor('Daniel Monzón').
+diretor('Danis Tanovic').
+diretor('Danny Boyle').
+diretor('Darius Marder').
+diretor('Darren Aronofsky').
+diretor('David Ayer').
+diretor('David Cronenberg').
+diretor('David Fincher').
+diretor('David Lean').
+diretor('David Leitch').
+diretor('David Lynch').
+diretor('David Mackenzie').
+diretor('David Mickey Evans').
+diretor('David O. Russell').
+diretor('David Yates').
+diretor('David Zucker').
+diretor('Dean DeBlois').
+diretor('Denis Villeneuve').
+diretor('Deniz Gamze Ergüven').
+diretor('Dennis Gansel').
+diretor('Destin Daniel Cretton').
+diretor('Don Hall').
+diretor('Don Siegel').
+diretor('Dorota Kobiela').
+diretor('Doug Liman').
+diretor('Duncan Jones').
+diretor('Edgar Wright').
+diretor('Edward Zwick').
+diretor('Elem Klimov').
+diretor('Elia Kazan').
+diretor('Emir Kusturica').
+diretor('Eric Bress').
+diretor('Ericson Core').
+diretor('Ernst Lubitsch').
+diretor('Ethan Coen').
+diretor('F. Gary Gray').
+diretor('F.W. Murnau').
+diretor('Fabián Bielinsky').
+diretor('Farhan Akhtar').
+diretor('Fatih Akin').
+diretor('Federico Fellini').
+diretor('Felix van Groeningen').
+diretor('Fernando Meirelles').
+diretor('Florian Henckel von Donnersmarck').
+diretor('Francis Ford Coppola').
+diretor('Francis Lee').
+diretor('Francis Veber').
+diretor('Frank Capra').
+diretor('Frank Darabont').
+diretor('Frank Miller').
+diretor('Franklin J. Schaffner').
+diretor('François Truffaut').
+diretor('Fred Zinnemann').
+diretor('Fritz Lang').
+diretor('Gabriele Muccino').
+diretor('Gareth Edwards').
+diretor('Gareth Evans').
+diretor('Garth Davis').
+diretor('Gary Trousdale').
+diretor('Gauri Shinde').
+diretor('Gavin O\'Connor').
+diretor('Gayatri').
+diretor('Gene Saks').
+diretor('George A. Romero').
+diretor('George Cukor').
+diretor('George Lucas').
+diretor('George Miller').
+diretor('George P. Cosmatos').
+diretor('George Roy Hill').
+diretor('George Seaton').
+diretor('George Sluizer').
+diretor('George Stevens').
+diretor('Georges Franju').
+diretor('Gillo Pontecorvo').
+diretor('Giuseppe Tornatore').
+diretor('Gore Verbinski').
+diretor('Gregg Araki').
+diretor('Gregory Hoblit').
+diretor('Greta Gerwig').
+diretor('Guillermo del Toro').
+diretor('Gus Van Sant').
+diretor('Guy Hamilton').
+diretor('Guy Ritchie').
+diretor('Hal Ashby').
+diretor('Hannes Holm').
+diretor('Harold Ramis').
+diretor('Hayao Miyazaki').
+diretor('Henri-Georges Clouzot').
+diretor('Henry Koster').
+diretor('Henry Selick').
+diretor('Hideaki Anno').
+diretor('Hirokazu Koreeda').
+diretor('Hiromasa Yonebayashi').
+diretor('Hong-jin Na').
+diretor('Howard Hawks').
+diretor('Hrishikesh Mukherjee').
+diretor('Imtiaz Ali').
+diretor('Ingmar Bergman').
+diretor('Irvin Kershner').
+diretor('Isao Takahata').
+diretor('Ivan Reitman').
+diretor('J. Lee Thompson').
+diretor('J.J. Abrams').
+diretor('Jack Clayton').
+diretor('Jaco Van Dormael').
+diretor('Jacques Audiard').
+diretor('Jacques Tourneur').
+diretor('Jae-young Kwak').
+diretor('James Algar').
+diretor('James Cameron').
+diretor('James Foley').
+diretor('James Frawley').
+diretor('James Gunn').
+diretor('James Ivory').
+diretor('James L. Brooks').
+diretor('James Mangold').
+diretor('James Marsh').
+diretor('James McTeigue').
+diretor('James Simone').
+diretor('James Wan').
+diretor('James Whale').
+diretor('Je-kyu Kang').
 diretor('Jean Renoir').
-diretor('Martin Campbell').
-diretor('Paul McGuigan').
-diretor('Tomm Moore').
+diretor('Jean-Jacques Annaud').
+diretor('Jean-Luc Godard').
+diretor('Jean-Marc Vallée').
+diretor('Jean-Pierre Jeunet').
+diretor('Jean-Pierre Melville').
+diretor('Jee-woon Kim').
+diretor('Jeethu Joseph').
+diretor('Jemaine Clement').
+diretor('Jeong-beom Lee').
+diretor('Jessie Nelson').
+diretor('Jim Abrahams').
+diretor('Jim Jarmusch').
+diretor('Jim Sheridan').
+diretor('Joe Johnston').
+diretor('Joe Wright').
+diretor('Joel Coen').
+diretor('Joel Schumacher').
+diretor('John Boorman').
+diretor('John Cameron Mitchell').
+diretor('John Carney').
+diretor('John Carpenter').
+diretor('John Ford').
+diretor('John Frankenheimer').
+diretor('John G. Avildsen').
+diretor('John Hughes').
+diretor('John Huston').
+diretor('John Landis').
+diretor('John Lasseter').
+diretor('John Lee Hancock').
+diretor('John McTiernan').
+diretor('John Schlesinger').
+diretor('John Singleton').
+diretor('John Sturges').
+diretor('John Woo').
+diretor('Jon Avnet').
 diretor('Jon Favreau').
 diretor('Jonathan Dayton').
-diretor('Ken Loach').
-diretor('Michael Radford').
-diretor('Elem Klimov').
-diretor('Zack Snyder').
-diretor('James Frawley').
-diretor('Shane Meadows').
-diretor('Richard Linklater').
-diretor('Richard Lester').
-diretor('Deniz Gamze Ergüven').
-diretor('Terrence Malick').
-diretor('John Landis').
-diretor('Fred Zinnemann').
-diretor('Garth Davis').
-diretor('Antoine Fuqua').
-diretor('Kar-Wai Wong').
-diretor('Ericson Core').
-diretor('Guy Hamilton').
-diretor('Pedro Almodóvar').
-diretor('Martin Brest').
-diretor('Sam Wood').
-diretor('Andrew Stanton').
-diretor('Steven Spielberg').
-diretor('Gayatri').
-diretor('Sergio Pablos').
-diretor('Greta Gerwig').
-diretor('Michael Mann').
-diretor('Gareth Edwards').
-diretor('Denis Villeneuve').
-diretor('Cy Endfield').
-diretor('Alejandro Jodorowsky').
-diretor('Mark Osborne').
-diretor('Paul Thomas Anderson').
-diretor('Kaige Chen').
-diretor('Çagan Irmak').
-diretor('Robert Zemeckis').
-diretor('Ivan Reitman').
-diretor('Joel Schumacher').
-diretor('Henri-Georges Clouzot').
-diretor('Alejandro Amenábar').
-diretor('Dean DeBlois').
-diretor('Alfonso Cuarón').
-diretor('Walter Hill').
-diretor('Christopher Miller').
-diretor('Chris Columbus').
-diretor('Tony Bancroft').
-diretor('Noah Baumbach').
-diretor('Neil Burger').
-diretor('David Yates').
-diretor('Martin Rosen').
-diretor('Gregg Araki').
-diretor('J.J. Abrams').
-diretor('Roland Joffé').
-diretor('Wes Anderson').
-diretor('Adam McKay').
-diretor('Lewis Milestone').
-diretor('Ömer Faruk Sorak').
-diretor('Ron Howard').
-diretor('Isao Takahata').
-diretor("Gavin O'Connor").
-diretor('Dan Gilroy').
-diretor('Ridley Scott').
-diretor('Kevin Costner').
-diretor('Olivier Dahan').
-diretor('Jessie Nelson').
-diretor('Ethan Coen').
-diretor('Ki-duk Kim').
-diretor('Buster Keaton').
-diretor('Edward Zwick').
-diretor('Paul Verhoeven').
-diretor('Ruben Fleischer').
-diretor('Georges Franju').
-diretor('Steven Soderbergh').
-diretor('Lars von Trier').
-diretor('Andrei Tarkovsky').
-diretor('Mathieu Kassovitz').
-diretor('Makoto Shinkai').
-diretor('Fernando Meirelles').
-diretor('Tetsuya Nakashima').
-diretor('Frank Darabont').
-diretor('Scott Hicks').
-diretor('Hirokazu Koreeda').
-diretor('Nishikant Kamat').
-diretor('George Seaton').
-diretor('Ken Annakin').
-diretor('Robert Mulligan').
-diretor('Gareth Evans').
-diretor('David Mickey Evans').
-diretor('Mamoru Hosoda').
-diretor('Victor Fleming').
-diretor('Tony Kaye').
-diretor('Anthony Harvey').
-diretor('Luc Besson').
-diretor('Aditya Dhar').
-diretor('Jordan Peele').
+diretor('Jonathan Demme').
 diretor('Jonathan Levine').
-diretor('Je-kyu Kang').
-diretor('Robert De Niro').
-diretor('Richard Schenkman').
-diretor('Terry George').
-diretor('Doug Liman').
-diretor('Pete Docter').
-diretor('Daniel Monzón').
-diretor('Anton Corbijn').
-diretor('Leo McCarey').
-diretor('Spike Lee').
-diretor('George A. Romero').
-diretor('Prashanth Neel').
-diretor('Charles Chaplin').
-diretor('Hannes Holm').
-diretor('Richard Kelly').
-diretor('Joe Johnston').
-diretor('Mary Harron').
-diretor('Josh Boone').
-diretor('Alexander Payne').
-diretor('Aneesh Chaganty').
-diretor('Howard Hawks').
-diretor('Charlie Kaufman').
-diretor('Marc Caro').
-diretor('Taylor Sheridan').
-diretor('Ingmar Bergman').
-diretor('Peter Bogdanovich').
-diretor('Marc Forster').
-diretor('Katsuhiro Ôtomo').
-diretor('Cameron Crowe').
-diretor('Mikael Håfström').
-diretor('Robert Hamer').
-diretor('Florian Henckel von Donnersmarck').
-diretor('Joss Whedon').
-diretor('Kenneth Lonergan').
-diretor('Vikas Bahl').
-diretor('George Miller').
-diretor('Jon Avnet').
-diretor('James Cameron').
-diretor('F.W. Murnau').
-diretor('Andrew Davis').
-diretor('John Carpenter').
-diretor('Felix van Groeningen').
-diretor('Byron Howard').
-diretor('John Singleton').
 diretor('Jonathan Lynn').
-diretor('Meghna Gulzar').
-diretor('John Lasseter').
-diretor('Eric Bress').
-diretor('Damien Chazelle').
-diretor('Paul Greengrass').
-diretor('Farhan Akhtar').
-diretor('James Gunn').
-diretor('Billy Wilder').
-diretor('Stephen Chbosky').
-diretor('Ang Lee').
+diretor('Jordan Peele').
+diretor('Joseph Kosinski').
+diretor('Joseph L. Mankiewicz').
+diretor('Joseph Sargent').
+diretor('Josh Boone').
+diretor('Josh Cooley').
+diretor('Joss Whedon').
+diretor('José Padilha').
+diretor('Juan José Campanella').
 diretor('Jules Dassin').
+diretor('Julian Schnabel').
+diretor('Kabir Khan').
+diretor('Kaige Chen').
+diretor('Kar-Wai Wong').
+diretor('Karan Johar').
+diretor('Katsuhiro Ôtomo').
+diretor('Ken Annakin').
+diretor('Ken Loach').
+diretor('Kenneth Branagh').
+diretor('Kenneth Lonergan').
+diretor('Kevin Altieri').
+diretor('Kevin Costner').
+diretor('Kevin Macdonald').
+diretor('Kevin Reynolds').
 diretor('Kevin Smith').
-diretor('Destin Daniel Cretton').
-diretor('Mark Herman').
-diretor('Gillo Pontecorvo').
-diretor('John Boorman').
-diretor('Oliver Hirschbiegel').
-diretor('Ron Clements').
-diretor('Abhishek Chaubey').
-diretor('Richard Brooks').
-diretor('Curtis Hanson').
-diretor('Jean-Pierre Melville').
-diretor('Sam Raimi').
-diretor('Robert Wise').
-diretor('Majid Majidi').
-diretor('Walter Salles').
-diretor('Marc Webb').
-diretor('Zaza Urushadze').
-diretor('Nitesh Tiwari').
-diretor('Stanley Kramer').
-diretor('Roger Donaldson').
-diretor('Mel Brooks').
-diretor('Jean-Jacques Annaud').
+diretor('Ki-duk Kim').
+diretor('Kinji Fukasaku').
+diretor('Krzysztof Kieslowski').
+diretor('Lana Wachowski').
+diretor('Lars von Trier').
+diretor('Lasse Hallström').
+diretor('Lee Tamahori').
+diretor('Lee Unkrich').
+diretor('Lenny Abrahamson').
+diretor('Leo McCarey').
+diretor('Levent Semerci').
+diretor('Lewis Milestone').
+diretor('Louis Malle').
+diretor('Luc Besson').
+diretor('Luca Guadagnino').
+diretor('Luis Buñuel').
+diretor('Lukas Moodysson').
 diretor('M. Night Shyamalan').
-diretor('Alexander Mackendrick').
-diretor('Sriram Raghavan').
-diretor('Giuseppe Tornatore').
-diretor('Bennett Miller').
-diretor('Sebastian Schipper').
+diretor('Majid Majidi').
+diretor('Makoto Shinkai').
+diretor('Mamoru Hosoda').
+diretor('Mamoru Oshii').
+diretor('Marc Caro').
+diretor('Marc Forster').
+diretor('Marc Webb').
+diretor('Mark Herman').
+diretor('Mark Osborne').
+diretor('Mark Rydell').
+diretor('Martin Brest').
+diretor('Martin Campbell').
+diretor('Martin McDonagh').
+diretor('Martin Rosen').
+diretor('Martin Scorsese').
+diretor('Martin Zandvliet').
+diretor('Mary Harron').
+diretor('Masaki Kobayashi').
+diretor('Mathieu Kassovitz').
+diretor('Matt Reeves').
+diretor('Matt Ross').
+diretor('Matthew Vaughn').
+diretor('Matthew Warchus').
+diretor('Meghna Gulzar').
+diretor('Mehmet Ada Öztekin').
+diretor('Mel Brooks').
+diretor('Mel Gibson').
+diretor('Mel Stuart').
+diretor('Merian C. Cooper').
+diretor('Michael Cimino').
+diretor('Michael Curtiz').
+diretor('Michael Haneke').
+diretor('Michael Mann').
+diretor('Michael Powell').
+diretor('Michael Radford').
+diretor('Michel Gondry').
+diretor('Michel Hazanavicius').
+diretor('Michelangelo Antonioni').
+diretor('Mikael Håfström').
+diretor('Mike Judge').
+diretor('Mike Leigh').
+diretor('Mike Newell').
+diretor('Mike Nichols').
+diretor('Milos Forman').
 diretor('Morten Tyldum').
-diretor('Brad Bird').
-diretor('Carol Reed').
+diretor('Moustapha Akkad').
+diretor('Mukesh Chhabra').
+diretor('Nadine Labaki').
+diretor('Naoko Yamada').
+diretor('Nathan Greno').
+diretor('Neeraj Pandey').
+diretor('Neil Burger').
+diretor('Neill Blomkamp').
+diretor('Nicholas Meyer').
+diretor('Nicholas Ray').
+diretor('Nick Cassavetes').
+diretor('Nicolas Winding Refn').
+diretor('Niels Arden Oplev').
+diretor('Nikkhil Advani').
+diretor('Nishikant Kamat').
+diretor('Nitesh Tiwari').
+diretor('Noah Baumbach').
+diretor('Norman Jewison').
+diretor('Nuri Bilge Ceylan').
+diretor('Oliver Hirschbiegel').
+diretor('Oliver Stone').
+diretor('Olivier Dahan').
+diretor('Olivier Nakache').
+diretor('Oriol Paulo').
+diretor('Orson Welles').
+diretor('Otto Preminger').
+diretor('Paolo Genovese').
+diretor('Paolo Sorrentino').
+diretor('Paul Greengrass').
+diretor('Paul Haggis').
+diretor('Paul King').
+diretor('Paul McGuigan').
+diretor('Paul Thomas Anderson').
+diretor('Paul Verhoeven').
+diretor('Pedro Almodóvar').
+diretor('Penny Marshall').
+diretor('Pete Docter').
+diretor('Peter Bogdanovich').
+diretor('Peter Farrelly').
+diretor('Peter Jackson').
+diretor('Peter Mullan').
+diretor('Peter Weir').
+diretor('Philip Kaufman').
+diretor('Pierre Coffin').
+diretor('Pierre Morel').
+diretor('Prashanth Neel').
+diretor('Priyadarshan').
+diretor('Quentin Tarantino').
+diretor('Rahi Anil Barve').
+diretor('Raja Menon').
+diretor('Rajkumar Hirani').
+diretor('Rajkumar Santoshi').
+diretor('Rakeysh Omprakash Mehra').
+diretor('Ramesh Sippy').
+diretor('Raoul Walsh').
+diretor('René Laloux').
+diretor('Rian Johnson').
+diretor('Rich Moore').
+diretor('Richard Attenborough').
+diretor('Richard Brooks').
+diretor('Richard Curtis').
+diretor('Richard Donner').
+diretor('Richard Kelly').
+diretor('Richard Lester').
+diretor('Richard Linklater').
+diretor('Richard Marquand').
+diretor('Richard Schenkman').
+diretor('Ridley Scott').
+diretor('Ritesh Batra').
+diretor('Rob Reiner').
+diretor('Robert Aldrich').
+diretor('Robert Altman').
+diretor('Robert Benton').
+diretor('Robert Clouse').
+diretor('Robert De Niro').
+diretor('Robert Hamer').
+diretor('Robert Mulligan').
+diretor('Robert Redford').
+diretor('Robert Rossen').
+diretor('Robert Stevenson').
+diretor('Robert Wiene').
+diretor('Robert Wise').
+diretor('Robert Zemeckis').
+diretor('Roberto Benigni').
+diretor('Roger Allers').
+diretor('Roger Donaldson').
+diretor('Roland Joffé').
+diretor('Roman Polanski').
+diretor('Ron Clements').
+diretor('Ron Howard').
+diretor('Ronny Yu').
+diretor('Ruben Fleischer').
+diretor('Ryan Coogler').
+diretor('S.S. Rajamouli').
+diretor('Sam Mendes').
+diretor('Sam Peckinpah').
+diretor('Sam Raimi').
+diretor('Sam Wood').
+diretor('Sanjay Leela Bhansali').
+diretor('Satoshi Kon').
+diretor('Scott Hicks').
+diretor('Sean Baker').
+diretor('Sean Penn').
+diretor('Sebastian Schipper').
+diretor('Sergei M. Eisenstein').
+diretor('Sergio Leone').
+diretor('Sergio Pablos').
+diretor('Shane Meadows').
+diretor('Shimit Amin').
+diretor('Shin\'ichirô Watanabe').
+diretor('Shoojit Sircar').
+diretor('Shûsuke Kaneko').
+diretor('Sidney Lumet').
+diretor('Sofia Coppola').
+diretor('Spike Jonze').
+diretor('Spike Lee').
+diretor('Sriram Raghavan').
+diretor('Stanley Donen').
+diretor('Stanley Kramer').
+diretor('Stanley Kubrick').
+diretor('Stephen Chbosky').
+diretor('Stephen Chow').
+diretor('Stephen Daldry').
+diretor('Stephen Frears').
+diretor('Steve McQueen').
+diretor('Steven Soderbergh').
+diretor('Steven Spielberg').
+diretor('Stuart Rosenberg').
+diretor('Sudha Kongara').
+diretor('Sujoy Ghosh').
+diretor('Susanne Bier').
+diretor('Sylvain Chomet').
+diretor('Taika Waititi').
+diretor('Takeshi Kitano').
+diretor('Tarsem Singh').
+diretor('Tate Taylor').
+diretor('Taylor Hackford').
+diretor('Taylor Sheridan').
+diretor('Ted Demme').
+diretor('Ted Kotcheff').
+diretor('Terence Young').
+diretor('Terrence Malick').
+diretor('Terry George').
+diretor('Terry Gilliam').
+diretor('Terry Jones').
+diretor('Tetsuya Nakashima').
+diretor('Theodore Melfi').
+diretor('Thomas Jahn').
+diretor('Thomas Kail').
+diretor('Thomas Vinterberg').
+diretor('Tigmanshu Dhulia').
+diretor('Tim Burton').
+diretor('Tim Miller').
+diretor('Tod Browning').
+diretor('Todd Haynes').
+diretor('Todd Phillips').
+diretor('Todd Solondz').
+diretor('Tom Hooper').
+diretor('Tom McCarthy').
+diretor('Tom Tykwer').
+diretor('Tomas Alfredson').
+diretor('Tomm Moore').
+diretor('Tony Bancroft').
+diretor('Tony Kaye').
+diretor('Tony Scott').
+diretor('Travis Knight').
+diretor('Trey Parker').
+diretor('Troy Duffy').
+diretor('Tyler Nilson').
+diretor('Umesh Shukla').
+diretor('Victor Fleming').
+diretor('Vikas Bahl').
+diretor('Vikramaditya Motwane').
+diretor('Vincent Paronnaud').
+diretor('Vishal Bhardwaj').
+diretor('Vittorio De Sica').
+diretor('W.S. Van Dyke').
+diretor('Walter Hill').
+diretor('Walter Salles').
+diretor('Werner Herzog').
+diretor('Wes Anderson').
+diretor('William Friedkin').
+diretor('William Wyler').
+diretor('Wilson Yip').
+diretor('Wim Wenders').
+diretor('Wolfgang Becker').
+diretor('Wolfgang Petersen').
+diretor('Wolfgang Reitherman').
+diretor('Woody Allen').
+diretor('Xavier Dolan').
+diretor('Yann Samuell').
+diretor('Yash Chopra').
+diretor('Yasujirô Ozu').
+diretor('Yavuz Turgul').
+diretor('Yilmaz Erdogan').
+diretor('Yimou Zhang').
+diretor('Yoshiaki Kawajiri').
+diretor('Yoshifumi Kondô').
+diretor('Yôjirô Takita').
+diretor('Zack Snyder').
+diretor('Zaza Urushadze').
+diretor('Zoya Akhtar').
+diretor('Çagan Irmak').
+diretor('Ömer Faruk Sorak').
 
-genero('Sci-Fi').
 genero('Action').
-genero('Film-Noir').
-genero('Biography').
-genero('Romance').
-genero('Drama').
-genero('Musical').
-genero('Music').
-genero('Fantasy').
-genero('Comedy').
-genero('Western').
 genero('Adventure').
-genero('Sport').
-genero('Family').
-genero('History').
 genero('Animation').
-genero('War').
-genero('Thriller').
-genero('Mystery').
+genero('Biography').
+genero('Comedy').
 genero('Crime').
+genero('Drama').
+genero('Family').
+genero('Fantasy').
+genero('Film-Noir').
+genero('History').
 genero('Horror').
+genero('Music').
+genero('Musical').
+genero('Mystery').
+genero('Romance').
+genero('Sci-Fi').
+genero('Sport').
+genero('Thriller').
+genero('War').
+genero('Western').
+
+ator('Aamir Bashir').
+ator('Aamir Khan').
+ator('Aaron Eckhart').
+ator('Aaron Taylor-Johnson').
+ator('Abdel Ahmed Ghili').
+ator('Abhay Deol').
+ator('Abigail Breslin').
+ator('Abraham Attah').
+ator('Adam Baldwin').
+ator('Adam Driver').
+ator('Adel Bencherif').
+ator('Adesh Prasad').
+ator('Adil Hussain').
+ator('Adolphe Menjou').
+ator('Adrian Molina').
+ator('Adrien Brody').
+ator('Adèle Exarchopoulos').
+ator('Adèle Haenel').
+ator('Agnes Moorehead').
+ator('Ahmet Mümtaz Taylan').
+ator('Ahna Capri').
+ator('Ahney Her').
+ator('Aidan Gillen').
+ator('Aitana Sánchez-Gijón').
+ator('Ajay Devgn').
+ator('Ajay Naidu').
+ator('Akemi Yamaguchi').
+ator('Aki Maeda').
+ator('Akihiro Miwa').
+ator('Akio Ôtsuka').
+ator('Akira Ishihama').
+ator('Akira Terao').
+ator('Akshay Kumar').
+ator('Akshaye Khanna').
+ator('Al Ernest Garcia').
+ator('Al Pacino').
+ator('Alain Delon').
+ator('Alakina Mann').
+ator('Alan Alda').
+ator('Alan Arkin').
+ator('Alan Badel').
+ator('Alan Mak').
+ator('Alan Randolph Scott').
+ator('Alan Rickman').
+ator('Alan Ruck').
+ator('Alan Tudyk').
+ator('Albert Brooks').
+ator('Albert Finney').
+ator('Albert Rémy').
+ator('Alberto Ammann').
+ator('Aldo Giuffrè').
+ator('Aldo Silvani').
+ator('Alec Baldwin').
+ator('Alec Cawthorne').
+ator('Alec Guinness').
+ator('Alec Secareanu').
+ator('Alejandro Jodorowsky').
+ator('Aleksandr Antonov').
+ator('Aleksandr Kaydanovskiy').
+ator('Aleksey Kravchenko').
+ator('Aleksey Rozin').
+ator('Aleksey Serebryakov').
+ator('Alex Palmer').
+ator('Alex Sharp').
+ator('Alexander Gould').
+ator('Alexander Granach').
+ator('Alexandra Maria Lara').
+ator('Alexandre Rignault').
+ator('Alexandre Rodrigues').
+ator('Alexandre Tharaud').
+ator('Alexandru Potocean').
+ator('Alfred Abel').
+ator('Ali Mosaffa').
+ator('Alia Bhatt').
+ator('Alicia Vikander').
+ator('Alida Valli').
+ator('Alisa Freyndlikh').
+ator('Alison Crosbie').
+ator('Alison Doody').
+ator('Alison Whelan').
+ator('Allen Garfield').
+ator('Allen Leech').
+ator('Allison Williams').
+ator('Ally Sheedy').
+ator('Altan Erkekli').
+ator('America Ferrera').
+ator('Amir Farrokh Hashemian').
+ator('Amira Casar').
+ator('Amit Sadh').
+ator('Amitabh Bachchan').
+ator('Amjad Khan').
+ator('Amole Gupte').
+ator('Amrish Puri').
+ator('Amrita Puri').
+ator('Amy Adams').
+ator('Amy Poehler').
+ator('Amy Ryan').
+ator('Amy Smart').
+ator('Ana López Mercado').
+ator('Ana Wagener').
+ator('Ana de Armas').
+ator('Anamaria Marinca').
+ator('Anand Gandhi').
+ator('Ananda George').
+ator('Anatoliy Solonitsyn').
+ator('Andie MacDowell').
+ator('Andrea Eckert').
+ator('Andrea Riseborough').
+ator('Andrea Tariang').
+ator('Andreas Wilson').
+ator('Andrew Adote').
+ator('Andrew Garfield').
+ator('Andrew Kevin Walker').
+ator('Andrew Marton').
+ator('Andrew Philpot').
+ator('Andrew Robinson').
+ator('Andrew Shim').
+ator('André Berley').
+ator('André Ramiro').
+ator('André S. Labarthe').
+ator('Andy Devine').
+ator('Andy Garcia').
+ator('Andy Lau').
+ator('Andy Serkis').
+ator('Angela Bassett').
+ator('Angela Lansbury').
+ator('Angelina Jolie').
+ator('Angie Dickinson').
+ator('Angus Macfadyen').
+ator('Anil Dhawan').
+ator('Anita Ekberg').
+ator('Anjelica Huston').
+ator('Ann Dvorak').
+ator('Ann Owens').
+ator('Ann Reinking').
+ator('Anna Faris').
+ator('Anna Foglietta').
+ator('Anna Karina').
+ator('Anna Kendrick').
+ator('Anna Massey').
+ator('Annalise Basso').
+ator('Anne Bancroft').
+ator('Anne Baxter').
+ator('Anne Dorval').
+ator('Anne Hathaway').
+ator('Anne Le Ny').
+ator('Anne-Marie Duff').
+ator('Annette Bening').
+ator('Annie Corley').
+ator('Annie Potts').
+ator('Annika Wedderkopp').
+ator('Annu Kapoor').
+ator('Anouk Aimée').
+ator('Ansel Elgort').
+ator('Ansiba').
+ator('Anthony Chau-Sang Wong').
+ator('Anthony Edwards').
+ator('Anthony Gonzalez').
+ator('Anthony Hopkins').
+ator('Anthony Michael Hall').
+ator('Anthony Perkins').
+ator('Anthony Quinn').
+ator('Antoine Olivier Pilon').
+ator('Anton Walbrook').
+ator('Antonella Attili').
+ator('Antonia San Juan').
+ator('Antonio Banderas').
+ator('Antonio Resines').
+ator('Anupam Kher').
+ator('Anushka Sharma').
+ator('Anushka Shetty').
+ator('Aoi Miyazaki').
+ator('Aoi Yûki').
+ator('Aparna Balamurali').
+ator('Aras Bulut Iynemli').
+ator('Archana Jois').
+ator('Ariadna Gil').
+ator('Ariane Labed').
+ator('Arifin Putra').
+ator('Armando Brancia').
+ator('Armie Hammer').
+ator('Armin Mueller-Stahl').
+ator('Arno Frisch').
+ator('Arnold Lucy').
+ator('Arnold Schwarzenegger').
+ator('Arshad Warsi').
+ator('Art LaFleur').
+ator('Art Malik').
+ator('Art Parkinson').
+ator('Arthur O\'Connell').
+ator('Arthur Rosson').
+ator('Artyom Bogucharskiy').
+ator('Asa Butterfield').
+ator('Asaka Seto').
+ator('Ash Brannon').
+ator('Asha Sharath').
+ator('Ashton Kutcher').
+ator('Atsuko Tanaka').
+ator('Audrey Hepburn').
+ator('Audrey Tautou').
+ator('Auli\'i Cravalho').
+ator('Aura Garrido').
+ator('Aurore Clément').
+ator('Aurélien Recoing').
+ator('Aya Okamoto').
+ator('Ayami Kakiuchi').
+ator('Ayano Shiraishi').
+ator('Ayberk Pekcan').
+ator('Ayesha Kapoor').
+ator('Ayushmann Khurrana').
+ator('Azhy Robertson').
+ator('BD Wong').
+ator('Babak Karimi').
+ator('Bae Doona').
+ator('Bahar Pars').
+ator('Bahare Seddiqi').
+ator('Bajram Severdzan').
+ator('Baki Davrak').
+ator('Barbara Bel Geddes').
+ator('Barbara Hershey').
+ator('Barbara Stanwyck').
+ator('Baris Bagci').
+ator('Barkhad Abdi').
+ator('Barkhad Abdirahman').
+ator('Barry Bostwick').
+ator('Barry Cook').
+ator('Barry Fitzgerald').
+ator('Barry Humphries').
+ator('Barry Keoghan').
+ator('Barry Pepper').
+ator('Basil Rathbone').
+ator('Beau Billingslea').
+ator('Bee Vang').
+ator('Belén Rueda').
+ator('Ben Affleck').
+ator('Ben Burtt').
+ator('Ben Foster').
+ator('Ben Gazzara').
+ator('Ben Hardy').
+ator('Ben Johnson').
+ator('Ben Kingsley').
+ator('Ben Stiller').
+ator('Ben Whishaw').
+ator('Benedict Cumberbatch').
+ator('Bengt Ekerot').
+ator('Benicio Del Toro').
+ator('Benjamin Bratt').
+ator('Benno Fürmann').
+ator('Benoît Régent').
+ator('Bernard-Pierre Donnadieu').
+ator('Bernhard Wicki').
+ator('Bertil Guve').
+ator('Bette Davis').
+ator('Beverly D\'Angelo').
+ator('Bibi Andersson').
+ator('Biff McGuire').
+ator('Bill Bernstein').
+ator('Bill Hader').
+ator('Bill McKinney').
+ator('Bill Murray').
+ator('Bill Nighy').
+ator('Bill Nunn').
+ator('Bill Paxton').
+ator('Bill Pullman').
+ator('Bill Sage').
+ator('Billy Bob Thornton').
+ator('Billy Connolly').
+ator('Billy Crudup').
+ator('Billy Crystal').
+ator('Billy Dee Williams').
+ator('Billy Zane').
+ator('Birgitta Pettersson').
+ator('Birgitta Valberg').
+ator('Birol Ünel').
+ator('Björk').
+ator('Bo Hopkins').
+ator('Bob Balaban').
+ator('Bob Geldof').
+ator('Bob Gunton').
+ator('Bob Hoskins').
+ator('Bob Odenkirk').
+ator('Bob Peterson').
+ator('Bobby Cannavale').
+ator('Bodil Rosing').
+ator('Boluwatife Treasure Bankole').
+ator('Boman Irani').
+ator('Bonnie Bedelia').
+ator('Bonnie Hunt').
+ator('Bora Todorovic').
+ator('Boris Karloff').
+ator('Boyd Holbrook').
+ator('Boyd Kirkland').
+ator('Brad Davis').
+ator('Brad Dourif').
+ator('Brad Garrett').
+ator('Brad Pitt').
+ator('Bradley Cooper').
+ator('Bradley Whitford').
+ator('Brady Corbet').
+ator('Brahim Hadjadj').
+ator('Branka Katic').
+ator('Branko Djuric').
+ator('Brenda Blethyn').
+ator('Brenda Fricker').
+ator('Brendan Gleeson').
+ator('Bria Vinaite').
+ator('Brian Cox').
+ator('Brian Dennehy').
+ator('Brian Howe').
+ator('Brian O\'Halloran').
+ator('Brian Tyler').
+ator('Bridget Moynahan').
+ator('Brie Larson').
+ator('Brigitte Helm').
+ator('Brigitte Lin').
+ator('Brooke Adams').
+ator('Brooklynn Prince').
+ator('Bruce Bennett').
+ator('Bruce Cabot').
+ator('Bruce Campbell').
+ator('Bruce Davison').
+ator('Bruce Dern').
+ator('Bruce Lee').
+ator('Bruce Reitherman').
+ator('Bruce Spence').
+ator('Bruce Willis').
+ator('Bruno Ganz').
+ator('Bruno Kirby').
+ator('Bruno Zanin').
+ator('Bryan Cranston').
+ator('Bryce Dallas Howard').
+ator('Bud Cort').
+ator('Buddy Ebsen').
+ator('Bulle Ogier').
+ator('Bunshi Katsura Vi').
+ator('Burak Yigit').
+ator('Burl Ives').
+ator('Burt Lancaster').
+ator('Burt Reynolds').
+ator('Burt Young').
+ator('Buster Keaton').
+ator('Buzz Kilman').
+ator('Byron Barr').
+ator('Byron Howard').
+ator('Bárbara Lennie').
+ator('Bérénice Bejo').
+ator('Börje Ahlstedt').
+ator('Cab Calloway').
+ator('Caio Junqueira').
+ator('Caitriona Balfe').
+ator('Caleb Landry Jones').
+ator('Callan McAuliffe').
+ator('Cameron Diaz').
+ator('Candela Peña').
+ator('Carey Mulligan').
+ator('Carice van Houten').
+ator('Carl Benton Reid').
+ator('Carl Miller').
+ator('Carl Möhner').
+ator('Carl Weathers').
+ator('Carla Gugino').
+ator('Carla Quevedo').
+ator('Carlo Buccirosso').
+ator('Carlo Verdone').
+ator('Carlos Martínez López').
+ator('Carlos Peralta').
+ator('Carol Kane').
+ator('Carole Lombard').
+ator('Caroline Goodall').
+ator('Carrie Fisher').
+ator('Carrie Henn').
+ator('Carrie-Anne Moss').
+ator('Carroll Baker').
+ator('Carroll O\'Connor').
+ator('Cary Elwes').
+ator('Cary Grant').
+ator('Cary-Hiroyuki Tagawa').
+ator('Casey Affleck').
+ator('Cate Blanchett').
+ator('Catherine Deneuve').
+ator('Catherine Keener').
+ator('Catherine O\'Hara').
+ator('Cathy Moriarty').
+ator('Cathy Rosier').
+ator('Catinca Untaru').
+ator('Cecil Parker').
+ator('Cecilia Roth').
+ator('Celeste Holm').
+ator('Celia Johnson').
+ator('Celile Toyon Uysal').
+ator('Cem Yilmaz').
+ator('Charles Bronson').
+ator('Charles Chaplin').
+ator('Charles Durning').
+ator('Charles Fleischer').
+ator('Charles Laughton').
+ator('Charles Martin Smith').
+ator('Charles Ruggles').
+ator('Charles Vanel').
+ator('Charley Grapewin').
+ator('Charlie Cox').
+ator('Charlie Hunnam').
+ator('Charlie Pye Jr.').
+ator('Charlie Sheen').
+ator('Charlie Yeung').
+ator('Charlize Theron').
+ator('Charlotte Rampling').
+ator('Charlton Heston').
+ator('Chase Ellison').
+ator('Chazz Palminteri').
+ator('Chen Chang').
+ator('Chete Lera').
+ator('Chiara Mastroianni').
+ator('Chico Marx').
+ator('Chief Dan George').
+ator('Chieko Baishô').
+ator('Chieko Higashiyama').
+ator('Chika Sakamoto').
+ator('Chishû Ryû').
+ator('Chiwetel Ejiofor').
+ator('Chloë Grace Moretz').
+ator('Cho Jin-woong').
+ator('Cho Yeo-jeong').
+ator('Choi Min-sik').
+ator('Choi Woo-sik').
+ator('Chris Cooper').
+ator('Chris Elliott').
+ator('Chris Evans').
+ator('Chris Hemsworth').
+ator('Chris O\'Donnell').
+ator('Chris Owen').
+ator('Chris Penn').
+ator('Chris Pine').
+ator('Chris Pratt').
+ator('Chris Renaud').
+ator('Chris Sanders').
+ator('Chris Sarandon').
+ator('Chris Williams').
+ator('Christian Bale').
+ator('Christian Berkel').
+ator('Christian Friedel').
+ator('Christian Slater').
+ator('Christina Hendricks').
+ator('Christine Hargreaves').
+ator('Christoph Waltz').
+ator('Christopher Adamson').
+ator('Christopher Carley').
+ator('Christopher Eccleston').
+ator('Christopher Guest').
+ator('Christopher Heyerdahl').
+ator('Christopher Lloyd').
+ator('Christopher Mintz-Plasse').
+ator('Christopher Plummer').
+ator('Christopher Reeve').
+ator('Christopher Rivera').
+ator('Christopher Walken').
+ator('Chulpan Khamatova').
+ator('Ciarán Hinds').
+ator('Cillian Murphy').
+ator('Claire Bloom').
+ator('Claire Danes').
+ator('Claire Maurier').
+ator('Claire Rushbrook').
+ator('Claire Trevor').
+ator('Clark Gable').
+ator('Claude Rains').
+ator('Claudette Colbert').
+ator('Claudia Cardinale').
+ator('Cleavon Little').
+ator('Clifton Powell').
+ator('Clifton Webb').
+ator('Clint Eastwood').
+ator('Clive Owen').
+ator('Coleen Gray').
+ator('Colin Clive').
+ator('Colin Farrell').
+ator('Colin Firth').
+ator('Colm Feore').
+ator('Connie Nielsen').
+ator('Conrad Veidt').
+ator('Corey Feldman').
+ator('Corey Hawkins').
+ator('Cori Gonzalez-Macuer').
+ator('Craig Bierko').
+ator('Craig Ferguson').
+ator('Craig Parkinson').
+ator('Craig T. Nelson').
+ator('Crispin Glover').
+ator('Cuba Gooding Jr.').
+ator('Cuifen Cao').
+ator('Curt Bois').
+ator('Cybill Shepherd').
+ator('Cyril Cusack').
+ator('Dafne Keen').
+ator('Daisuke Ryû').
+ator('Daisy Ridley').
+ator('Dakota Fanning').
+ator('Dakota Johnson').
+ator('Dalia Hernández').
+ator('Damian Chapa').
+ator('Dan Aykroyd').
+ator('Dan Hedaya').
+ator('Dan Hicks').
+ator('Dan Riba').
+ator('Dana Andrews').
+ator('Dana Wynter').
+ator('Danai Gurira').
+ator('Daniel Boulanger').
+ator('Daniel Brühl').
+ator('Daniel Craig').
+ator('Daniel Day-Lewis').
+ator('Daniel Giménez Cacho').
+ator('Daniel Kaluuya').
+ator('Daniel Mays').
+ator('Daniel Prévost').
+ator('Daniel Radcliffe').
+ator('Daniel Richter').
+ator('Daniel Stern').
+ator('Danielle Proulx').
+ator('Danny Aiello').
+ator('Danny Denzongpa').
+ator('Danny Elfman').
+ator('Danny Glover').
+ator('Danny Huston').
+ator('Danny Lee').
+ator('Danny Lloyd').
+ator('Dara Singh').
+ator('Darren McGavin').
+ator('Darryl F. Zanuck').
+ator('Darsheel Safary').
+ator('Daryl Hannah').
+ator('Darío Grandinetti').
+ator('Dave Bautista').
+ator('Dave Goelz').
+ator('Dave Johns').
+ator('Daveigh Chase').
+ator('David Carradine').
+ator('David Della Rocco').
+ator('David Emge').
+ator('David Hand').
+ator('David Hemmings').
+ator('David Herman').
+ator('David James').
+ator('David Lee Smith').
+ator('David Morse').
+ator('David Rawle').
+ator('David Silverman').
+ator('David Thewlis').
+ator('David Tomlinson').
+ator('David Wenham').
+ator('David Zucker').
+ator('Davor Dujmovic').
+ator('DeForest Kelley').
+ator('Dean Martin').
+ator('Dean Stockwell').
+ator('Dean-Charles Chapman').
+ator('Debbie Reynolds').
+ator('Deborah Kara Unger').
+ator('Deborah Kerr').
+ator('Debra Messing').
+ator('Dee Wallace').
+ator('Del Negro').
+ator('Delphine Seyrig').
+ator('Delroy Lindo').
+ator('Demet Akbag').
+ator('Demi Moore').
+ator('Denholm Elliott').
+ator('Deniz Baysal').
+ator('Dennis Farina').
+ator('Dennis Hopper').
+ator('Dennis Price').
+ator('Dennis Quaid').
+ator('Denzel Washington').
+ator('Derek Jacobi').
+ator('Dev Patel').
+ator('Dexter Fletcher').
+ator('Dharmendra').
+ator('Diahnne Abbott').
+ator('Diane Keaton').
+ator('Diane Kruger').
+ator('Diane Ladd').
+ator('Diane Venora').
+ator('Dianne Wiest').
+ator('Dibyendu Bhattacharya').
+ator('Dick Hogan').
+ator('Dick Van Dyke').
+ator('Dick York').
+ator('Diego Cortina Autrey').
+ator('Diego Luna').
+ator('Diego Starosta').
+ator('Diljit Dosanjh').
+ator('Disha Patani').
+ator('Dita Parlo').
+ator('Djimon Hounsou').
+ator('Doga Zeynep Doguslu').
+ator('Dolly Ahluwalia').
+ator('Dolores Moran').
+ator('Domhnall Gleeson').
+ator('Dominic West').
+ator('Dominique Blanchar').
+ator('Dominique McElligott').
+ator('Dominique Pinon').
+ator('Don Cheadle').
+ator('Don Gordon').
+ator('Don Hall').
+ator('Don Rickles').
+ator('Don Taylor').
+ator('Donald O\'Connor').
+ator('Donald Pleasence').
+ator('Donald Sutherland').
+ator('Donatas Banionis').
+ator('Donna Murphy').
+ator('Donna Reed').
+ator('Donnie Yen').
+ator('Donny Alamsyah').
+ator('Dorian Gray').
+ator('Dorothy Comingore').
+ator('Dorothy Duffy').
+ator('Dorsey Wright').
+ator('Doug McKeon').
+ator('Douglas Booth').
+ator('Drew Barrymore').
+ator('Duane Jones').
+ator('Dustin Hoffman').
+ator('Dwight Yoakam').
+ator('Dylan Baker').
+ator('Ed Harris').
+ator('Ed Helms').
+ator('Ed Skrein').
+ator('Eddie Albert').
+ator('Eddie Murphy').
+ator('Eddie Redmayne').
+ator('Edgar Ramírez').
+ator('Edmond O\'Brien').
+ator('Edmund Goulding').
+ator('Edmund Gwenn').
+ator('Edna Purviance').
+ator('Edoardo Leo').
+ator('Eduard Abalov').
+ator('Eduardo Noriega').
+ator('Edward Arnold').
+ator('Edward Asner').
+ator('Edward Burns').
+ator('Edward Fox').
+ator('Edward Furlong').
+ator('Edward G. Robinson').
+ator('Edward James Olmos').
+ator('Edward Norton').
+ator('Efrem Zimbalist Jr.').
+ator('Ege Tanman').
+ator('Eiji Okada').
+ator('Eijirô Tôno').
+ator('Eiko Masuyama').
+ator('Eileen Walsh').
+ator('Eiza González').
+ator('Eleanor Bron').
+ator('Eleanor David').
+ator('Eleanor Parker').
+ator('Elena Altieri').
+ator('Elena Anaya').
+ator('Elena Lyadova').
+ator('Eli Marienthal').
+ator('Eli Roth').
+ator('Eli Wallach').
+ator('Elijah Smith').
+ator('Elijah Wood').
+ator('Elisabeth Shue').
+ator('Elissa Knight').
+ator('Elit Iscan').
+ator('Eliza Scanlen').
+ator('Elizabeth Banks').
+ator('Elizabeth Berridge').
+ator('Elizabeth Berrington').
+ator('Elizabeth McGovern').
+ator('Elizabeth Taylor').
+ator('Ellar Coltrane').
+ator('Ellen Burstyn').
+ator('Ellen Crawford').
+ator('Ellen DeGeneres').
+ator('Ellen Widmann').
+ator('Elliot Page').
+ator('Elliott Gould').
+ator('Elmo Nüganen').
+ator('Elpidia Carrillo').
+ator('Elsa Lanchester').
+ator('Elya Baskin').
+ator('Emeric Pressburger').
+ator('Emi Shinohara').
+ator('Emile Hirsch').
+ator('Emilia Fox').
+ator('Emilio Echevarría').
+ator('Emilio Estevez').
+ator('Emily Blunt').
+ator('Emily Mortimer').
+ator('Emily Watson').
+ator('Emma Stone').
+ator('Emma Thompson').
+ator('Emma Watson').
+ator('Emmanuel Affadzi').
+ator('Emmanuelle Riva').
+ator('Emmanuelle Seigner').
+ator('Emmy Rossum').
+ator('Enrique Castillo').
+ator('Enrique Rambal').
+ator('Enzo Cannavale').
+ator('Enzo Staiola').
+ator('Enzo Tarascio').
+ator('Erdem Can').
+ator('Eric Bana').
+ator('Eric Baugin').
+ator('Eric Idle').
+ator('Eric Radomski').
+ator('Eric Schweig').
+ator('Eric Sykes').
+ator('Erich von Stroheim').
+ator('Ernest B. Schoedsack').
+ator('Ernest Borgnine').
+ator('Ernst Jacobi').
+ator('Errol Flynn').
+ator('Erwin Connelly').
+ator('Ethan Coen').
+ator('Ethan Hawke').
+ator('Eugene Silvain').
+ator('Eun-ju Lee').
+ator('Eva Green').
+ator('Eva Marie Saint').
+ator('Evan McGuire').
+ator('Evan Rachel Wood').
+ator('Evgeniy Zharikov').
+ator('Ewa Fröling').
+ator('Ewan McGregor').
+ator('Ewen Bremner').
+ator('Ezra Miller').
+ator('F. Murray Abraham').
+ator('Famke Janssen').
+ator('Farhan Akhtar').
+ator('Farida Jalal').
+ator('Farley Granger').
+ator('Fatima Sana Shaikh').
+ator('Fay Wray').
+ator('Faye Dunaway').
+ator('Faye Wong').
+ator('Fele Martínez').
+ator('Felicity Jones').
+ator('Felix Bressart').
+ator('Fengyi Zhang').
+ator('Ferdia Walsh-Peelo').
+ator('Fernanda Montenegro').
+ator('Fernando Rey').
+ator('Fikret Kuskan').
+ator('Filip Berg').
+ator('Filip Sovagovic').
+ator('Filipp Yankovskiy').
+ator('Fionn Whitehead').
+ator('Fionnula Flanagan').
+ator('Florence Lee').
+ator('Florence Pugh').
+ator('Florian Lukas').
+ator('Florijan Ajdini').
+ator('Folco Lulli').
+ator('Ford Beebe Jr.').
+ator('Forest Whitaker').
+ator('Franca Marzi').
+ator('Frances Conroy').
+ator('Frances McDormand').
+ator('Frances Sternhagen').
+ator('Francine Racette').
+ator('Francis Capra').
+ator('Francis Huster').
+ator('Frank Adu').
+ator('Frank Finlay').
+ator('Frank Giering').
+ator('Frank Langella').
+ator('Frank Lovejoy').
+ator('Frank Morgan').
+ator('Frank Overton').
+ator('Frank Oz').
+ator('Frank Paur').
+ator('Frank Sinatra').
+ator('Frank Vincent').
+ator('Franka Potente').
+ator('Frantz Turner').
+ator('Franz Rogowski').
+ator('François Berléand').
+ator('François Cluzet').
+ator('François Périer').
+ator('François Truffaut').
+ator('Fred MacMurray').
+ator('Fred Willard').
+ator('Frederic Forrest').
+ator('Frederick Lau').
+ator('Fredric March').
+ator('Freida Pinto').
+ator('Friedrich Feher').
+ator('Frédérique Feder').
+ator('Gabriel Byrne').
+ator('Gabriele Ferzetti').
+ator('Gabrielle Anwar').
+ator('Gael García Bernal').
+ator('Gajraj Rao').
+ator('Garrett M. Brown').
+ator('Gary Busey').
+ator('Gary Cooper').
+ator('Gary Farmer').
+ator('Gary Lockwood').
+ator('Gary Oldman').
+ator('Gary Sinise').
+ator('Gary Stretch').
+ator('Gaspard Manesse').
+ator('Gaspard Ulliel').
+ator('Gastone Moschin').
+ator('Gastón Pauls').
+ator('Gattlin Griffith').
+ator('Gayatri Joshi').
+ator('Gaylen Ross').
+ator('Geert Van Rampelberg').
+ator('Gemma Jones').
+ator('Gena Rowlands').
+ator('Gene Bervoets').
+ator('Gene Hackman').
+ator('Gene Kelly').
+ator('Gene Lockhart').
+ator('Gene Tierney').
+ator('Gene Wilder').
+ator('Geneviève Page').
+ator('Geoffrey Arend').
+ator('Geoffrey Rush').
+ator('George C. Scott').
+ator('George Clooney').
+ator('George Cukor').
+ator('George Harrison').
+ator('George Kennedy').
+ator('George MacKay').
+ator('George Macready').
+ator('George O\'Brien').
+ator('George Peppard').
+ator('George Raft').
+ator('George Sanders').
+ator('George Segal').
+ator('Georges Adet').
+ator('Georges Siatidis').
+ator('Gerald R. Molen').
+ator('Geraldine Chaplin').
+ator('Gerard Butler').
+ator('Gerard Hendrick').
+ator('Gerardo Taracena').
+ator('Gerd Oswald').
+ator('Gerry Robert Byrne').
+ator('Gert Fröbe').
+ator('Gian Maria Volontè').
+ator('Gil Birmingham').
+ator('Gillian Anderson').
+ator('Gina Torres').
+ator('Ginnifer Goodwin').
+ator('Giorgi Nakashidze').
+ator('Giorgio Cantarini').
+ator('Giovanni Ribisi').
+ator('Giulietta Masina').
+ator('Giuseppe Battiston').
+ator('Giustino Durano').
+ator('Gladys George').
+ator('Glen Cavender').
+ator('Glen Hansard').
+ator('Glenn Ford').
+ator('Gloria Grahame').
+ator('Gloria Stuart').
+ator('Gloria Swanson').
+ator('Glynis Johns').
+ator('Godfrey Tearle').
+ator('Golshifteh Farahani').
+ator('Gong Li').
+ator('Gore Vidal').
+ator('Gorô Naya').
+ator('Goya Toledo').
+ator('Grace Kelly').
+ator('Graciela Tenenbaum').
+ator('Gracy Singh').
+ator('Graham Chapman').
+ator('Graham Greene').
+ator('Graham Norton').
+ator('Greg Cruttwell').
+ator('Greg Grunberg').
+ator('Greg Kinnear').
+ator('Gregory Peck').
+ator('Greta Schröder').
+ator('Griffin Dunne').
+ator('Grigoriy Aleksandrov').
+ator('Groucho Marx').
+ator('Guillaume Canet').
+ator('Gunnar Björnstrand').
+ator('Gunnel Lindblom').
+ator('Gustaf Skarsgård').
+ator('Gustav Fröhlich').
+ator('Gustav von Wangenheim').
+ator('Guy Decomble').
+ator('Guy Pearce').
+ator('Guylaine Schlumberger').
+ator('Gwen Eckhaus').
+ator('Gwilym Lee').
+ator('Gwyneth Paltrow').
+ator('Gérard Jugnot').
+ator('Günes Sensoy').
+ator('Güven Kiraç').
+ator('Haaz Sleiman').
+ator('Hailee Steinfeld').
+ator('Haing S. Ngor').
+ator('Haley Joel Osment').
+ator('Halina Gryglaszewska').
+ator('Halina Reijn').
+ator('Haluk Bilginer').
+ator('Halvar Björk').
+ator('Hanno Pöschl').
+ator('Hardy Krüger').
+ator('Harold Ramis').
+ator('Harpo Marx').
+ator('Harriet Andersson').
+ator('Harrison Ford').
+ator('Harry Connick Jr.').
+ator('Harry Crocker').
+ator('Harry Dean Stanton').
+ator('Harry Guardino').
+ator('Harry Myers').
+ator('Harshaali Malhotra').
+ator('Hartley Power').
+ator('Haru Kuroki').
+ator('Haruo Tanaka').
+ator('Harvey Keitel').
+ator('Harvey Korman').
+ator('Haya Harareet').
+ator('Hayley Squires').
+ator('Heath Ledger').
+ator('Hector Elizondo').
+ator('Hee Jae').
+ator('Hee-won Kim').
+ator('Helen Hunt').
+ator('Helena Bonham Carter').
+ator('Helena Rojo').
+ator('Helmut Griem').
+ator('Helmut Qualtinger').
+ator('Hemendra Dandotiya').
+ator('Henning Moritzen').
+ator('Henri Serre').
+ator('Henri-Jacques Huet').
+ator('Henrik Dahl').
+ator('Henrik Lundström').
+ator('Henry Bergman').
+ator('Henry Cavill').
+ator('Henry Fonda').
+ator('Henry Thomas').
+ator('Henry Travers').
+ator('Herb Edelman').
+ator('Herbert Grönemeyer').
+ator('Herbert Knaup').
+ator('Herbert Lom').
+ator('Hiam Abbass').
+ator('Hideaki Anno').
+ator('Hidetoshi Nishijima').
+ator('Hilary Swank').
+ator('Hiromasa Yonebayashi').
+ator('Hiroyuki Okiura').
+ator('Hisako Kyôda').
+ator('Hitoshi Takagi').
+ator('Ho-jin Chun').
+ator('Holly Hunter').
+ator('Holmes Osborne').
+ator('Honor Blackman').
+ator('Horacio Salinas').
+ator('Howard Da Silva').
+ator('Hrithik Roshan').
+ator('Hubert Koundé').
+ator('Hubertus Bengsch').
+ator('Huck Milner').
+ator('Hudhail Al-Amir').
+ator('Hugh Bonneville').
+ator('Hugh Grant').
+ator('Hugh Jackman').
+ator('Hugh Marlowe').
+ator('Hugh Walsh').
+ator('Hugh Welchman').
+ator('Hugo Silva').
+ator('Hugo Weaving').
+ator('Humphrey Bogart').
+ator('Husnija Hasimovic').
+ator('Hye-ja Kim').
+ator('Hyeong-jin Kong').
+ator('Hyuk-ho Kwon').
+ator('Hümeyra').
+ator('Iain Rea').
+ator('Ian Hart').
+ator('Ian Hendry').
+ator('Ian Holm').
+ator('Ian McKellen').
+ator('Ida Engvoll').
+ator('Iemasa Kayumi').
+ator('Ignat Daniltsev').
+ator('Iko Uwais').
+ator('Ileana D\'Cruz').
+ator('Ilker Kizmaz').
+ator('Imelda Staunton').
+ator('In-mun Kim').
+ator('Indraneil Sengupta').
+ator('Inge Landgut').
+ator('Ingrid Bergman').
+ator('Ingrid Thulin').
+ator('Irandhir Santos').
+ator('Irene Miracle').
+ator('Irene Papas').
+ator('Irrfan Khan').
+ator('Irving Metzman').
+ator('Irène Jacob').
+ator('Isa Danieli').
+ator('Isaac Hayes').
+ator('Isabella Rossellini').
+ator('Isabelle Adjani').
+ator('Isabelle Huppert').
+ator('Ismail Hacioglu').
+ator('Issey Takahashi').
+ator('Isuzu Yamada').
+ator('Ivan Bobrov').
+ator('Ivan Dobronravov').
+ator('Ivan Lapikov').
+ator('Ivana Baquero').
+ator('Izabela Vidovic').
+ator('J. Mackye Gruber').
+ator('J.D. Cannon').
+ator('J.K. Simmons').
+ator('J.T. Walsh').
+ator('JB Blanc').
+ator('Jack Albertson').
+ator('Jack Benny').
+ator('Jack Carson').
+ator('Jack Hawkins').
+ator('Jack Kehoe').
+ator('Jack Lemmon').
+ator('Jack McBrayer').
+ator('Jack Nicholson').
+ator('Jack Oakie').
+ator('Jack Reynor').
+ator('Jack Thibeau').
+ator('Jack Warden').
+ator('Jacki Weaver').
+ator('Jackie Coogan').
+ator('Jackie Earle Haley').
+ator('Jackie Gleason').
+ator('Jacob Tremblay').
+ator('Jacqueline Andere').
+ator('Jacques Villeret').
+ator('Jaden Smith').
+ator('Jae Head').
+ator('Jae-ho Song').
+ator('Jake Gyllenhaal').
+ator('Jake Johnson').
+ator('James Booth').
+ator('James Caan').
+ator('James Cagney').
+ator('James Coburn').
+ator('James Cromwell').
+ator('James Dean').
+ator('James Doohan').
+ator('James Earl Jones').
+ator('James Fleet').
+ator('James Garner').
+ator('James Gleason').
+ator('James Laurenson').
+ator('James Marsden').
+ator('James Mason').
+ator('James McAvoy').
+ator('James Rebhorn').
+ator('James Remar').
+ator('James Stewart').
+ator('James Woods').
+ator('Jamie Bell').
+ator('Jamie Chung').
+ator('Jamie Draven').
+ator('Jamie Foxx').
+ator('Jamie Lee Curtis').
+ator('Jan Cornet').
+ator('Jan Josef Liefers').
+ator('Jan Pinkava').
+ator('Jan Sterling').
+ator('Jane Adams').
+ator('Jane Alexander').
+ator('Jane Darwell').
+ator('Jane Fonda').
+ator('Jane Galloway Heitz').
+ator('Jane Greer').
+ator('Jane Lynch').
+ator('Jane Wyman').
+ator('Janelle Monáe').
+ator('Janet Gaynor').
+ator('Janet Leigh').
+ator('Jang Dong-Gun').
+ator('Janine Darcey').
+ator('Janusz Gajos').
+ator('Jared Bush').
+ator('Jared Gilman').
+ator('Jared Leto').
+ator('Jason Bateman').
+ator('Jason Cope').
+ator('Jason Flemyng').
+ator('Jason Lee').
+ator('Jason London').
+ator('Jason Mitchell').
+ator('Jason Patric').
+ator('Jason Robards').
+ator('Jason Schwartzman').
+ator('Jason Segel').
+ator('Jason Statham').
+ator('Javier Bardem').
+ator('Javier Cámara').
+ator('Jay Baruchel').
+ator('Jay C. Flippen').
+ator('Jaya Bachchan').
+ator('Je-mun Yun').
+ator('Jean Arthur').
+ator('Jean Dujardin').
+ator('Jean Gabin').
+ator('Jean Heywood').
+ator('Jean Martin').
+ator('Jean Reno').
+ator('Jean Seberg').
+ator('Jean Servais').
+ator('Jean Simmons').
+ator('Jean Sorel').
+ator('Jean Topart').
+ator('Jean-Baptiste Maunier').
+ator('Jean-Claude Donda').
+ator('Jean-Louis Trintignant').
+ator('Jean-Marc Barr').
+ator('Jean-Paul Belmondo').
+ator('Jean-Pierre Jeunet').
+ator('Jean-Pierre Lorit').
+ator('Jean-Pierre Léaud').
+ator('Jeanne Bates').
+ator('Jeanne Moreau').
+ator('Jeff Anderson').
+ator('Jeff Bridges').
+ator('Jeff Cohen').
+ator('Jeff Daniels').
+ator('Jeff Garlin').
+ator('Jeff Goldblum').
+ator('Jeffrey Ho').
+ator('Jeffrey Hunter').
+ator('Jeffrey Jones').
+ator('Jeffrey Wright').
+ator('Jemaine Clement').
+ator('Jena Malone').
+ator('Jennifer Aniston').
+ator('Jennifer Connelly').
+ator('Jennifer Drake').
+ator('Jennifer Garner').
+ator('Jennifer Jason Leigh').
+ator('Jennifer Lawrence').
+ator('Jennifer Lien').
+ator('Jennifer Morrison').
+ator('Jennifer Saunders').
+ator('Jennifer Ulrich').
+ator('Jeon Gook-Hwan').
+ator('Jeremy Irons').
+ator('Jeremy Renner').
+ator('Jeremy Strong').
+ator('Jerome Flynn').
+ator('Jerry Lewis').
+ator('Jerry Nelson').
+ator('Jerry O\'Connell').
+ator('Jerry Zucker').
+ator('Jerzy Stuhr').
+ator('Jesse Borrego').
+ator('Jesse Corti').
+ator('Jesse Eisenberg').
+ator('Jessica Biel').
+ator('Jessica Chastain').
+ator('Jessica Lange').
+ator('Jessica Tandy').
+ator('Jessie Royce Landis').
+ator('Jet Li').
+ator('Ji-Eun Lim').
+ator('Jim Backus').
+ator('Jim Carrey').
+ator('Jim Caviezel').
+ator('Jim Henson').
+ator('Jim Kelly').
+ator('Jim Sturgess').
+ator('Jim Varney').
+ator('Jimmy Sheirgill').
+ator('Jin Goo').
+ator('Jin-mo Joo').
+ator('Jingwu Ma').
+ator('Jinpachi Nezu').
+ator('Jo Hartley').
+ator('Jo Van Fleet').
+ator('Joan Allen').
+ator('Joan Chen').
+ator('Joan Crawford').
+ator('Joan Cusack').
+ator('Joan Fontaine').
+ator('Joan Greenwood').
+ator('Joanna Cassidy').
+ator('Joanne Dru').
+ator('Joaquin Phoenix').
+ator('Jodi Benson').
+ator('Jodie Foster').
+ator('Joe Keaton').
+ator('Joe Pantoliano').
+ator('Joe Pesci').
+ator('Joe Russo').
+ator('Joel Basman').
+ator('Joel Coen').
+ator('Joel Edgerton').
+ator('Joel Grey').
+ator('Johan Heldenbergh').
+ator('Johanna ter Steege').
+ator('John Belushi').
+ator('John Billingsley').
+ator('John Boles').
+ator('John Boyega').
+ator('John Buckwalter').
+ator('John C. Reilly').
+ator('John Cameron Mitchell').
+ator('John Candy').
+ator('John Carradine').
+ator('John Cassavetes').
+ator('John Castle').
+ator('John Cazale').
+ator('John Cho').
+ator('John Cleese').
+ator('John Cusack').
+ator('John Dall').
+ator('John Fiedler').
+ator('John Fraser').
+ator('John Gallagher Jr.').
+ator('John Gavin').
+ator('John Getz').
+ator('John Gielgud').
+ator('John Goodman').
+ator('John Haycraft').
+ator('John Heard').
+ator('John Hillerman').
+ator('John Hodgman').
+ator('John Hodiak').
+ator('John Hubley').
+ator('John Hurt').
+ator('John Huston').
+ator('John Leguizamo').
+ator('John Lennon').
+ator('John Lone').
+ator('John Lurie').
+ator('John Mahoney').
+ator('John Malkovich').
+ator('John Matthews').
+ator('John McGiver').
+ator('John Megna').
+ator('John Musker').
+ator('John Payne').
+ator('John Rafter Lee').
+ator('John Randolph').
+ator('John Ratzenberger').
+ator('John Rhys-Davies').
+ator('John Ridgely').
+ator('John Ritter').
+ator('John Roselius').
+ator('John Savage').
+ator('John Saxon').
+ator('John Sharian').
+ator('John Travolta').
+ator('John Turturro').
+ator('John Wayne').
+ator('John Williams').
+ator('John Wray').
+ator('Johnny Depp').
+ator('Johnny Sekka').
+ator('Jon Bernthal').
+ator('Jon Hamm').
+ator('Jon Lovitz').
+ator('Jon Voight').
+ator('Jonah Hill').
+ator('Jonathan Pryce').
+ator('Jonathan Rhys Meyers').
+ator('Jong-ho Kim').
+ator('Jonny Lee Miller').
+ator('Jordan Nagai').
+ator('Jose Coronado').
+ator('Josef Altin').
+ator('Joseph A. Carpenter').
+ator('Joseph Calleia').
+ator('Joseph Cotten').
+ator('Joseph Fiennes').
+ator('Joseph Gordon-Levitt').
+ator('Joseph Lee').
+ator('Joseph Melito').
+ator('Joseph Schildkraut').
+ator('Josh Brolin').
+ator('Josh Charles').
+ator('Josh Hartnett').
+ator('Josh Lucas').
+ator('Josh O\'Connor').
+ator('José Baviera').
+ator('José Lewgoy').
+ator('Joséphine Lebas-Joly').
+ator('Joyce Carey').
+ator('Juan Ferrara').
+ator('Judd Hirsch').
+ator('Judd Nelson').
+ator('Jude Law').
+ator('Judi Dench').
+ator('Judith Anderson').
+ator('Judith O\'Dea').
+ator('Judy Davis').
+ator('Julia Greer').
+ator('Julia Jones').
+ator('Julia Ormond').
+ator('Julia Roberts').
+ator('Julia Stiles').
+ator('Julian Arahanga').
+ator('Julian Dennison').
+ator('Julian Sands').
+ator('Juliane Köhler').
+ator('Julianne Moore').
+ator('Julianne Nicholson').
+ator('Julie Andrews').
+ator('Julie Christie').
+ator('Julie Delpy').
+ator('Julie Hagerty').
+ator('Julie Harris').
+ator('Julie Kavner').
+ator('Julie Walters').
+ator('Juliette Binoche').
+ator('Juliette Lewis').
+ator('Juliette Mayniel').
+ator('Jun Ji-Hyun').
+ator('June Squibb').
+ator('Jung-woo Ha').
+ator('Junko Iwao').
+ator('Justin Bartha').
+ator('Justin Braine').
+ator('Justin Henry').
+ator('Justin Theroux').
+ator('Justin Timberlake').
+ator('Justine Waddell').
+ator('Jyoti Malshe').
+ator('Jürgen Prochnow').
+ator('Jürgen Vogel').
+ator('Jüri Järvet').
+ator('Ka Tung Lam').
+ator('Kad Merad').
+ator('Kagiso Kuypers').
+ator('Kaitlyn Dever').
+ator('Kajol').
+ator('Kalina Jedrusik').
+ator('Kalki Koechlin').
+ator('Kamatari Fujiwara').
+ator('Kang Hye-jeong').
+ator('Kang-ho Song').
+ator('Kangana Ranaut').
+ator('Kappei Yamaguchi').
+ator('Kara Hayward').
+ator('Kareena Kapoor').
+ator('Karen Allen').
+ator('Karen Morley').
+ator('Kari Sylwan').
+ator('Karina Arroyave').
+ator('Karisma Kapoor').
+ator('Karl Hardman').
+ator('Karl Malden').
+ator('Karlheinz Böhm').
+ator('Kasi Lemmons').
+ator('Kassie Wesley DePaiva').
+ator('Kasumi Arimura').
+ator('Kate Ashfield').
+ator('Kate Hudson').
+ator('Kate Mara').
+ator('Kate Winslet').
+ator('Katharine Hepburn').
+ator('Katharine Houghton').
+ator('Katharine Ross').
+ator('Katherine Helmond').
+ator('Kathryn McGuire').
+ator('Kathy Bates').
+ator('Katie A. Keane').
+ator('Katrin Cartlidge').
+ator('Katrin Saß').
+ator('Katrina Kaif').
+ator('Katsunosuke Hori').
+ator('Kawsar Al Haddad').
+ator('Kay Kay Menon').
+ator('Kayoko Kishimoto').
+ator('Kazuko Yoshiyuki').
+ator('Kazunari Ninomiya').
+ator('Kazuya Tsurumaki').
+ator('Keanu Reeves').
+ator('Keenan Wynn').
+ator('Keiju Kobayashi').
+ator('Keiko Tsushima').
+ator('Keiko Yokozawa').
+ator('Keir Dullea').
+ator('Keira Knightley').
+ator('Keith David').
+ator('Kelsey Asbille').
+ator('Kemp Powers').
+ator('Ken Foree').
+ator('Ken Leung').
+ator('Ken Stott').
+ator('Ken Watanabe').
+ator('Ken\'ichi Hagiwara').
+ator('Ken\'ichi Matsuyama').
+ator('Kenneth Branagh').
+ator('Kenshô Ono').
+ator('Keri Russell').
+ator('Kermit the Frog').
+ator('Kerry Washington').
+ator('Kevin Bacon').
+ator('Kevin Costner').
+ator('Kevin Jarre').
+ator('Kevin McCarthy').
+ator('Kevin McKidd').
+ator('Kevin Peter Hall').
+ator('Kevin Spacey').
+ator('Ki-duk Kim').
+ator('Kiara Advani').
+ator('Kiefer Sutherland').
+ator('Kim Basinger').
+ator('Kim Byeong-Ok').
+ator('Kim Greist').
+ator('Kim Hunter').
+ator('Kim Min-hee').
+ator('Kim Novak').
+ator('Kim Sang-kyung').
+ator('Kim Tae-Woo').
+ator('Kim Uylenbroek').
+ator('Kim Yoon-seok').
+ator('Kim Young-Min').
+ator('Kimberly Stringer').
+ator('King Donovan').
+ator('Kirin Kiki').
+ator('Kirk Acevedo').
+ator('Kirk Douglas').
+ator('Kirk Wise').
+ator('Kirron Kher').
+ator('Kirsten Dunst').
+ator('Kirsten Sheridan').
+ator('Kirti Kulhari').
+ator('Kishori Ballal').
+ator('Kiyoshi Kobayashi').
+ator('Klaus Kinski').
+ator('Klaus Wennemann').
+ator('Kodi Smit-McPhee').
+ator('Kong Chu').
+ator('Konkona Sen Sharma').
+ator('Konstantin Lavronenko').
+ator('Kotoe Hatsui').
+ator('Koyu Rankin').
+ator('Kristen Wiig').
+ator('Kristina Adolphson').
+ator('Kumud Mishra').
+ator('Kurt Fuller').
+ator('Kurt Russell').
+ator('Kyle Chandler').
+ator('Kyle MacLachlan').
+ator('Kyung-jin Lee').
+ator('Kyôko Kagawa').
+ator('Kátia Lund').
+ator('Kåre Hedebrant').
+ator('Kôichi Yamadera').
+ator('Lady Gaga').
+ator('Laia Costa').
+ator('Laila Robins').
+ator('Lamberto Maggiorani').
+ator('Lance Henriksen').
+ator('Lari White').
+ator('Larry Gates').
+ator('Lars Ranthe').
+ator('Lasse Fogelstrøm').
+ator('Laura Dern').
+ator('Laura Harring').
+ator('Laura Linney').
+ator('Laura Obiols').
+ator('Laura Vasiliu').
+ator('Lauren Bacall').
+ator('Lauren Ridloff').
+ator('Laurence Fishburne').
+ator('Laurence Harvey').
+ator('Laurence Olivier').
+ator('Lawrence A. Bonney').
+ator('Lazar Ristovski').
+ator('Lea Massari').
+ator('Lea Thompson').
+ator('Leandro Firmino').
+ator('Lee Byung-Hun').
+ator('Lee Grant').
+ator('Lee J. Cobb').
+ator('Lee Marvin').
+ator('Lee Pace').
+ator('Lee Remick').
+ator('Lee Sun-kyun').
+ator('Lee Unkrich').
+ator('Lee Van Cleef').
+ator('Lee Yeong-ae').
+ator('Leigh Whannell').
+ator('Leila Hatami').
+ator('Leila Hyams').
+ator('Leland Orser').
+ator('Leland Palmer').
+ator('Lembit Ulfsak').
+ator('Lena Endre').
+ator('Lena Headey').
+ator('Lena Nyman').
+ator('Leo G. Carroll').
+ator('Leo McKern').
+ator('Leon Lai').
+ator('Leonard Frey').
+ator('Leonard Nimoy').
+ator('Leonardo DiCaprio').
+ator('Leonie Benesch').
+ator('Leonor Watling').
+ator('Lesley Sharp').
+ator('Leslie Cheung').
+ator('Leslie Nielsen').
+ator('Leslie Odom Jr.').
+ator('Lew Ayres').
+ator('Lewis Black').
+ator('Li Sun').
+ator('Liam Aiken').
+ator('Liam Cunningham').
+ator('Liam Neeson').
+ator('Lianella Carell').
+ator('Liesel Matthews').
+ator('Liev Schreiber').
+ator('Lil Dagover').
+ator('Lillete Dubey').
+ator('Lillian Gish').
+ator('Lillo Brancato').
+ator('Lilly Wachowski').
+ator('Lily Franky').
+ator('Lin-Manuel Miranda').
+ator('Lina Leandersson').
+ator('Linda Blair').
+ator('Linda Cardellini').
+ator('Linda Hamilton').
+ator('Linda Larkin').
+ator('Linda Manz').
+ator('Linda Zilliacus').
+ator('Lindsay Duncan').
+ator('Linh Dan Pham').
+ator('Lionel Barrymore').
+ator('Lisa Hannigan').
+ator('Lisa Haydon').
+ator('Lisa Spoonauer').
+ator('Lisanne Falk').
+ator('Liubomiras Laucevicius').
+ator('Liv Ullmann').
+ator('Liza Minnelli').
+ator('Ljubica Adzovic').
+ator('Lloyd Avery II').
+ator('Lloyd Bridges').
+ator('Logan Lerman').
+ator('Lola Dueñas').
+ator('Lorelei Linklater').
+ator('Lorella Cravotta').
+ator('Lori Martin').
+ator('Lorraine Bracco').
+ator('Lorraine Gary').
+ator('Lou Romano').
+ator('Louis Calhern').
+ator('Louis Eppolito').
+ator('Louis Hofmann').
+ator('Louis Prima').
+ator('Louis Wolheim').
+ator('Louise Fletcher').
+ator('Louise Lemoine Torrès').
+ator('Loveleen Tandan').
+ator('Lubna Azabal').
+ator('Lucas Hedges').
+ator('Lucie Mannheim').
+ator('Lucy Boynton').
+ator('Lucy Davis').
+ator('Lucy Liu').
+ator('Luis Guzmán').
+ator('Luis Tosar').
+ator('Luke Bracey').
+ator('Luàna Bajrami').
+ator('Lydia Wilson').
+ator('Lyubov Agapova').
+ator('Léa Seydoux').
+ator('Mabel Rivera').
+ator('Macaulay Culkin').
+ator('Macdonald Carey').
+ator('Machiko Kyô').
+ator('Mack Swain').
+ator('Mackenzie Foy').
+ator('Madeleine Carroll').
+ator('Madeleine Stowe').
+ator('Madeline Carroll').
+ator('Madeline Kahn').
+ator('Madhavan').
+ator('Mads Mikkelsen').
+ator('Mae Clarke').
+ator('Magali Noël').
+ator('Maggie Cheung').
+ator('Maggie Grace').
+ator('Maggie Smith').
+ator('Magnus Millang').
+ator('Mahershala Ali').
+ator('Mahesh Manjrekar').
+ator('Mahie Gill').
+ator('Mahito Tsujimura').
+ator('Makio Inoue').
+ator('Malcolm McDowell').
+ator('Malin Akerman').
+ator('Mamaengaroa Kerr-Bell').
+ator('Mami Koyama').
+ator('Mandy Moore').
+ator('Mandy Patinkin').
+ator('Manjot Singh').
+ator('Manoj Bajpayee').
+ator('Manuel Morón').
+ator('Mara Krupp').
+ator('Marc-André Grondin').
+ator('Marcel Dalio').
+ator('Marcello Mastroianni').
+ator('Marcia Gay Harden').
+ator('Marco Giallini').
+ator('Mare Winningham').
+ator('Margaret Avery').
+ator('Margaret Livingston').
+ator('Margaret Lockwood').
+ator('Margaret Sullavan').
+ator('Margaret Wycherly').
+ator('Margaretha Krook').
+ator('Margarita Terekhova').
+ator('Margot Robbie').
+ator('Maria Doyle Kennedy').
+ator('Maria Falconetti').
+ator('Maria Grazia Cucinotta').
+ator('Maria Monti').
+ator('Marianne Koch').
+ator('Maribel Verdú').
+ator('Marie-Josée Croze').
+ator('Marie-Laure Dougnac').
+ator('Mariel Hemingway').
+ator('Marilyn Eastman').
+ator('Marilyn Ghigliotti').
+ator('Marilyn Monroe').
+ator('Marina Vasileva').
+ator('Marina de Tavira').
+ator('Mario Casas').
+ator('Marion Cotillard').
+ator('Marion Mack').
+ator('Marisa Berenson').
+ator('Marisa Paredes').
+ator('Marisa Tomei').
+ator('Marius Goring').
+ator('Marjane Satrapi').
+ator('Mark Boone Junior').
+ator('Mark Hamill').
+ator('Mark Margolis').
+ator('Mark Ruffalo').
+ator('Mark Rydell').
+ator('Mark Rylance').
+ator('Mark Strong').
+ator('Mark Wahlberg').
+ator('Markus Rygaard').
+ator('Markéta Irglová').
+ator('Marlene Dietrich').
+ator('Marlon Brando').
+ator('Marlon Wayans').
+ator('Martha Vickers').
+ator('Martin Balsam').
+ator('Martin Freeman').
+ator('Martin Landau').
+ator('Martin Milner').
+ator('Martin Sheen').
+ator('Martin Stringer').
+ator('Martina Gedeck').
+ator('Marty Feldman').
+ator('Mary Astor').
+ator('Mary Elizabeth Mastrantonio').
+ator('Mary Kay Bergman').
+ator('Mary McDonnell').
+ator('Mary Steenburgen').
+ator('Mary Stuart Masterson').
+ator('Mary Tyler Moore').
+ator('Mary Ure').
+ator('Mary-Louise Parker').
+ator('Maryana Spivak').
+ator('María Marull').
+ator('María Mercedes Villagra').
+ator('Marília Pêra').
+ator('Masaaki Ôkura').
+ator('Masahiko Nishimura').
+ator('Masahiro Motoki').
+ator('Masaki Okada').
+ator('Masayuki Mori').
+ator('Massimo Troisi').
+ator('Matheus Nachtergaele').
+ator('Mathieu Amalric').
+ator('Mathieu Kassovitz').
+ator('Matt Damon').
+ator('Matt Stone').
+ator('Matthew Broderick').
+ator('Matthew Edison').
+ator('Matthew Goode').
+ator('Matthew Macfadyen').
+ator('Matthew McConaughey').
+ator('Matthew Modine').
+ator('Matvey Novikov').
+ator('Maureen O\'Hara').
+ator('Maureen O\'Sullivan').
+ator('Maurice Evans').
+ator('Maurice Schutz').
+ator('Max Phipps').
+ator('Max Riemelt').
+ator('Max Schreck').
+ator('Max von Sydow').
+ator('Maxim Gaudette').
+ator('Maxine Audley').
+ator('May Whitty').
+ator('Mayu Matsuoka').
+ator('Mayumi Izuka').
+ator('Mayumi Tanaka').
+ator('Mckenna Grace').
+ator('Meat Loaf').
+ator('Meena').
+ator('Meg Ryan').
+ator('Megs Jenkins').
+ator('Megumi Hayashibara').
+ator('Megumi Ogata').
+ator('Mehdi Nebbou').
+ator('Mel Gibson').
+ator('Melinda Dillon').
+ator('Melisa Sözen').
+ator('Melissa Benoist').
+ator('Melissa Leo').
+ator('Melora Walters').
+ator('Melvyn Douglas').
+ator('Mercedes Morán').
+ator('Merila Zare\'i').
+ator('Merna Kennedy').
+ator('Mervyn LeRoy').
+ator('Meryl Streep').
+ator('Mete Horozoglu').
+ator('Mia Farrow').
+ator('Mia Sara').
+ator('Michael Ansara').
+ator('Michael B. Jordan').
+ator('Michael Bates').
+ator('Michael Beck').
+ator('Michael Berryman').
+ator('Michael Biehn').
+ator('Michael Caine').
+ator('Michael Clarke Duncan').
+ator('Michael Douglas').
+ator('Michael Ealy').
+ator('Michael Fassbender').
+ator('Michael Gambon').
+ator('Michael J. Fox').
+ator('Michael J. Pollard').
+ator('Michael Keaton').
+ator('Michael Kenneth Williams').
+ator('Michael Lee Gogin').
+ator('Michael Madsen').
+ator('Michael McKean').
+ator('Michael Murphy').
+ator('Michael Nyqvist').
+ator('Michael Palin').
+ator('Michael Peña').
+ator('Michael Preston').
+ator('Michael Redgrave').
+ator('Michael Rennie').
+ator('Michael Schwartz').
+ator('Michael Sheen').
+ator('Michael Strong').
+ator('Michael Stuhlbarg').
+ator('Michael York').
+ator('Michel Auclair').
+ator('Michel Côté').
+ator('Michel Piccoli').
+ator('Michel Robin').
+ator('Michelle Dockery').
+ator('Michelle La').
+ator('Michelle Monaghan').
+ator('Michelle Pfeiffer').
+ator('Michelle Reis').
+ator('Michelle Rodriguez').
+ator('Michelle Williams').
+ator('Michelle Yeoh').
+ator('Michèle Caucheteux').
+ator('Mick Lally').
+ator('Mickey Rourke').
+ator('Miguel Ángel Fuentes').
+ator('Mikael Persbrandt').
+ator('Mike Myers').
+ator('Mike Vitar').
+ator('Miki Imai').
+ator('Mikkel Boe Følsgaard').
+ator('Mila Kunis').
+ator('Mila Parély').
+ator('Miles Teller').
+ator('Milhem Cortaz').
+ator('Milla Jovovich').
+ator('Mina Sadati').
+ator('Minami Takayama').
+ator('Ming-Na Wen').
+ator('Minori Terada').
+ator('Minoru Chiaki').
+ator('Miori Takimoto').
+ator('Mirai Shida').
+ator('Miranda Richardson').
+ator('Miriam Shor').
+ator('Mirjana Jokovic').
+ator('Misa Uehara').
+ator('Misha Meskhi').
+ator('Miss Piggy').
+ator('Mitchell Ryan').
+ator('Mitchell Whitfield').
+ator('Mithun Chakraborty').
+ator('Mitsuo Iwata').
+ator('Mitsutaka Itakura').
+ator('Miyu Irino').
+ator('Mohammad Amir Naji').
+ator('Mohanlal').
+ator('Mohit Raina').
+ator('Moira Shearer').
+ator('Molly Picon').
+ator('Molly Ringwald').
+ator('Mona Singh').
+ator('Mone Kamishiraishi').
+ator('Monica Viegas').
+ator('Monica Vitti').
+ator('Montgomery Clift').
+ator('Moon So-Ri').
+ator('Morena Baccarin').
+ator('Morgan Freeman').
+ator('Moritz Bleibtreu').
+ator('Muhammet Uzuner').
+ator('Mustafa Kamel').
+ator('Myrna Loy').
+ator('Mélanie Laurent').
+ator('Mélanie Thierry').
+ator('Mélissa Désormeaux-Poulin').
+ator('Mía Maestro').
+ator('Mónica Villa').
+ator('Nafise Jafar-Mohammadi').
+ator('Nakul Roshan Sahdev').
+ator('Nanako Matsushima').
+ator('Nancy Kyes').
+ator('Nancy Olson').
+ator('Naomi Watts').
+ator('Naomie Harris').
+ator('Nargis Fakhri').
+ator('Naseeruddin Shah').
+ator('Nastassja Kinski').
+ator('Nat Pendleton').
+ator('Nat Wolff').
+ator('Natalie Dessay').
+ator('Natalie Portman').
+ator('Natalie Wood').
+ator('Nataliya Vdovina').
+ator('Natalya Bondarchuk').
+ator('Nathalie Boltt').
+ator('Nathalie Delon').
+ator('Nathan Fillion').
+ator('Nawazuddin Siddiqui').
+ator('Ned Beatty').
+ator('Neena Gupta').
+ator('Neeraj Kabi').
+ator('Neeral Mulchandani').
+ator('Neil Brown Jr.').
+ator('Neil Patrick Harris').
+ator('Nell Cattrysse').
+ator('Nicholas Hoult').
+ator('Nick Frost').
+ator('Nick Moran').
+ator('Nick Nolte').
+ator('Nick Offerman').
+ator('Nicolas Bro').
+ator('Nicolas Cage').
+ator('Nicole Kidman').
+ator('Nicoletta Braschi').
+ator('Niels Arestrup').
+ator('Nigel Havers').
+ator('Nikolay Burlyaev').
+ator('Nikolay Grinko').
+ator('Nikolay Sergeev').
+ator('Nils Poppe').
+ator('Nimrat Kaur').
+ator('Nina Petri').
+ator('Nina van Pallandt').
+ator('Nisa Sofiya Aksongur').
+ator('Noah Emmerich').
+ator('Nobuo Kaneko').
+ator('Noomi Rapace').
+ator('Nora Gregor').
+ator('Nora Twomey').
+ator('Nora-Jane Noone').
+ator('Noriko Hidaka').
+ator('Norma Crane').
+ator('Norman Ferguson').
+ator('Norman Reedus').
+ator('Norman Taurog').
+ator('Nozomu Sasaki').
+ator('Noémie Merlant').
+ator('Nurgül Yesilçay').
+ator('Nursel Köse').
+ator('O\'Shea Jackson Jr.').
+ator('O.J. Simpson').
+ator('Octavia Spencer').
+ator('Oka Antara').
+ator('Oksana Akinshina').
+ator('Oleg Yankovskiy').
+ator('Olga Baclanova').
+ator('Olga Mironova').
+ator('Oliver Reed').
+ator('Oliver Stokowski').
+ator('Olivia Cooke').
+ator('Olivia Wilde').
+ator('Olivia Williams').
+ator('Olivia de Havilland').
+ator('Omar Sharif').
+ator('Omar Sy').
+ator('Oprah Winfrey').
+ator('Orlando Bloom').
+ator('Orson Welles').
+ator('Orto Ignatiussen').
+ator('Osamu Saka').
+ator('Oscar Isaac').
+ator('Oskar Werner').
+ator('Ossie Davis').
+ator('Otto Preminger').
+ator('Otto Sander').
+ator('Otto Wernicke').
+ator('Owen Wilson').
+ator('Ozan Güven').
+ator('Pablo Rago').
+ator('Paddy Considine').
+ator('Paige O\'Hara').
+ator('Pamela Adlon').
+ator('Paolo Bonacelli').
+ator('Paprika Steen').
+ator('Parambrata Chattopadhyay').
+ator('Paresh Rawal').
+ator('Pascal Benezech').
+ator('Pascal Greggory').
+ator('Patricia Arquette').
+ator('Patricia Clarkson').
+ator('Patricia Neal').
+ator('Patrick Fugit').
+ator('Patrick Horgan').
+ator('Patrick Huard').
+ator('Patrick Magee').
+ator('Patrick McGoohan').
+ator('Patrick Renna').
+ator('Patrick Stewart').
+ator('Patrick Wilson').
+ator('Patrick Wymark').
+ator('Patton Oswalt').
+ator('Paul Benjamin').
+ator('Paul Bettany').
+ator('Paul Dano').
+ator('Paul Frankeur').
+ator('Paul Freeman').
+ator('Paul Giamatti').
+ator('Paul Henreid').
+ator('Paul Lukas').
+ator('Paul McCartney').
+ator('Paul McGann').
+ator('Paul Meurisse').
+ator('Paul Muni').
+ator('Paul Newman').
+ator('Paul Raci').
+ator('Paul Reiser').
+ator('Paul Rudd').
+ator('Paul Sanchez').
+ator('Paul Scofield').
+ator('Paul Winfield').
+ator('Paulette Dubost').
+ator('Paulette Goddard').
+ator('Pauline Burlet').
+ator('Pavel Ponomaryov').
+ator('Pawan Malhotra').
+ator('Payman Maadi').
+ator('Penelope Allen').
+ator('Penelope Ann Miller').
+ator('Penélope Cruz').
+ator('Per Ragnar').
+ator('Pernilla Allwin').
+ator('Perry Lopez').
+ator('Pete Postlethwaite').
+ator('Peter Billingsley').
+ator('Peter Boyle').
+ator('Peter Brocco').
+ator('Peter Bull').
+ator('Peter Coyote').
+ator('Peter Dinklage').
+ator('Peter Finch').
+ator('Peter Lorre').
+ator('Peter O\'Toole').
+ator('Peter Ostrum').
+ator('Peter Ramsey').
+ator('Peter Sellers').
+ator('Peter Stormare').
+ator('Peter Wyngarde').
+ator('Peter van Eyck').
+ator('Phil Harris').
+ator('Phil Lord').
+ator('Philip Chan').
+ator('Philip King').
+ator('Philip Seymour Hoffman').
+ator('Philippe Noiret').
+ator('Phillip Terry').
+ator('Phillipa Soo').
+ator('Phylicia Rashad').
+ator('Phyllis Logan').
+ator('Pierre Barbaud').
+ator('Pierre Brasseur').
+ator('Pierre Fresnay').
+ator('Ping Lam Siu').
+ator('Piper Laurie').
+ator('Polly Bergen').
+ator('Porter Hall').
+ator('Prabhas').
+ator('Prakash Belawadi').
+ator('Prateik').
+ator('Predrag \'Miki\' Manojlovic').
+ator('Preity Zinta').
+ator('Priscilla Lane').
+ator('Priscilla Presley').
+ator('Priya Anand').
+ator('Priyanka Chopra').
+ator('Pruitt Taylor Vince').
+ator('Pupella Maggio').
+ator('Pushkar').
+ator('Qiu Yuen').
+ator('Quentin Tarantino').
+ator('Quinton Aaron').
+ator('R. Lee Ermey').
+ator('RJ Cyler').
+ator('Rachel Griffiths').
+ator('Rachel House').
+ator('Rachel McAdams').
+ator('Rachel Shelley').
+ator('Rachel Ticotin').
+ator('Rachel Weisz').
+ator('Radha Mitchell').
+ator('Radhika Apte').
+ator('Raghuvir Yadav').
+ator('Rajat Barmecha').
+ator('Rajat Kapoor').
+ator('Rajesh Abhay').
+ator('Rajesh Khanna').
+ator('Rajit Kapoor').
+ator('Rajkummar Rao').
+ator('Ralph Bellamy').
+ator('Ralph Brown').
+ator('Ralph Fiennes').
+ator('Ralph Macchio').
+ator('Ralph Meeker').
+ator('Ralph Richardson').
+ator('Ram Kapoor').
+ator('Ramachandra Raju').
+ator('Ramesh Deo').
+ator('Rami Malek').
+ator('Ramon Bieri').
+ator('Ramya Krishnan').
+ator('Rana Daggubati').
+ator('Ranbir Kapoor').
+ator('Randy Quaid').
+ator('Rani Mukerji').
+ator('Ranveer Singh').
+ator('Raoul Max Trujillo').
+ator('Raphael Fejtö').
+ator('Rashida Jones').
+ator('Raveena Tandon').
+ator('Ray Liotta').
+ator('Ray Milland').
+ator('Ray Sahetapy').
+ator('Ray Walston').
+ator('Raymond Massey').
+ator('Rebecca De Mornay').
+ator('Reda Kateb').
+ator('Reese Witherspoon').
+ator('Regina King').
+ator('Reginald Gardiner').
+ator('Reginald VelJohnson').
+ator('Rei Sakuma').
+ator('Ren Osugi').
+ator('Rena Owen').
+ator('Rene Auberjonois').
+ator('Rene Bitorajac').
+ator('Rene Russo').
+ator('Reni Santoni').
+ator('Renée Elise Goldsberry').
+ator('Renée Zellweger').
+ator('Rex Harrison').
+ator('Rhonda Fleming').
+ator('Rica Matsumoto').
+ator('Ricardo Darín').
+ator('Ricardo Montalban').
+ator('Rich Moore').
+ator('Richa Chadha').
+ator('Richard Armitage').
+ator('Richard Attenborough').
+ator('Richard Basehart').
+ator('Richard Briers').
+ator('Richard Burton').
+ator('Richard Crenna').
+ator('Richard Dormer').
+ator('Richard Dreyfuss').
+ator('Richard E. Grant').
+ator('Richard Edson').
+ator('Richard Farnsworth').
+ator('Richard Gere').
+ator('Richard Griffiths').
+ator('Richard Harris').
+ator('Richard Haydn').
+ator('Richard Hunt').
+ator('Richard Jenkins').
+ator('Richard Masur').
+ator('Richard Rosson').
+ator('Richard Thorpe').
+ator('Richard Widmark').
+ator('Ricky Adelayitor').
+ator('Ricky Nelson').
+ator('Riisa Naka').
+ator('Rima Te Wiata').
+ator('Ringo Starr').
+ator('Rita Hayworth').
+ator('River Phoenix').
+ator('Riz Ahmed').
+ator('Rob Maxey').
+ator('Rob Minkoff').
+ator('Rob Reiner').
+ator('Robby Benson').
+ator('Robert Armstrong').
+ator('Robert Arthur').
+ator('Robert Cummings').
+ator('Robert De Niro').
+ator('Robert Donat').
+ator('Robert Downey Jr.').
+ator('Robert Duvall').
+ator('Robert Gulaczyk').
+ator('Robert Hays').
+ator('Robert Manuel').
+ator('Robert Mitchum').
+ator('Robert Morley').
+ator('Robert Patrick').
+ator('Robert Redford').
+ator('Robert Rodriguez').
+ator('Robert Ryan').
+ator('Robert Sean Leonard').
+ator('Robert Shaw').
+ator('Robert Stack').
+ator('Robert Strauss').
+ator('Robert Walker').
+ator('Roberta Maxwell').
+ator('Roberto Benigni').
+ator('Roberts Blossom').
+ator('Robin Williams').
+ator('Robin Wright').
+ator('Rock Hudson').
+ator('Rod Steiger').
+ator('Rod Taylor').
+ator('Roddy McDowall').
+ator('Rodney A. Grant').
+ator('Rodney Rothman').
+ator('Rodrigo De la Serna').
+ator('Roe-ha Kim').
+ator('Rohini Hattangadi').
+ator('Roland Møller').
+ator('Rolf Lassgård').
+ator('Roman Griffin Davis').
+ator('Roman Madyanov').
+ator('Roman Polanski').
+ator('Romolo Valli').
+ator('Ron Livingston').
+ator('Ronit Roy').
+ator('Ronnie Del Carmen').
+ator('Ronny Cox').
+ator('Rooney Mara').
+ator('Rory Cochrane').
+ator('Rosalind Russell').
+ator('Rosamund Pike').
+ator('Rosanna Arquette').
+ator('Rosario Dawson').
+ator('Rosario Flores').
+ator('Roscoe Ates').
+ator('Roscoe Karns').
+ator('Rosemarie DeWitt').
+ator('Rosemary Murphy').
+ator('Roshan Seth').
+ator('Rosie Shaw').
+ator('Roy Dotrice').
+ator('Roy Kinnear').
+ator('Roy Scheider').
+ator('Ruby Dee').
+ator('Rudolf Klein-Rogge').
+ator('Rudy Youngblood').
+ator('Rufus').
+ator('Rufus Sewell').
+ator('Rumi Hiiragi').
+ator('Ruocheng Ying').
+ator('Rupert Friend').
+ator('Rupert Graves').
+ator('Rupert Grint').
+ator('Russell Brand').
+ator('Russell Crowe').
+ator('Russell Means').
+ator('Rusty Schwimmer').
+ator('Rutger Hauer').
+ator('Ruth Gordon').
+ator('Ruth Hussey').
+ator('Ruth Nelson').
+ator('Ruth Roman').
+ator('Ruy Guerra').
+ator('Ryan Gosling').
+ator('Ryan Hurst').
+ator('Ryan O\'Neal').
+ator('Ryan Potter').
+ator('Ryan Reynolds').
+ator('Ryô Kase').
+ator('Ryô Narita').
+ator('Ryôko Hirosue').
+ator('Ryûnosuke Kamiki').
+ator('Sabrina Ferilli').
+ator('Sacha Baron Cohen').
+ator('Sady Rebbot').
+ator('Sae-ron Kim').
+ator('Saeed Jaffrey').
+ator('Safak Sezer').
+ator('Sagarika Ghatge').
+ator('Sahil Vaid').
+ator('Saif Ali Khan').
+ator('Saifei He').
+ator('Sakshi Tanwar').
+ator('Sakura Andô').
+ator('Sal Mineo').
+ator('Salim Kechiouche').
+ator('Sally Field').
+ator('Sally Hawkins').
+ator('Sally Yeh').
+ator('Salman Khan').
+ator('Sam Elliott').
+ator('Sam Jaffe').
+ator('Sam Neill').
+ator('Sam Riley').
+ator('Sam Rockwell').
+ator('Sam Shepard').
+ator('Sam Waterston').
+ator('Sam Wood').
+ator('Sam Worthington').
+ator('Samantha Isler').
+ator('Samantha Morton').
+ator('Samia Kerbash').
+ator('Samuel Armstrong').
+ator('Samuel E. Wright').
+ator('Samuel L. Jackson').
+ator('Sandra Bernhard').
+ator('Sandra Bullock').
+ator('Sandra Milo').
+ator('Sandy Dennis').
+ator('Sanjana Sanghi').
+ator('Sanjay Dutt').
+ator('Sanjeev Kumar').
+ator('Sanya Malhotra').
+ator('Saoirse Ronan').
+ator('Saori Hayami').
+ator('Sara Takatsuki').
+ator('Sarah Berry').
+ator('Sarah Bolger').
+ator('Sarah Jessica Parker').
+ator('Sarah Miles').
+ator('Sarah Polley').
+ator('Sarah Roemer').
+ator('Sarah Silverman').
+ator('Sarah Vowell').
+ator('Sareh Bayat').
+ator('Saswata Chatterjee').
+ator('Sathyaraj').
+ator('Saurabh Shukla').
+ator('Saïd Taghmaoui').
+ator('Scarlett Johansson').
+ator('Scatman Crothers').
+ator('Scott Adsit').
+ator('Scott Glenn').
+ator('Scott H. Reiniger').
+ator('Scott Schwartz').
+ator('Scott Weinger').
+ator('Seamus Davey-Fitzpatrick').
+ator('Sean Astin').
+ator('Sean Bean').
+ator('Sean Bridgers').
+ator('Sean Connery').
+ator('Sean Patrick Flanery').
+ator('Sean Penn').
+ator('Sean Young').
+ator('Sebastian Cabot').
+ator('Sebastian Koch').
+ator('Sebastian Maniscalco').
+ator('Sela Ward').
+ator('Sener Sen').
+ator('Sergi López').
+ator('Sermin Hürmeriç').
+ator('Sessue Hayakawa').
+ator('Seth Rogen').
+ator('Setsuko Hara').
+ator('Seung-Yun Lee').
+ator('Seymour Cassel').
+ator('Shah Rukh Khan').
+ator('Shahab Hosseini').
+ator('Shahid Kapoor').
+ator('Shailene Woodley').
+ator('Shameik Moore').
+ator('Shammi Kapoor').
+ator('Sharlto Copley').
+ator('Sharman Joshi').
+ator('Sharon Percy').
+ator('Sharon Stone').
+ator('Sheetal Menon').
+ator('Shelley Duvall').
+ator('Shelley Winters').
+ator('Shernaz Patel').
+ator('Shigeru Muroi').
+ator('Shigesato Itoi').
+ator('Shilpa Shukla').
+ator('Shima Iwashita').
+ator('Shin Ha-kyun').
+ator('Shin\'ichi Himori').
+ator('Shinpachi Tsuji').
+ator('Shirley Eaton').
+ator('Shirley MacLaine').
+ator('Shishir Sharma').
+ator('Shraddha Kapoor').
+ator('Shraddha Srinath').
+ator('Shriya Saran').
+ator('Shôgo Furuya').
+ator('Shûichirô Moriyama').
+ator('Sibel Kekilli').
+ator('Siddharth').
+ator('Sidney Blackmer').
+ator('Sidney Poitier').
+ator('Sidse Babett Knudsen').
+ator('Sienna Miller').
+ator('Sigourney Weaver').
+ator('Silvia Pinal').
+ator('Simon Pegg').
+ator('Simon Yam').
+ator('Simone Signoret').
+ator('Sissy Spacek').
+ator('Siu-Lung Leung').
+ator('Siu-Wong Fan').
+ator('Slavko Stimac').
+ator('Slim Pickens').
+ator('Smit Sheth').
+ator('Soha Ali Khan').
+ator('Sohum Shah').
+ator('Soia Lira').
+ator('Soledad Villamil').
+ator('Solveig Dommartin').
+ator('Sonam Kapoor').
+ator('Sondra Locke').
+ator('Song Wok-suk').
+ator('Sonia Todd').
+ator('Sonoya Mizuno').
+ator('Sophie Kennedy Clark').
+ator('Sophie Marceau').
+ator('Sophie Okonedo').
+ator('Sophie Perry').
+ator('Spencer Tracy').
+ator('Spike Lee').
+ator('Srdjan \'Zika\' Todorovic').
+ator('Sridevi').
+ator('Srinidhi Shetty').
+ator('Stanislas Carré de Malberg').
+ator('Stanley Baker').
+ator('Stanley Holloway').
+ator('Stefania Sandrelli').
+ator('Stella Dassas').
+ator('Stellan Skarsgård').
+ator('Stephen Baldwin').
+ator('Stephen Boyd').
+ator('Stephen Chow').
+ator('Stephen Graham').
+ator('Stephen Rea').
+ator('Stephen Tobolowsky').
+ator('Stephen Trask').
+ator('Stephen Young').
+ator('Sterling Hayden').
+ator('Steve Buscemi').
+ator('Steve Carell').
+ator('Steve Coogan').
+ator('Steve Martin').
+ator('Steve McQueen').
+ator('Steve Zahn').
+ator('Steven Bauer').
+ator('Strother Martin').
+ator('Stuart Wolfenden').
+ator('Sully Boyar').
+ator('Sumi Shimamoto').
+ator('Sumita Sanyal').
+ator('Sunil Dutt').
+ator('Sunil Shetty').
+ator('Sunny Pawar').
+ator('Suraj Sharma').
+ator('Suriya').
+ator('Susan Harrison').
+ator('Susanne Lothar').
+ator('Sushant Singh Rajput').
+ator('Susumu Terajima').
+ator('Suzanne Clément').
+ator('Suzanne Pleshette').
+ator('Sylvester Stallone').
+ator('Sylvia Hoeks').
+ator('Sylvia Miles').
+ator('Sylvie Testud').
+ator('Sô Yamamura').
+ator('T.J. Miller').
+ator('Taapsee Pannu').
+ator('Tabu').
+ator('Tae-Hyun Cha').
+ator('Tae-hoon Kim').
+ator('Tahar Rahim').
+ator('Taika Waititi').
+ator('Takako Matsu').
+ator('Takao Osawa').
+ator('Takashi Shimura').
+ator('Takashi Tachibana').
+ator('Takeshi Aono').
+ator('Takeshi Kaneshiro').
+ator('Takeshi Kitano').
+ator('Takuya Ishida').
+ator('Takuya Kimura').
+ator('Talia Shire').
+ator('Tallulah Bankhead').
+ator('Tamannaah Bhatia').
+ator('Taner Birsel').
+ator('Taraji P. Henson').
+ator('Taraneh Alidoosti').
+ator('Taron Egerton').
+ator('Tarun Arora').
+ator('Tarô Yamamoto').
+ator('Tatsuya Fujiwara').
+ator('Tatsuya Gashûin').
+ator('Tatsuya Nakadai').
+ator('Tatum O\'Neal').
+ator('Telly Savalas').
+ator('Temuera Morrison').
+ator('Tensai Okamura').
+ator('Teo Briones').
+ator('Terence Alexander').
+ator('Teresa Mo').
+ator('Teresa Palmer').
+ator('Teresa Wright').
+ator('Teri Garr').
+ator('Teri Hatcher').
+ator('Terrence Howard').
+ator('Terry Gilliam').
+ator('Terry Jones').
+ator('Tessa Mitchell').
+ator('Tessa Thompson').
+ator('Tesshô Genda').
+ator('Tetsurô Tanba').
+ator('Thandie Newton').
+ator('Thelma Ritter').
+ator('Theodore Liscinski').
+ator('Thibault Verhaeghe').
+ator('Thierry Lhermitte').
+ator('Thierry van Werveke').
+ator('Thom Hoffman').
+ator('Thomas Bo Larsen').
+ator('Thomas F. Wilson').
+ator('Thomas Kretschmann').
+ator('Thomas Mann').
+ator('Thomas Mitchell').
+ator('Thomas Turgoose').
+ator('Thomasin McKenzie').
+ator('Thora Birch').
+ator('Tigmanshu Dhulia').
+ator('Til Schweiger').
+ator('Tilda Swinton').
+ator('Tim Allen').
+ator('Tim Blake Nelson').
+ator('Tim Holt').
+ator('Tim McGraw').
+ator('Tim Robbins').
+ator('Tim Roth').
+ator('Timothy Bottoms').
+ator('Timothy Hutton').
+ator('Timothy Spall').
+ator('Timothée Chalamet').
+ator('Tina Fey').
+ator('Tiny Sandford').
+ator('Tippi Hedren').
+ator('Tisca Chopra').
+ator('Tobey Maguire').
+ator('Toby Kebbell').
+ator('Tokiko Katô').
+ator('Tom Berenger').
+ator('Tom Cruise').
+ator('Tom Guiry').
+ator('Tom Hanks').
+ator('Tom Hardy').
+ator('Tom Helmore').
+ator('Tom Hiddleston').
+ator('Tom Hulce').
+ator('Tom Murray').
+ator('Tom Prior').
+ator('Tom Sizemore').
+ator('Tom Skerritt').
+ator('Tom Waits').
+ator('Tom Wilkinson').
+ator('Tommy Chong').
+ator('Tommy Lee Jones').
+ator('Tomoko Yamaguchi').
+ator('Toni Collette').
+ator('Toni Servillo').
+ator('Tony Chiu-Wai Leung').
+ator('Tony Curtis').
+ator('Tony Hale').
+ator('Tony Lo Bianco').
+ator('Tony Moran').
+ator('Tony Roberts').
+ator('Tony Todd').
+ator('Topol').
+ator('Toshirô Mifune').
+ator('Toshirô Yanagiba').
+ator('Treat Williams').
+ator('Trevor Howard').
+ator('Trevor Jack Brooks').
+ator('Trey Parker').
+ator('Trine Dyrholm').
+ator('Tsunehiko Kamijô').
+ator('Tsutomu Tatsumi').
+ator('Tsutomu Yamazaki').
+ator('Tsuyoshi Ihara').
+ator('Tugba Sunguroglu').
+ator('Tuncel Kurtiz').
+ator('Tung Cho \'Joe\' Cheung').
+ator('Tyler Hoechlin').
+ator('Tyler Perry').
+ator('Tyrone Power').
+ator('Tôru Emori').
+ator('Tôru Furuya').
+ator('Ugur Yücel').
+ator('Ulla Jacobsson').
+ator('Ulrich Matthes').
+ator('Ulrich Mühe').
+ator('Ulrich Thomsen').
+ator('Ulrich Tukur').
+ator('Uma Thurman').
+ator('Val Kilmer').
+ator('Valentin Zubkov').
+ator('Valeria Golino').
+ator('Valerie Faris').
+ator('Valerie Hobson').
+ator('Vanessa Redgrave').
+ator('Vanna Urbino').
+ator('Varun Sharma').
+ator('Veerle Baetens').
+ator('Vera Miles').
+ator('Verna Bloom').
+ator('Vernon Dobtcheff').
+ator('Veronica Cartwright').
+ator('Vicellous Shannon').
+ator('Vicky Jenson').
+ator('Vicky Kaushal').
+ator('Victor Buono').
+ator('Victor Jory').
+ator('Victor Sjöström').
+ator('Victor Slezak').
+ator('Victoria Horne').
+ator('Vidya Balan').
+ator('Vidya Malvade').
+ator('Viggo Mortensen').
+ator('Vijay Raaz').
+ator('Vijay Sethupathi').
+ator('Vijay Varma').
+ator('Vin Diesel').
+ator('Vince Edwards').
+ator('Vince Vaughn').
+ator('Vincent Cassel').
+ator('Vincent D\'Onofrio').
+ator('Vincent Price').
+ator('Ving Rhames').
+ator('Vinícius de Oliveira').
+ator('Viola Davis').
+ator('Virginia Cherrill').
+ator('Virginia Mayo').
+ator('Vivian Pickles').
+ator('Vivien Leigh').
+ator('Vlad Ivanov').
+ator('Vladas Bagdonas').
+ator('Vladimir Barskiy').
+ator('Vladimir Garin').
+ator('Vladimir Vdovichenkov').
+ator('Vladislav Dvorzhetskiy').
+ator('Véra Clouzot').
+ator('Wagner Moura').
+ator('Wah Yuen').
+ator('Wallace Ford').
+ator('Walter Brennan').
+ator('Walter Catlett').
+ator('Walter Connolly').
+ator('Walter Hampden').
+ator('Walter Huston').
+ator('Walter Matthau').
+ator('Walter Slezak').
+ator('Walton Goggins').
+ator('Ward Bond').
+ator('Warren Beatty').
+ator('Warren Clarke').
+ator('Warren Oates').
+ator('Wendee Lee').
+ator('Wendell Corey').
+ator('Wendy Crewson').
+ator('Wendy Hiller').
+ator('Werner Krauss').
+ator('Wes Bentley').
+ator('Wesley Addy').
+ator('Whoopi Goldberg').
+ator('Wil Johnson').
+ator('Wil Wheaton').
+ator('Wiley Wiggins').
+ator('Wilford Brimley').
+ator('Wilfrid Hyde-White').
+ator('Will Ferrell').
+ator('Will Forte').
+ator('Will Patton').
+ator('Will Poulter').
+ator('Will Smith').
+ator('Willem Dafoe').
+ator('William Atherton').
+ator('William Bendix').
+ator('William Daniels').
+ator('William H. Lynn').
+ator('William H. Macy').
+ator('William Harrigan').
+ator('William Hickey').
+ator('William Holden').
+ator('William Hurt').
+ator('William Keighley').
+ator('William Powell').
+ator('William Sadler').
+ator('William Shatner').
+ator('William Sylvester').
+ator('Winona Ryder').
+ator('Wladyslaw Kowalski').
+ator('Wolfgang Lukschy').
+ator('Won Bin').
+ator('Wood Harris').
+ator('Woody Allen').
+ator('Woody Harrelson').
+ator('Wotan Wilke Möhring').
+ator('Xolani Mali').
+ator('Yacef Saadi').
+ator('Yalitza Aparicio').
+ator('Yami Gautam').
+ator('Yash').
+ator('Yasuo Yamada').
+ator('Yayan Ruhian').
+ator('Yeong-hie Seo').
+ator('Yeong-su Oh').
+ator('Yesim Salkim').
+ator('Yilmaz Erdogan').
+ator('Yoko Honna').
+ator('Yong Dong').
+ator('Yoo Ji-Tae').
+ator('Yoo-Jeong Kim').
+ator('Yordanos Shiferaw').
+ator('Yoshiaki Umegaki').
+ator('Yoshiko Shinohara').
+ator('Yoshino Kimura').
+ator('Yoshiyuki Takei').
+ator('You Ge').
+ator('Yukiko Shimazaki').
+ator('Yukito Nishii').
+ator('Yul Brynner').
+ator('Yun Qu').
+ator('Yun-Fat Chow').
+ator('Yuriko Ishida').
+ator('Yutaka Sada').
+ator('Yves Montand').
+ator('Yvonne Furneaux').
+ator('Yôji Matsuda').
+ator('Yôko Tsukasa').
+ator('Yû Kashii').
+ator('Yûko Miyamura').
+ator('Yûko Tanaka').
+ator('Yûnosuke Itô').
+ator('Zac Mattoon O\'Brien').
+ator('Zach Galifianakis').
+ator('Zach Grenier').
+ator('Zachary Levi').
+ator('Zachary Quinto').
+ator('Zack Gottsagen').
+ator('Zain Al Rafeea').
+ator('Zamira Saunders').
+ator('Zarah Jane McKenzie').
+ator('Zazie Beetz').
+ator('Zbigniew Zamachowski').
+ator('Zeppo Marx').
+ator('Ziyi Zhang').
+ator('Zoe Saldana').
+ator('Zooey Deschanel').
+ator('Zoë Kravitz').
+ator('Álvaro Guerrero').
+ator('Çetin Tekindor').
+ator('Émile Vallée').
+ator('Éric Toledano').
+ator('Ömer Faruk Sorak').
+ator('Özge Özberk').
