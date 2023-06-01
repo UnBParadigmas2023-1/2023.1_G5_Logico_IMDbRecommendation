@@ -3,6 +3,13 @@
 :- [src/duracao].
 :- [src/util].
 :- [src/ator].
+:- [src/diretor].
+:- [src/arrecadacao].
+:- [src/genero].
+:- [src/ator].
+:- [src/classificacao].
+
+
 
 
 menu:-
@@ -31,7 +38,7 @@ menu:-
                 'Ator',
                 'Arrecadação'
               ]),
-    send(S, columns, 2),
+    send(S, columns, 3),
     send(S, colour('#000000')),
     send(S, gap, size(5, 5)),
     send(Dialog, default_button, confirmar),
@@ -56,7 +63,6 @@ menu_escolha(Option) :-
     ,  menu_rec_ano
     ;   menu
     ).
-
 
 
 

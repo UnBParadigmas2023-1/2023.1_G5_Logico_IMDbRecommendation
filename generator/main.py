@@ -40,6 +40,14 @@ with open(DATA_PATH, 'r') as f:
             print(f'Failed to parse row: {row}.\n  -> Error: {e}')
 
 
+def format_value(value):
+    if isinstance(value, str):
+        value = value.replace("'", "\\'")
+        return f"'{value}'"
+    else:
+        return repr(value)
+
+
 OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
 with open(OUTPUT_PATH, 'w') as f:
     f.write('% Series_Title, Released_Year, Runtime, Genre, IMDB_Rating, Director, Star1, Star2, Star3, Star4, Gross\n')
@@ -49,12 +57,16 @@ with open(OUTPUT_PATH, 'w') as f:
         for genre in genres:
             values = [movie[label] for label, _ in MOVIE_FIELDS]
             values[3] = genre
-            f.write(f'filme({", ".join(map(repr, values))}).\n')
+            f.write(f'filme({", ".join(map(format_value, values))}).\n')
 
     f.write('\n')
-    for director in {movie['Director'] for movie in movies}:
-        f.write(f'diretor({repr(director)}).\n')
+    for director in sorted({movie['Director'] for movie in movies}):
+        f.write(f'diretor({format_value(director)}).\n')
 
     f.write('\n')
-    for genre in {genre for movie in movies for genre in movie['Genre']}:
-        f.write(f'genero({repr(genre)}).\n')
+    for genre in sorted({genre for movie in movies for genre in movie['Genre']}):
+        f.write(f'genero({format_value(genre)}).\n')
+
+    f.write('\n')
+    for star in sorted({movie[f'Star{i}'] for movie in movies for i in range(1, 5)}):
+        f.write(f'ator({format_value(star)}).\n')
