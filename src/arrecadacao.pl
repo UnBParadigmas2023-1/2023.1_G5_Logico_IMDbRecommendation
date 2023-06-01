@@ -1,3 +1,6 @@
+:- [src/database/data].
+:- (dynamic filme/11).
+
 menu_rec_arrecadacao :-
     new(Dialog, dialog('Recomendacao por Arrecadacao(em dolares)')),
     send(Dialog, size, size(500, 500)),
@@ -20,8 +23,12 @@ menu_rec_arrecadacao :-
 rec_arrecadacao(Arrecadacao) :-
     new(D, dialog('Filmes Recomendados')),
     findall(Filme,
-            ( filme(_,_,Filme,_,_,_,Arrecadacao)
+            ( 
+                filme(Filme,_,_,_,_,_,_,_,_,_,Case),Case=<Arrecadacao
             ),
             Filmes),
+
     append_text_dialog(Filmes, D),
     send(D, open).
+
+
