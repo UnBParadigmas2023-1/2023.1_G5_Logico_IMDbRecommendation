@@ -1,10 +1,12 @@
 :- use_module(library(pce)).
 :- [src/ano].
 :- [src/duracao].
+:- [src/diretor].
 :- [src/arrecadacao].
 :- [src/genero].
 :- [src/ator].
 :- [src/classificacao].
+
 
 
 menu:-
@@ -43,19 +45,19 @@ menu:-
 menu_escolha(Option) :-
     write(Option),
     (   Option = 'Ano'
-    ->  menu_rec_ano
+    ,  menu_rec_ano
     ;   Option = 'Duração'
-    ->  menu_rec_duracao
+    ,  menu_rec_duracao
     ;   Option = 'Gênero'
-    ->  menu_rec_genero
+    ,  menu_rec_ano
     ;   Option = 'Classificação'
-    ->  menu_rec_classificacao
+    ,  menu_rec_ano
     ;   Option = 'Diretor'
-    ->  menu_rec_ano
+    ,  menu_rec_ano
     ;   Option = 'Ator'
-    ->  menu_rec_ator
+    ,  menu_rec_ator  
     ;   Option = 'Arrecadação'
-    ->  menu_rec_arrecadacao
+    ,  menu_rec_ano
     ;   menu
     ).
 
