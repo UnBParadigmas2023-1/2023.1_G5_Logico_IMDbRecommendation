@@ -21,7 +21,7 @@ menu_rec_diretor :-
     send(Dialog, open_centered).
 
 
-rec_(Diretor) :-
+rec_diretor(Diretor) :-
     new(D, dialog('Filmes Recomendados')),
     findall(Filme,
             ( filme(Filme,_,_,_,_,Diretor,_,_,_,_,_)
@@ -30,3 +30,10 @@ rec_(Diretor) :-
             Filmes),
     append_text_dialog(Filmes, D),
     send(D, open).
+
+
+% append text to dialog
+append_text_dialog([], D).
+append_text_dialog([A|B], D) :-
+    send(D, append, text(A)),
+    append_text_dialog(B, D).
