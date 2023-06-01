@@ -1,6 +1,8 @@
 :- use_module(library(pce)).
 :- [src/ano].
 :- [src/duracao].
+:- [src/util].
+:- [src/ator].
 :- [src/diretor].
 :- [src/arrecadacao].
 :- [src/genero].
@@ -9,10 +11,11 @@
 
 
 
+
 menu:-
     new(Dialog, dialog('IMDb Recommendation')),
-    send(Dialog, size, size(500, 500)),
-    send(Dialog, background, '#87CEEB'),
+    send(Dialog, size, size(620, 500)),
+    send(Dialog, background, '#ffffdf'),
     send_list(Dialog,
               append,
               [
@@ -37,7 +40,7 @@ menu:-
               ]),
     send(S, columns, 3),
     send(S, colour('#000000')),
-    send(S, gap, size(15, 15)),
+    send(S, gap, size(5, 5)),
     send(Dialog, default_button, confirmar),
     send(Dialog, open_centered).
 
@@ -60,5 +63,6 @@ menu_escolha(Option) :-
     ,  menu_rec_ano
     ;   menu
     ).
+
 
 

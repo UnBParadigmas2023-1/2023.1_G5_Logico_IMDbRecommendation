@@ -1,5 +1,6 @@
 :- use_module(library(pce)).
 :- [src/database/data].
+:- [src/util].
 :- (dynamic movie/11, genero/1).
 
 
@@ -46,13 +47,12 @@ rec_ator(Ator) :-
                 filme(Filme,_,_,_,_,_,_,Ator,_,_,_);
                 filme(Filme,_,_,_,_,_,_,_,Ator,_,_);
                 filme(Filme,_,_,_,_,_,_,_,_,Ator,_)
-
             ),
             Filmes),
     send(D, append, new(T, text('Filmes Recomendados do ator  ')), right),
     send(T, append,Ator),
-	new(F, font(screen, bold, 20)),
-	send(T, font(F)),
+	  new(F, font(screen, bold, 20)),
+	  send(T, font(F)),
     send(T,colour('#000000')),
     send(D, append(T)),
     append_text_dialog(Filmes, D),
@@ -60,17 +60,3 @@ rec_ator(Ator) :-
     send(D, open_centered).
 
 
-remov_dup([], []).
-remov_dup([First|Rest], NewRest) :-
-    member(First, Rest),
-    remov_dup(Rest, NewRest).
-remov_dup([First|Rest], [First|NewRest]) :-
-    not(member(First, Rest)),
-    remov_dup(Rest, NewRest).
-
-
-% append text to dialog
-append_text_dialog([], D).
-append_text_dialog([A|B], D) :-
-    send(D, append, text(A)),
-    append_text_dialog(B, D).
