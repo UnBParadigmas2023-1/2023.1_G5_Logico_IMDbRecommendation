@@ -79,7 +79,7 @@ TEMPO: +/- 15min
 | [Kayro César Silva Machado](https://github.com/kayrocesar)               | --           | --                                                                             |
 | [Lucas Lopes Xavier](https://github.com/lucaslop)                        | --           | --                                                                             |
 | [Luis Gustavo Ferreira Marques](https://github.com/luisgfmarques)        | --           | --                                                                             |
-| [Mateus Cunha Maia](https://github.com/mateusmaiamaia)                   | --           | --                                                                             |
+| [Mateus Cunha Maia](https://github.com/mateusmaiamaia)                   | Implementei o submenu de arrecadação e ajudei na correção de outros menus.           | Boa                                                                             |
 | [Paulo Goncalves Lima](https://github.com/PauloGoncalvesLima)            | Submenu de classificação, ajuda no menu geral.           | Boa                                                                             |
 | [Thalisson Alves Gonçalves de Jesus](https://github.com/Thalisson-Alves) | --           | --                                                                             |
 | [Victor Hugo Siqueira Costa](https://github.com/8ifq3)                   | --           | --                                                                             |
