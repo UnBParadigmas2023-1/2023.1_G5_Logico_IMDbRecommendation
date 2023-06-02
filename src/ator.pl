@@ -1,21 +1,12 @@
 :- use_module(library(pce)).
 :- [src/database/data].
 :- [src/util].
-:- (dynamic movie/11, genero/1).
-
-
-
+:- (dynamic movie/11, ator/1).
 
 menu_rec_ator :-
     new(Dialog, dialog('Recomendacao por Ator')),
     send(Dialog, size, size(500, 500)),
     send(Dialog, background,'#ffffdf'),
-    findall(Ator,
-            ( 
-                filme(_,_,_,_,_,_,Ator,_,_,_,_)
-                
-            ),
-            Atores),
     send_list(Dialog, append, 
                   [ 
                     new(Ator, menu(ator,cycle)),
@@ -25,9 +16,7 @@ menu_rec_ator :-
                                               Ator?selection),
                                       message(Dialog, destroy))))
                   ]),
-    remov_dup(Atores, AtoresNoDup),
-    sort(AtoresNoDup, AtoresNoDupSorted),
-    forall(member(A, AtoresNoDupSorted), send(Ator, append, A)),
+    forall(ator(A), send_list(Ator, append, A)),
     send(Dialog, display,Ator,point(120,10)),
     send(Ator, colour('#000000')),
     send(Dialog, default_button, confirmar),

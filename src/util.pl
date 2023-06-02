@@ -1,5 +1,5 @@
 :- use_module(library(pce)).
-
+:- style_check(-singleton).
 
 append_text_dialog([], D).
 append_text_dialog([A|B], D) :-

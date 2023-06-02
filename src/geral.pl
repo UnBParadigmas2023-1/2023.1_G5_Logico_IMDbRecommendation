@@ -1,5 +1,6 @@
 :- [src/database/data].
 :- (dynamic filme/11, genero/1).
+:- style_check(-singleton).
 
 menu_rec_geral :-
     new(Dialog, dialog('Recomendacao Geral')),
