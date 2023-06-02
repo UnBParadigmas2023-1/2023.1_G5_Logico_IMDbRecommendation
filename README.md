@@ -81,7 +81,7 @@ TEMPO: +/- 15min
 | [Luis Gustavo Ferreira Marques](https://github.com/luisgfmarques)        | --           | --                                                                             |
 | [Mateus Cunha Maia](https://github.com/mateusmaiamaia)                   | Implementei o submenu de arrecadação e ajudei na correção de outros menus.           | Boa                                                                             |
 | [Paulo Goncalves Lima](https://github.com/PauloGoncalvesLima)            | Submenu de classificação, ajuda no menu geral.           | Boa                                                                             |
-| [Thalisson Alves Gonçalves de Jesus](https://github.com/Thalisson-Alves) | --           | --                                                                             |
+| [Thalisson Alves Gonçalves de Jesus](https://github.com/Thalisson-Alves) | Implementei o script para popular a base de dados utilizada no prolog e ajudei na integração dos diferentes menus | Boa |
 | [Victor Hugo Siqueira Costa](https://github.com/8ifq3)                   | --           | --                                                                             |
 
 ## Outros
