@@ -77,7 +77,7 @@ TEMPO: +/- 15min
 | [Flávio Vieira Leão](https://github.com/flaviovl)                        | --           | --                                                                             |
 | [Gabrielle Ribeiro Gomes](https://github.com/Gabrielle-Ribeiro)          | --           | --                                                                             |
 | [Kayro César Silva Machado](https://github.com/kayrocesar)               | --           | --                                                                             |
-| [Lucas Lopes Xavier](https://github.com/lucaslop)                        | --           | --                                                                             |
+| [Lucas Lopes Xavier](https://github.com/lucaslop)                        | Implementei o submenu de diretores e ajuda no menu          | Boa                                                                            |
 | [Luis Gustavo Ferreira Marques](https://github.com/luisgfmarques)        | --           | --                                                                             |
 | [Mateus Cunha Maia](https://github.com/mateusmaiamaia)                   | Implementei o submenu de arrecadação e ajudei na correção de outros menus.           | Boa                                                                             |
 | [Paulo Goncalves Lima](https://github.com/PauloGoncalvesLima)            | Submenu de classificação, ajuda no menu geral.           | Boa                                                                             |
