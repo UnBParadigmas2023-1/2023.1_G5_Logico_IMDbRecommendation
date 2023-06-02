@@ -8,7 +8,7 @@
 
 menu_rec_ator :-
     new(Dialog, dialog('Recomendacao por Ator')),
-    send(Dialog, size, size(400, 400)),
+    send(Dialog, size, size(500, 500)),
     send(Dialog, background,'#ffffdf'),
     findall(Ator,
             ( 
@@ -39,7 +39,7 @@ menu_rec_ator :-
 
 rec_ator(Ator) :-
     new(D, dialog('Filmes Recomendados')),
-    send(D, size, size(520, 500)),
+    send(D, size, size(750, 500)),
     send(D, background,'#ffffdf'),
     findall(Filme,
             ( 
@@ -49,13 +49,14 @@ rec_ator(Ator) :-
                 filme(Filme,_,_,_,_,_,_,_,_,Ator,_)
             ),
             Filmes),
-    send(D, append, new(T, text('Filmes Recomendados do ator  ')), right),
+    remov_dup(Filmes, FilmesSemRep),
+    send(D, append, new(T, text('Filmes Recomendados do ator ')), right),
     send(T, append,Ator),
-	  new(F, font(screen, bold, 20)),
-	  send(T, font(F)),
+	new(F, font(screen, bold, 20)),
+	send(T, font(F)),
     send(T,colour('#000000')),
     send(D, append(T)),
-    append_text_dialog(Filmes, D),
+    append_text_dialog(FilmesSemRep, D),
     send(D, scrollbars, vertical),
     send(D, open_centered).
 

@@ -1,10 +1,8 @@
-:- [src/database/data].
-:- (dynamic filme/11, diretor/1).
 
 menu_rec_diretor :-
     new(Dialog, dialog('Recomendacao por Diretores')),
     send(Dialog, size, size(500, 500)),
-    send(Dialog, background, '#87CEEB'),
+    send(Dialog, background, '#ffffdf'),
     send_list(Dialog,
               append,
               
@@ -23,17 +21,21 @@ menu_rec_diretor :-
 
 rec_diretor(Diretor) :-
     new(D, dialog('Filmes Recomendados')),
+    send(D, size, size(750, 500)),
+    send(D, background,'#ffffdf'),
     findall(Filme,
             ( filme(Filme,_,_,_,_,Diretor,_,_,_,_,_)
               
             ),
             Filmes),
-    append_text_dialog(Filmes, D),
-    send(D, open).
+    remov_dup(Filmes, FilmesSemRep),
+    send(D, append, new(T, text('Filmes Recomendados do diretor ')), right),
+    send(T, append,Diretor),
+	new(F, font(screen, bold, 20)),
+	send(T, font(F)),
+    send(T,colour('#000000')),
+    send(D, append(T)),
+    append_text_dialog(FilmesSemRep, D),
+    send(D, scrollbars, vertical),
+    send(D, open_centered).
 
-
-% append text to dialog
-append_text_dialog([], D).
-append_text_dialog([A|B], D) :-
-    send(D, append, text(A)),
-    append_text_dialog(B, D).

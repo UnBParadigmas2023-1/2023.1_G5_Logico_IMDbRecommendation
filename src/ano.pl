@@ -1,14 +1,7 @@
-:- use_module(library(pce)).
-:- [src/database/data].
-:- [src/util].
-:- (dynamic movie/11).
-
-
-
 
 menu_rec_ano :-
     new(Dialog, dialog('Recomendacao por Ano')),
-    send(Dialog, size, size(620, 500)),
+    send(Dialog, size, size(500, 500)),
     send(Dialog, background,'#ffffdf'),
     send_list(Dialog, append, 
                   [ 
@@ -30,7 +23,7 @@ menu_rec_ano :-
 
 rec_ano(Ano) :-
     new(D, dialog('Filmes Recomendados')),
-    send(D, size, size(520, 500)),
+    send(D, size, size(750, 500)),
     send(D, background,'#ffffdf'),
     text_to_int(Ano, AnoInt),
     findall(Filme,
@@ -39,13 +32,14 @@ rec_ano(Ano) :-
                 
             ),
             Filmes),
+    remov_dup(Filmes, FilmesSemRep),
     send(D, append, new(T, text('Filmes Recomendados do ano ')), right),
     send(T, append,Ano),
 	new(F, font(screen, bold, 20)),
 	send(T, font(F)),
     send(T,colour('#000000')),
     send(D, append(T)),
-    append_text_dialog(Filmes, D),
+    append_text_dialog(FilmesSemRep, D),
     send(D, scrollbars, vertical),
     send(D, open_centered).
     

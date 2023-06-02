@@ -4,7 +4,7 @@
 menu_rec_genero :-
     new(Dialog, dialog('Recomendacao por Genero')),
     send(Dialog, size, size(500, 500)),
-    send(Dialog, background, '#87CEEB'),
+    send(Dialog, background,'#ffffdf'),
     send_list(Dialog,
               append,
               
@@ -23,11 +23,20 @@ menu_rec_genero :-
 
 rec_genero(Genero) :-
     new(D, dialog('Filmes Recomendados')),
+    send(D, size, size(750, 500)),
+    send(D, background,'#ffffdf'),
     findall(Filme,
             ( filme(Filme,_,_,Genero,_,_,_,_,_,_,_)
               
             ),
             Filmes),
-    append_text_dialog(Filmes, D),
-    send(D, open).
-
+    remov_dup(Filmes, FilmesSemRep),
+    send(D, append, new(T, text('Filmes Recomendados do genero ')), right),
+    send(T, append,Genero),
+	new(F, font(screen, bold, 20)),
+	send(T, font(F)),
+    send(T,colour('#000000')),
+    send(D, append(T)),
+    append_text_dialog(FilmesSemRep, D),
+    send(D, scrollbars, vertical),
+    send(D, open_centered).

@@ -1,5 +1,5 @@
-:- use_module(library(pce)).
-:- [src/util].
+
+
 
 menu_rec_duracao :-
     new(Dialog, dialog('Recomendacao por Duracao (em minutos)')),
@@ -21,18 +21,21 @@ menu_rec_duracao :-
 
 rec_duracao(Duracao) :-
     new(D, dialog('Recomendacao por Duracao (em minutos)')),
-    send(D, size, size(600, 500)),
+    send(D, size, size(500, 500)),
     send(D, background, '#ffffdf'),
     
-    findall(Filme,(filme(Filme,_,Cases,_,_,_,_,_,_,_,_),Cases=<Duracao),Filmes),
-
+    findall(Filme,
+            (
+               filme(Filme,_,Cases,_,_,_,_,_,_,_,_),Cases=<Duracao
+               
+            ),
+            Filmes),
     remov_dup(Filmes, FilmesSemRep),
     send(D, append, new(T, text('Filmes com duração de até '))),
     send(T, append,Duracao),
     send(D, append(T)),
     send(D, append, new(T2, text('minutos')), right),
     new(F, font(screen, bold, 20)),
-    new(F2, font(screen, roman, 15)),
     send(T, font, F),
     send(T2, font, F),
     append_text_dialog(FilmesSemRep, D),
