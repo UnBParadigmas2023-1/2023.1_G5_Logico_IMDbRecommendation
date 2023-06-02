@@ -8,6 +8,7 @@
 :- [src/genero].
 :- [src/ator].
 :- [src/classificacao].
+:- [src/geral].
 
 
 
@@ -19,6 +20,7 @@ menu:-
     send_list(Dialog,
               append,
               [
+          
                 new(S, new(S, menu('Escolha um criterio'))),
                 button(cancelar, message(Dialog, destroy)),
                 button(confirmar,
@@ -36,9 +38,10 @@ menu:-
                 'Classificação',
                 'Diretor',
                 'Ator',
-                'Arrecadação'
+                'Arrecadação',
+                'Geral'
               ]),
-    send(S, columns, 3),
+    send(S, columns, 2),
     send(S, colour('#000000')),
     send(S, gap, size(5, 5)),
     send(Dialog, default_button, confirmar),
@@ -61,6 +64,8 @@ menu_escolha(Option) :-
     ,  menu_rec_ator  
     ;   Option = 'Arrecadação'
     ,  menu_rec_arrecadacao
+    ;   Option = 'Geral'
+    ,  menu_rec_geral
     ;   menu
     ).
 
