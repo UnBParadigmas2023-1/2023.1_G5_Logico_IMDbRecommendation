@@ -80,7 +80,7 @@ TEMPO: +/- 15min
 | [Lucas Lopes Xavier](https://github.com/lucaslop)                        | --           | --                                                                             |
 | [Luis Gustavo Ferreira Marques](https://github.com/luisgfmarques)        | --           | --                                                                             |
 | [Mateus Cunha Maia](https://github.com/mateusmaiamaia)                   | --           | --                                                                             |
-| [Paulo Goncalves Lima](https://github.com/PauloGoncalvesLima)            | --           | --                                                                             |
+| [Paulo Goncalves Lima](https://github.com/PauloGoncalvesLima)            | Submenu de classificação, ajuda no menu geral.           | Boa                                                                             |
 | [Thalisson Alves Gonçalves de Jesus](https://github.com/Thalisson-Alves) | --           | --                                                                             |
 | [Victor Hugo Siqueira Costa](https://github.com/8ifq3)                   | --           | --                                                                             |
 
