@@ -134,7 +134,7 @@ Após escolher um dos filtros basta ajustar algum deles dentro de cada submenu e
 
 
 ### (i) Lições Aprendidas:
- Durante o módulo do paradigma lógico com Prolog, nos deparamos uma linguagem pouco conhecida, onde encontramos pouca documentação e poucas informações em fóruns. À medida que desenvolvíamos nosso projeto, surgiram várias dificuldades que não foram difíceis de resolver, pois o prolog não indicava tão claramente onde o erro estava ocorrendo.
+ Durante o módulo do paradigma lógico com Prolog, nos deparamos uma linguagem pouco conhecida, onde encontramos pouca documentação e poucas informações em fóruns. À medida que desenvolvíamos nosso projeto, surgiram várias dificuldades que  foram difíceis de resolver, pois o prolog não indicava tão claramente onde o erro estava ocorrendo. Mas com o passar do desenvolvimento, fomos assimilando as características do prolog e a forma de programar, também vale ressaltar o aprendizado que tivemos ao aprender a construir interfaces gráficas com prolog. 
 
 #### (ii) Percepções:
 
