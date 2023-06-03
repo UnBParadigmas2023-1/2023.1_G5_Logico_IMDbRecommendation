@@ -39,36 +39,82 @@ Paradigmas:
 
 ## Sobre
 
-O projeto tem como objetivo realizar a recomendação de filmes a partir das escolhas do usuario, utilizando o paradigma logico, os filmes são recomendados a partir de um banco de dados de filmes, que contem informações como genero, ano de lançamento, diretor, atores, etc,o usuario pode escolher a categoria de filmes que deseja assistir, e o sistema irá recomendar filmes que se encaixam nessa categoria, seja por genero, diretor, ator,ano de lançamento, arrecadação,classificação, etc.
+O projeto tem como objetivo realizar a recomendação de filmes com base nas escolhas do usuário, utilizando o paradigma lógico. Os filmes recomendados estão presentes em formato CSV dos Top 1000 filmes classificados por nota pelo IMDb. Esses dados foram convertidos para uma base em Prolog utilizando um script em Python. As informações, como gênero, duração, ano de lançamento, diretor, atores, classificação e arrecadação, são utilizadas como filtros para que o usuário possa refinar suas preferências. Com base no filtro escolhido, o software irá recomendar filmes que se encaixam na(s) preferência(s) do usuário.
 
 ## Screenshots
 
-Adicione 2 ou mais screenshots do projeto em termos de interface e/ou funcionamento.
+<div style="display: flex; flex-wrap: wrap;">
+  <div style="flex-basis: 50%; padding: 5px;">
+    <img src="../img/menu1.png" alt="menu1" width="300" height="300">
+  </div>
+  <div style="flex-basis: 50%; padding: 5px;">
+    <img src="../img/menu2.png" alt="menu2" width="300" height="300">
+  </div>
+  <div style="flex-basis: 50%; padding: 5px;">
+    <img src="../img/menu3.png" alt="menu3" width="300" height="300">
+  </div>
+  <div style="flex-basis: 50%; padding: 5px;">
+    <img src="../img/menu4.png" alt="menu4" width="300" height="300">
+  </div>
+  <div style="flex-basis: 50%; padding: 5px;">
+    <img src="../img/menu5.png" alt="menu5" width="300" height="300">
+  </div>
+  <div style="flex-basis: 50%; padding: 5px;">
+    <img src="../img/menu6.png" alt="menu6" width="300" height="300">
+  </div>
+</div>
+
 
 ## Instalação
 
 **Linguagens**: Prolog<br>
-**Tecnologias**: python,frame<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
-Insira um manual ou um script para auxiliar ainda mais.
-Gifs animados e outras ilustrações são bem-vindos!
+**Tecnologias**: SWI-Prolog<br>
+- Pré-Requisitos:
+    SWI Prolog
+
+### Instale o SWI Prolog
+
+#### Digite os comandos abaixo:
+  
+```
+sudo apt-add-repository ppa:swi-prolog/stable
+```
+```
+sudo apt-get update
+```
+
+```
+ sudo apt-get install swi-prolog
+```
+
+ Mais detalhes de instalação pode ser encontrados <a href="https://www.swi-prolog.org/download/stable">aqui</a>.
+
 
 ## Uso
 
-Explique como usar seu projeto.
-Procure ilustrar em passos, com apoio de telas do software, seja com base na interface gráfica, seja com base no terminal.
-Nessa seção, deve-se revelar de forma clara sobre o funcionamento do software.
+**Execução**: Na raiz do projeto execute:
+```
+swipl -s src/main.pl
+```
+Depois:
+```
+init.
+```
+Ao executar os comandos citados, uma tela de boas vindas  será exibida e ao clicar em "Iniciar" uma menu irá aparecer com as seguintes opções: <br>
+ - Filtro de filme por ano
+ - Filtro de filme por Duração
+ - Filtro de filme por Gênero
+ - Filtro de filme por Classificação
+ - Filtro de filme por Diretor
+ - Filtro de filme por Ator
+ - Filtro de filme por Arrecadação
+ - Filtro de filme por Geral
+
+Após escolher um dos filtros basta ajustar algum deles dentro de cada submenu e clicar no botão "Confirmar" e uma lista de recomendação de filmes será gerada. <br>
 
 ## Vídeo
 
-Adicione 1 ou mais vídeos com a execução do projeto.
-Procure:
-(i) Introduzir o projeto;
-(ii) Mostrar passo a passo o código, explicando-o, e deixando claro o que é de terceiros, e o que é contribuição real da equipe;
-(iii) Apresentar particularidades do Paradigma, da Linguagem, e das Tecnologias, e
-(iV) Apresentar lições aprendidas, contribuições, pendências, e ideias para trabalhos futuros.
-OBS: TODOS DEVEM PARTICIPAR, CONFERINDO PONTOS DE VISTA.
-TEMPO: +/- 15min
+<a href="https://www.youtube.com/watch?v=8LzxOdHXghs">Link da apresentação</a>
 
 ## Participações
 
@@ -86,13 +132,33 @@ TEMPO: +/- 15min
 
 ## Outros
 
-Quaisquer outras informações sobre o projeto podem ser descritas aqui. Não esqueça, entretanto, de informar sobre:
-(i) Lições Aprendidas;
-(ii) Percepções;
-(iii) Contribuições e Fragilidades, e
-(iV) Trabalhos Futuros.
+
+### (i) Lições Aprendidas:
+ Durante o módulo do paradigma lógico com Prolog, nos deparamos uma linguagem pouco conhecida, onde encontramos pouca documentação e poucas informações em fóruns. À medida que desenvolvíamos nosso projeto, surgiram várias dificuldades que não foram difíceis de resolver, pois o prolog não indicava tão claramente onde o erro estava ocorrendo.
+
+#### (ii) Percepções:
+
+Inicialmente, planejamos um tipo de jogo capaz de adivinhar diferentes tipos de comidas e animais. No entanto, ao começarmos a construir a base de dados, ficou claro que seria desafiador diferenciar entre os diversos tipos de comidas, uma vez que muitas delas possuem características semelhantes. O mesmo aconteceu com os animais, especialmente quando se tratava de espécies relacionadas ou com características comuns. Diante dessa situação, decidimos escolher outro tema e o recomendador de filmes surgiu como uma idéia interessante por já ter base de dados em CSV, que posteriormente foi convertida em uma base prolog.
+
+#### (iii) Contribuições e Fragilidades:
+
+Nosso projeto pode algumas fragilidades a serem consideradas. Essas fragilidades incluem possíveis limitações na precisão das recomendações, a escassez de dados proveniente de uma base desatualizada do IMDb, a dificuldade em lidar com preferências complexas dos usuários, eventuais limitações de desempenho durante o processamento, e a pouca de personalização  das recomendações. Também vale ressaltar possiveis fragilidades no que se refere a interface gráfica do prolog, que já é antiga.
+
+
+#### (iV) Trabalhos Futuros:
+Para trabalhos futuros podemos mencionar as melhorias na precisão das recomendações, incorporação de dados adicionais, personalização de filtros mais aprimorada, implementação de recursos mais interativos,possibilidade de analisar tendências e inferir recomendações com base em respostas do usuário para direcionar melhor para o filme que ele procura.
+
 
 ## Fontes
 
-Referencie, adequadamente, as referências utilizadas.
-Indique ainda sobre fontes de leitura complementares.
+> SWI-Prolog. User guide - XPCE, 2023. Disponível em: https://www.swi-prolog.org/download/xpce/doc/userguide/userguide.pdf. Acesso em: 29 mai. 2023.
+
+
+> SWI-Prolog. Manual. Disponível em: https://www.swi-prolog.org/pldoc/doc_for?object=manual. Acesso em: 30 mai. 2023.
+
+> Meidanis, J. Apostila de Prolog. Disponível em: https://www.ic.unicamp.br/~meidanis/courses/mc346/2017s2/prolog/apostila-prolog.pdf. Acesso em: 26 mai. 2023.
+
+> Derek Banas. Prolog Tutorial. Disponível em: https://www.youtube.com/watch?v=SykxWpFwMGs&t=480s. Acesso em: 29 mai. 2023.
+
+> Shankhdhar, H. (2021). IMDb Dataset of Top 1000 Movies and TV Shows [conjunto de dados]. Kaggle. Disponível em: https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows. Acesso em: 26 mai. 2023.
+
