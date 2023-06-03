@@ -45,22 +45,22 @@ O projeto tem como objetivo realizar a recomendação de filmes com base nas esc
 
 <div style="display: flex; flex-wrap: wrap;">
   <div style="flex-basis: 50%; padding: 5px;">
-    <img src="../img/menu1.png" alt="menu1" width="300" height="300">
+    <img src="https://raw.githubusercontent.com/UnBParadigmas2023-1/2023.1_G5_Logico_IMDbRecommendation/main/img/menu1.png" alt="menu1" width="300" height="300">
   </div>
   <div style="flex-basis: 50%; padding: 5px;">
-    <img src="../img/menu2.png" alt="menu2" width="300" height="300">
+    <img src="https://raw.githubusercontent.com/UnBParadigmas2023-1/2023.1_G5_Logico_IMDbRecommendation/main/img/menu2.png" alt="menu2" width="350" height="300">
   </div>
   <div style="flex-basis: 50%; padding: 5px;">
-    <img src="../img/menu3.png" alt="menu3" width="300" height="300">
+    <img src="https://raw.githubusercontent.com/UnBParadigmas2023-1/2023.1_G5_Logico_IMDbRecommendation/main/img/menu3.png" alt="menu3" width="350" height="300">
   </div>
   <div style="flex-basis: 50%; padding: 5px;">
-    <img src="../img/menu4.png" alt="menu4" width="300" height="300">
+    <img src="https://raw.githubusercontent.com/UnBParadigmas2023-1/2023.1_G5_Logico_IMDbRecommendation/main/img/menu4.png" alt="menu4" width="350" height="350">
   </div>
   <div style="flex-basis: 50%; padding: 5px;">
-    <img src="../img/menu5.png" alt="menu5" width="300" height="300">
+    <img src="https://raw.githubusercontent.com/UnBParadigmas2023-1/2023.1_G5_Logico_IMDbRecommendation/main/img/menu5.png" alt="menu5" width="400" height="300">
   </div>
   <div style="flex-basis: 50%; padding: 5px;">
-    <img src="../img/menu6.png" alt="menu6" width="300" height="300">
+    <img src="https://raw.githubusercontent.com/UnBParadigmas2023-1/2023.1_G5_Logico_IMDbRecommendation/main/img/menu6.png" alt="menu6" width="350" height="300">
   </div>
 </div>
 
@@ -122,7 +122,7 @@ Após escolher um dos filtros basta ajustar algum deles dentro de cada submenu e
 | ------------------------------------------------------------------------ | ------------ | ------------------------------------------------------------------------------ |
 | [Flávio Vieira Leão](https://github.com/flaviovl)                        | --           | --                                                                             |
 | [Gabrielle Ribeiro Gomes](https://github.com/Gabrielle-Ribeiro)          | --           | --                                                                             |
-| [Kayro César Silva Machado](https://github.com/kayrocesar)               | --           | --                                                                             |
+| [Kayro César Silva Machado](https://github.com/kayrocesar)               | Implementei a tela de boas vindas, menu principal, submenu ano e de ator. Também auxiliei na integração dos menus do projeto, além de ficar responsável pela gerência do grupo.          | Excelente                                                                             |
 | [Lucas Lopes Xavier](https://github.com/lucaslop)                        | Implementei o submenu de diretores e ajuda no menu          | Boa                                                                            |
 | [Luis Gustavo Ferreira Marques](https://github.com/luisgfmarques)        | --           | --                                                                             |
 | [Mateus Cunha Maia](https://github.com/mateusmaiamaia)                   | Implementei o submenu de arrecadação e ajudei na correção de outros menus.           | Boa                                                                             |
