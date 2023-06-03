@@ -128,7 +128,7 @@ Após escolher um dos filtros basta ajustar algum deles dentro de cada submenu e
 | [Mateus Cunha Maia](https://github.com/mateusmaiamaia)                   | Implementei o submenu de arrecadação e ajudei na correção de outros menus.           | Boa                                                                             |
 | [Paulo Goncalves Lima](https://github.com/PauloGoncalvesLima)            | Submenu de classificação, ajuda no menu geral.           | Boa                                                                             |
 | [Thalisson Alves Gonçalves de Jesus](https://github.com/Thalisson-Alves) | Implementei o script para popular a base de dados utilizada no prolog e ajudei na integração dos diferentes menus | Boa |
-| [Victor Hugo Siqueira Costa](https://github.com/8ifq3)                   | --           | --                                                                             |
+| [Victor Hugo Siqueira Costa](https://github.com/8ifq3)                   | Contribui na concepção da ideia do projeto, correção de bugs, instalação, fluxo de execução e pesquisas de documentação sobre o funcionamento do prolog + SWI. | Boa |
 
 ## Outros
 
