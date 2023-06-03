@@ -17,7 +17,7 @@ Paradigmas:
 
 (Apague esses comentários) -->
 
-# Imdb Recomendation
+# IMDb Recommendation
 
 **Disciplina**: FGA0210 - PARADIGMAS DE PROGRAMAÇÃO - T01 <br>
 **Nro do Grupo**: 05<br>
